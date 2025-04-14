@@ -1,26 +1,7 @@
 
-```{toctree}
----
-hidden: true
-includehidden: true
-titlesonly: true
----
-```
-
-![diler logo](../static/logo.png)
-
-
 # Welcome!
 
-````{margin}
-```{warning}
-These pages are currently under construction and will be updated continuously.
-Please visit these pages again in the next few weeks for further information.
-````
-
-Hello everyone and welcome to the course page for X
-
-## Course name
+Hello everyone and welcome to the course page for the Expra at Goethe University Frankfurt.
 
 Within this course we will explore X
 
