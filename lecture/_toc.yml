@@ -7,7 +7,7 @@ chapters:
 - file: general_information/setup
 - file: introduction/student-guide
 - file: content/intro_content
-  section:
+  sections:
   - file: content/literature
   - file: content/research-question
   - file: content/ethics
