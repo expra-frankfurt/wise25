@@ -2,7 +2,7 @@ root: general_information/index
 format: jb-book
 chapters:
 - file: general_information/overview
-- file: introduction/student-guide
+- file: general_information/student-guide
 - file: content/intro_content
 - file: content/research-question
 - file: content/literature
