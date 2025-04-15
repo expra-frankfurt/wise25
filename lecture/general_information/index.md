@@ -1,46 +1,60 @@
 
 # Welcome!
 
-Hello everyone and welcome to the course page for the Expra at Goethe University Frankfurt.
+Hello everyone and welcome to the course website for the EXPRA at Goethe University Frankfurt.
 
-Within this course we will explore X
+The “EXPRA” (German: Empirisch-experimentelles Praktikum) is a practical, hands-on seminar designed to teach you the theoretical and especially the practical aspects of psychological research.
 
-You can use the following sections to navigate through the content of the lecture:
+These pages provide essential information and additional resources for the various steps in the research process.
 
-* [Overview & procedure ](https://m-earnest.github.io/course_template_diler/general_information/overview.html)
+## Structure of this course website
 
-   What's this course all about? How are things implemented and supposed to work?
+**The course is structured as follows:**
 
-* [General outline](https://m-earnest.github.io/course_template_diler/general_information/outline.html)
+* [General information on the EXPRA](/student-guide)
 
-   What are the specific topics and aspects taught?
+   What are the goals of EXPRA, what do you need to do to pass the EXPRA, and so on.
 
-* [Introduction](https://m-earnest.github.io/course_template_diler/introduction/intro.html)
+* [Introduction to psychological reseach](../content/intro_content)
 
-   All things gotta start somewhere, but how?
+   What is an experiment and how does a typical research process look like?
 
-* [Content](https://m-earnest.github.io/course_template_diler/content/intro_content.html)
+* [Developing your research question](../content/research-question)
 
-   What is this course gonna contain?
+   How to develop a research question that is feasible and measurable?  
 
+* [Finding and managing literature](../content/literature)
+
+   Where to find relevant literature and how to organize it?
    
-* [Results communication](https://m-earnest.github.io/course_template_diler/general_information/results_communication.html)
+* [Ethical research and privacy policies](../content/ethics)
 
-   Where should the acquired knowledge to be disseminated?
+   What to consider ethically during the research process?
 
-* [Symposium](https://m-earnest.github.io/course_template_diler/general_information/symposium.html)
+* [Following Open Science](../content/open-science)
 
-   What to do about outreach and discourse creation?
+   What is Open Science and how can you implement open practices in your research process?
+
+* [Analyzing your data](../content/analysis)
+
+* [Scientific writing](../content/writing)
+
+   What a scientific paper looks like and what to consider when doing academic writing.
+
+* [Communicating your results](../content/communication) 
+
+   How to communicate your main results and create a scientific poster. 
+
+
 
 
 * [Diversity, Equity, Inclusion](https://m-earnest.github.io/course_template_diler/general_information/dei.html)
 
-   What to look out for, what to keep in mind and how to trear each other.
+   What to look out for, what to keep in mind and how to treat each other.
 
 * [Code of Conduct](https://m-earnest.github.io/course_template_diler/general_information/CoC.html)
 
-   Necessities for creating an open, fair, safe and inclusive learning
-   experience.
+   Necessities for creating an open, fair, safe and inclusive learning experience.
 
 ## I've got a question!
 
