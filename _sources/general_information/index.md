@@ -37,6 +37,8 @@ These pages provide essential information and additional resources for the vario
 
 * [Analyzing your data](../content/analysis)
 
+   Which steps to consider when analyzing your data with R.
+
 * [Scientific writing](../content/writing)
 
    What a scientific paper looks like and what to consider when doing academic writing.
