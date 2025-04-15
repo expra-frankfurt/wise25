@@ -1,4 +1,3 @@
-# Reviewing literature
+# Finding and managing literature
 
 
-## How to manage your literature
