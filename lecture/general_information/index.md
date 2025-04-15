@@ -15,7 +15,7 @@ These pages provide essential information and additional resources for the vario
 
    What are the goals of EXPRA, what do you need to do to pass the EXPRA, and so on.
 
-* [Introduction to psychological reseach](../content/intro_content)
+* [Introduction to psychological research](../content/intro_content)
 
    What is an experiment and how does a typical research process look like?
 
@@ -43,7 +43,7 @@ These pages provide essential information and additional resources for the vario
 
    What a scientific paper looks like and what to consider when doing academic writing.
 
-* [Communicating your results](../content/communication) 
+* [Communicating your findings](../content/communication) 
 
    How to communicate your main results and create a scientific poster. 
 
