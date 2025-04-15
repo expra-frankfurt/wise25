@@ -1,1 +1,1 @@
-# Finding your research question
+# Developing your research question
