@@ -31,10 +31,10 @@ These pages provide essential information and additional resources for the vario
 
    What to consider ethically during the research process?
 
-* [Following Open Science](../content/open-science)
+* [Embracing Open Science](../content/open-science)
 
-   What is Open Science and how can you implement open practices in your research process?
-
+   What is Open Science, why should its principles be followed, and how can open practices be implemented in the research process?
+  
 * [Analyzing your data](../content/analysis)
 
    Which steps to consider when analyzing your data with R.
