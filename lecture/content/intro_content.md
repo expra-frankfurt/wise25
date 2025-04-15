@@ -1,4 +1,4 @@
-# Introduction to psychological reseach
+# Introduction to psychological research
 
 
 ## Topics 
