@@ -10,7 +10,7 @@ chapters:
 - file: content/open-science
   sections:
   - file: content/preregistration
-  - file: content/LIFOS
+  - file: content/lifos
 - file: content/conducting
 - file: content/analysis
 - file: content/communication
