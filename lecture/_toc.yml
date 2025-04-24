@@ -5,7 +5,6 @@ chapters:
 - file: general_information/student-guide
   sections:
   - file: general_information/grading-criteria
-  - file: static/EXPRA_Grading_criteria.pdf
 - file: content/intro_content
 - file: content/research-question
 - file: content/literature
