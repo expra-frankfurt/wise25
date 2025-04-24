@@ -1,4 +1,4 @@
-# General information about EXPRA
+# General Information About EXPRA
 
 As EXPRA begins, we strongly recommend that you read the following information.
 
