@@ -1,1 +1,1 @@
-# Developing your research question
+# Research Questions, Operationalization, and Hypotheses
