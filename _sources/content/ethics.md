@@ -1,1 +1,1 @@
-# Ethical research and privacy policies
+# Ethical Standards and Data Privacy
