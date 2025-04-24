@@ -15,5 +15,7 @@ Here you will find the criteria that will be used for grading your EXPRA report:
 
 <embed src="../static/EXPRA_Grading_criteria.pdf" width="100%" height="600px" type="application/pdf">
 
-![alternative_imagetext](../static/EXPRA_Grading_criteria.pdf)
 
+<a href="https://luciebinder.github.io/expra/lecture/static/EXPRA_Grading_criteria.pdf" target="_blank">
+  <img src="preview-image.jpg" alt="PDF anzeigen" style="width:100%; max-width:600px;">
+</a>
