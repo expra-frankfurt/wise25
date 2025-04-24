@@ -2,5 +2,5 @@
 
 Here are the criteria that will be used for grading your EXPRA report:
 
-<embed src="../_static/EXPRA_Grading_criteria.pdf" width="100%" height="80vh" type="application/pdf">
+<embed src="../_static/EXPRA_Grading_criteria.pdf" width="100%" height="800px" type="application/pdf">
 
