@@ -28,4 +28,4 @@ https://raw.githubusercontent.com/luciebinder/expra/refs/heads/main/lecture/stat
 
 <object data="../static/EXPRA_Grading_criteria.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-<a href="../static/EXPRA_Grading_criteria.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<a href="../static/EXPRA_Grading_criteria.pdf" class="image fit"><img src="../static/EXPRA_Grading_criteria.pdf" alt=""></a>
