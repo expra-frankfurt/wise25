@@ -1,6 +1,6 @@
 # Grading Criteria
 
-Here you will find the criteria that will be used for grading your EXPRA report: [Grading criteria](../static/EXPRA_Grading_criteria.pdf)
+Here you will find the criteria that will be used for grading your EXPRA report: [Grading criteria](../static/EXPRA_Grading_criteria.pdf) 
 
 <iframe src="https://github.com/luciebinder/expra/blob/main/static/EXPRA_Grading_criteria.pdf?raw=true" width="100%" height="600px"></iframe>
 
