@@ -8,8 +8,16 @@ chapters:
 - file: content/literature
 - file: content/ethics
 - file: content/open-science
+  sections:
+  - file: content/preregistration
+  - file: content/LIFOS
+- file: content/conducting
 - file: content/analysis
-- file: content/writing
 - file: content/communication
+    sections:
+    - file: content/poster
+    - file: content/visualization
+    - file: content/presentation
+    - file: content/writing
 - file: general_information/CoC
 - file: general_information/dei
