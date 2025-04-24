@@ -1,4 +1,4 @@
-# Embracing Open Science
+# Open Science Principles and Practices
 
 
 ## How to preregister your study
