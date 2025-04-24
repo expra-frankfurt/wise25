@@ -142,8 +142,7 @@ figures, etc.)!
 submitted as a separate file along with the EXPRA report), and
 - a signed (!) declaration of originality on the last page of the report (see below).
 
-<font color='red'>To make grading of the EXPRA reports transparent, the grading criteria are attached to this
-document.</font>
+To make grading of the EXPRA reports transparent, you will find the grading criteria [here](grading-criteria).
 
 **The deadline for submitting the EXPRA reports is four weeks after the poster session.**
 The exact date will be announced by your supervisor.
