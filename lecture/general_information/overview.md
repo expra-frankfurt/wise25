@@ -2,9 +2,57 @@
 
 Detailed explanation of what the course is about,
 
-list of content chapter
-- 
-- 
+## Structure of this course website
+
+**The course is structured as follows:**
+
+* [General information on the EXPRA](/student-guide)
+
+   What are the goals of EXPRA, what do you need to do to pass the EXPRA, and so on.
+
+* [Introduction to psychological research](../content/intro_content)
+
+   What is an experiment and how does a typical research process look like?
+
+* [Developing your research question](../content/research-question)
+
+   How to develop a research question that is feasible and measurable?  
+
+* [Finding and managing literature](../content/literature)
+
+   Where to find relevant literature and how to organize it?
+   
+* [Ethical research and privacy policies](../content/ethics)
+
+   What to consider ethically during the research process?
+
+* [Embracing Open Science](../content/open-science)
+
+   What is Open Science, why should its principles be followed, and how can open practices be implemented in the research process?
+  
+* [Analyzing your data](../content/analysis)
+
+   Which steps to consider when analyzing your data with R.
+
+* [Scientific writing](../content/writing)
+
+   What a scientific paper looks like and what to consider when doing academic writing.
+
+* [Communicating your findings](../content/communication) 
+
+   How to communicate your main results and create a scientific poster. 
+
+
+
+
+* [Diversity, Equity, Inclusion](https://m-earnest.github.io/course_template_diler/general_information/dei.html)
+
+   What to look out for, what to keep in mind and how to treat each other.
+
+* [Code of Conduct](https://m-earnest.github.io/course_template_diler/general_information/CoC.html)
+
+   Necessities for creating an open, fair, safe and inclusive learning experience.
+
 
 How you want to go about teaching.
 
