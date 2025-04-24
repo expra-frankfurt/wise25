@@ -1,4 +1,4 @@
-# Course overview & procedure
+# Course Overview & Procedure
 
 Detailed explanation of what the course is about,
 
