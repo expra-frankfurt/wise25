@@ -1,1 +1,1 @@
-# Scientific writing
+# Scientific Writing
