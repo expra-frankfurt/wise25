@@ -6,42 +6,38 @@ Detailed explanation of what the course is about,
 
 **The course is structured as follows:**
 
-* [General information on the EXPRA](/student-guide)
+* [General Information About EXPRA](/student-guide)
 
    What are the goals of EXPRA, what do you need to do to pass the EXPRA, and so on.
 
-* [Introduction to psychological research](../content/intro_content)
+* [Research Questions, Operationalization, and Hypotheses](../content/intro_research)
 
-   What is an experiment and how does a typical research process look like?
+   How to develop a research question that is feasible and measurable?   
 
-* [Developing your research question](../content/research-question)
-
-   How to develop a research question that is feasible and measurable?  
-
-* [Finding and managing literature](../content/literature)
+* [Literature Search and Reference Management](../content/literature)
 
    Where to find relevant literature and how to organize it?
    
-* [Ethical research and privacy policies](../content/ethics)
+* [Ethical Standards and Data Privacy](../content/ethics)
 
    What to consider ethically during the research process?
 
-* [Embracing Open Science](../content/open-science)
+* [Open Science Principles and Practices](../content/open-science)
 
    What is Open Science, why should its principles be followed, and how can open practices be implemented in the research process?
-  
-* [Analyzing your data](../content/analysis)
+
+* [Conducting Experimental Sessions](../content/conducting)
+
+   What to consider when conducting experiments (debriefing, instructions, SONA).
+
+* [Data Analysis](../content/analysis)
 
    Which steps to consider when analyzing your data with R.
 
-* [Scientific writing](../content/writing)
+* [Research Communication and Presentation](../content/communication)
 
-   What a scientific paper looks like and what to consider when doing academic writing.
-
-* [Communicating your findings](../content/communication) 
-
-   How to communicate your main results and create a scientific poster. 
-
+   All about poster presentation and scientific writing.
+  
 
 
 
