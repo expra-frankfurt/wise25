@@ -1,9 +1,9 @@
 # Course Overview
 
-## Who contributes which section?
+## Who is contributing which section?
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT5iQLhcUifhUrpBD1enidtDh8mVprYnbMUwyNwJUzUUO3VlA4sRkljbBzIxgfa0HPdn523SfhJtdr9/pubhtml?gid=0&single=true" width="600" height="400"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT5iQLhcUifhUrpBD1enidtDh8mVprYnbMUwyNwJUzUUO3VlA4sRkljbBzIxgfa0HPdn523SfhJtdr9/pubhtml?gid=0&single=true" width="500" height="500"></iframe>
 
 
 ## Structure of This Course Website
