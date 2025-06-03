@@ -1,13 +1,5 @@
 # Course Overview
 
-## Who is contributing which section?
-
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT5iQLhcUifhUrpBD1enidtDh8mVprYnbMUwyNwJUzUUO3VlA4sRkljbBzIxgfa0HPdn523SfhJtdr9/pubhtml?gid=0&single=true" width="500" height="500"></iframe>
-
-Please update the list via this link: [https://docs.google.comspreadsheets/d/1lorMb-dBCmKpYRCBuek_RoisihEonyj3j_7Wyi9KSys](https://docs.google.comspreadsheets/d/1lorMb-dBCmKpYRCBuek_RoisihEonyj3j_7Wyi9KSys/edit?usp=sharing)
-
-   
 ## Structure of This Course Website
 
 **The course is structured as follows:**
@@ -53,4 +45,3 @@ Additionally:
 * [Diversity, Equity, Inclusion](/dei)
 
    What to look out for, what to keep in mind and how to treat each other.
-
