@@ -4,8 +4,10 @@
 
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT5iQLhcUifhUrpBD1enidtDh8mVprYnbMUwyNwJUzUUO3VlA4sRkljbBzIxgfa0HPdn523SfhJtdr9/pubhtml?gid=0&single=true" width="500" height="500"></iframe>
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT5iQLhcUifhUrpBD1enidtDh8mVprYnbMUwyNwJUzUUO3VlA4sRkljbBzIxgfa0HPdn523SfhJtdr9/pubhtml?widget=true&amp;headers=false" width="500" height="500"</iframe>
 
+Please update the list via this link: [https://docs.google.comspreadsheets/d/1lorMb-dBCmKpYRCBuek_RoisihEonyj3j_7Wyi9KSys](https://docs.google.comspreadsheets/d/1lorMb-dBCmKpYRCBuek_RoisihEonyj3j_7Wyi9KSys/edit?usp=sharing)
+
+   
 ## Structure of This Course Website
 
 **The course is structured as follows:**
