@@ -6,7 +6,7 @@
 #######################################################################################
 # Book settings
 title                       : "Expra Course 2025/2026"  # The title of the book. Will be placed in the left navbar.
-author                      : Lucie Binder, ... based on the Gorella template by Peer Herholz, José C. García Alanis, Christoph Vogelbacher  # The author of the book
+author                      : [Include authors] based on the Gorella template by Peer Herholz, José C. García Alanis, Christoph Vogelbacher  # The author of the book
 copyright                   : "2025"  # Copyright year to be placed in the footer
 logo                        : ""  # A path to the book logo
 exclude_patterns            : []  # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
