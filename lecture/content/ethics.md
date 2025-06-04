@@ -7,7 +7,7 @@ Participants are individuals. Participants give you their valuable time.
 
 Treat them with care and respect!
 
-## Treatment of participants. 
+## Treatment of participants
 ✓ **Voluntary** participation, no pressure whatsoever!
 -	Noone feels obliged to participate. There is **no monitoring** of those who refuse to participate. 
 -	Do not investigate children, patients, elderly, or other groups with **enhanced vulnerabilities** without consent of the ethics committee. 
