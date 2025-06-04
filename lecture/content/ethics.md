@@ -1,3 +1,12 @@
+<style>
+p:has(+ ul) {
+  margin-bottom: 0;
+}
+p + ul {
+  margin-top: 0;
+}
+</style>
+
 # Ethical Standards and Data Privacy
 
 ## Why is ethics important? 
