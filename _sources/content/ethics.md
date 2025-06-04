@@ -6,10 +6,10 @@ p + ul {
   margin-top: 0.5em;
 }
 p:has(+ ol) {
-  margin-bottom: 0;
+  margin-bottom: 0.5em;
 }
 p + ol {
-  margin-top: 0;
+  margin-top: 0.5em;
 }
 </style>
 
