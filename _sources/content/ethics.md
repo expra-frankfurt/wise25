@@ -5,6 +5,12 @@ p:has(+ ul) {
 p + ul {
   margin-top: 0;
 }
+p:has(+ ol) {
+  margin-bottom: 0;
+}
+p + ol {
+  margin-top: 0;
+}
 </style>
 
 # Ethical Standards and Data Privacy
