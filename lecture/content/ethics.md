@@ -1,9 +1,9 @@
 <style>
 p:has(+ ul) {
-  margin-bottom: 0;
+  margin-bottom: 1;
 }
 p + ul {
-  margin-top: 0;
+  margin-top: 1;
 }
 p:has(+ ol) {
   margin-bottom: 0;
