@@ -48,9 +48,9 @@ Here are entirely fictional, but still realistic, examples of some bad things th
 
 → This is a case where deception did the damage. If you deceive participants about personally relevant information, you are well advised to have a committee of ethical advisors check whether
 
-        1. Your study goals cannot be achieved without deception.
-        2. Your procedures ensure that your participants are carefully and fully debriefed (monitor this fact with an extra question that participants need to answer!). 
-        3. You invite participants to leave questions and concerns, in person or anonymously; and to get in touch with you for further discussion and information.  
+1. Your study goals cannot be achieved without deception.
+2. Your procedures ensure that your participants are carefully and fully debriefed (monitor this fact with an extra question that participants need to answer!). 
+3. You invite participants to leave questions and concerns, in person or anonymously; and to get in touch with you for further discussion and information.  
 
 > You perform a mood induction procedure in your experiment using the IAPS. In the “sadness” condition, participant see a picture of a cross on a hill and hear sad music. One participant who had just lost their son breaks down and cannot stop crying right in front of you.
 
