@@ -4,7 +4,7 @@ Let's rip one band-aid off right away: the current scientific and academic syste
 
 You might think: "Why should I care and what does it have to do with me? I just want to study.". Well, even though you might not be (knowingly) affected, someone you know most likely will be and it will take all of us to change this for the better. In order to become aware of the systemic problems and issues others are facing and take corresponding actions, one needs to be able to make informed decisions based on a broad foundation of knowledge and this needs to be enabled asap. 
 
-While we will talk about [#DEI](https://twitter.com/hashtag/DEI?src=hashtag_click) during the course it obviously won't be enough and additionally mostly limited to the experience and insights of the instructor. Thus, please take the time and effort to delve into this crucial topic by checking the resources linked below and utilizing them as a starting point. Please note that these things will be frequently updated. If you stumble across something that should be included, please contact the instructor so that it can be added.     
+Please take the time and effort to delve into this crucial topic by checking the resources linked below and utilizing them as a starting point. Please note that these things will be frequently updated. If you stumble across something that should be included, please contact the instructor so that it can be added.     
 
 
 ## Overview materials & introduction to DEI
@@ -59,12 +59,6 @@ A very informative resource that allows to explore "intersectional inequalities"
 
 <iframe width="560" height="315" src="https://sciencebias.uni.lu/app/ " title="sciencebias" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
-
-### workshops
-
-TBA
 
 ### other material
 
