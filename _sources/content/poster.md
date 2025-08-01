@@ -58,7 +58,7 @@ p + ol {
 ````{tip}
 ```{figure} ../_static/wh-questions.png
 ---
-scale: 50%
+scale: 80%
 align: right
 ---
 ```
@@ -93,7 +93,8 @@ Wh-Questions to help structure your poster:
   -	font colour should strongly contrast with the background (dark colours on a bright background are the easiest to read)
 -	posters are typically in portrait format; DIN A0 (118.8 x 84.1cm) is the standard size in the ExPra, DIN A1 (84.1 x 59.4cm) may be used elsewhere
 -	visual hierarchy guides the viewer´s attention, ensuring that key elements are seen first and the reading flow is intuitive rather than confusing (https://www.youtube.com/watch?v=4x0SLtCVFho)   
-![alt-text-1](visual-guidance1.png) ![alt-text-2](visual-guidance2.png)
+
+![alt-text-1](../_static/visual-guidance1.png) ![alt-text-2](../_static/visual-guidance2.png)
 
 ### Read me – ensuring readability & comprehensibility 
 (following ISEK, 2014; Studierwerkstatt an der Universität Bremen, o. D.)
@@ -105,6 +106,16 @@ Wh-Questions to help structure your poster:
 
 ![Image that visualizes an optimal text vs. image ratio: 50% text, 40% images, 20% free space](text-image-ratio.png)
 
+-	text formatting: short, continuous text rather than bullet points or long paragraphs
+-	font choice: sans-serif fonts (e.g. Arial, Calibri) are easier to read from a distance than serif fonts
+-	font size: poster should be readable from a distance of up to 3 meters, therefore also use large line spacing (at least 6-7 mm) 
+  - orientation aids for font sizes:
+    - DIN A0: main heading 85-100 pt, subheading 50 pt, body text 28-32 pt
+    - DIN A1: main heading 60 pt, body text 20-24 pt
+    - references typically in a much smaller font size  
+      ![A comic image that shows a person who stands in front of a poster. The space between them is defined as 1 to 3 metres.](poster-size.png)
+
+      
 
 
 
