@@ -150,7 +150,7 @@ Wh-Questions to help structure your poster:
 -	If using a program like PowerPoint, immediately set the correct poster size when you start the file. 
 -	Process and optimize images before inserting them into the poster (e.g., using image editing software).
 
-```{Tools & technical setup}
+```{admonition}
 	**Tools & technical setup:**
 - Tools / Software: PowerPoint, Canva, Google Slides, Inkscape, MS Publisher etc.
 - Format: here DIN A0 (84,1 x 118,9 cm), typically in portrait format  
