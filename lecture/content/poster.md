@@ -56,7 +56,7 @@ p + ol {
 -	cite all literature to avoid plagiarism (APA format)
 
 ````{tip}
-```{figure} ../_static/wh-questions.jpg
+```{figure} ../_static/wh-questions.png
 ---
 scale: 50%
 align: right
@@ -80,7 +80,8 @@ Wh-Questions to help structure your poster:
 
 > The following always applies to the design: avoid superfluous and disruptive elements (Studierwerkstatt an der Universität Bremen, o. D.).
 
-### Look at me – attracting attention & first impression (ISEK, 2014)
+### Look at me – attracting attention & first impression 
+(following ISEK, 2014)
 > The initial impression is crucial, with the first 10 seconds often determining if your poster generates interest (Burkhardt et al., 2017).
 -	divide poster into sections such as title, introduction, methodological background, results, discussion and references
 -	white space is crucial to loosen up the poster & prevent overload
@@ -93,6 +94,30 @@ Wh-Questions to help structure your poster:
 -	posters are typically in portrait format; DIN A0 (118.8 x 84.1cm) is the standard size in the ExPra, DIN A1 (84.1 x 59.4cm) may be used elsewhere
 -	visual hierarchy guides the viewer´s attention, ensuring that key elements are seen first and the reading flow is intuitive rather than confusing (https://www.youtube.com/watch?v=4x0SLtCVFho)   
 ![alt-text-1](visual-guidance1.png) ![alt-text-2](visual-guidance2.png)
+
+### Read me – ensuring readability & comprehensibility 
+(following ISEK, 2014; Studierwerkstatt an der Universität Bremen, o. D.)
+
+> The aim is for viewers to grasp a lot at a glance with minimal reading. The less text required for understanding, the clearer your poster will be (Burkhardt et al., 2017; ISEK, 2014).
+
+- content reduction: condense information to core statements & highlight results
+-	text vs. image ratio: rule of thumb = 50% images & 50% text
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
