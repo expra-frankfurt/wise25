@@ -95,8 +95,11 @@ Wh-Questions to help structure your poster:
   -	font colour should strongly contrast with the background (dark colours on a bright background are the easiest to read)
 -	posters are typically in portrait format; DIN A0 (118.8 x 84.1cm) is the standard size in the ExPra, DIN A1 (84.1 x 59.4cm) may be used elsewhere
 -	visual hierarchy guides the viewer´s attention, ensuring that key elements are seen first and the reading flow is intuitive rather than confusing (https://www.youtube.com/watch?v=4x0SLtCVFho)   
-
-<img src="../_static/visual-guidance1.png" alt="" width="200"/> <img src="(../_static/visual-guidance2.png" alt="" width="200"/> 
+<p align="center">
+  <img alt="" src="../_static/visual-guidance1.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="" src="../_static/visual-guidance2.png" width="45%">
+</p>
 
 ### Read me – ensuring readability & comprehensibility 
 (following ISEK, 2014; Studierwerkstatt an der Universität Bremen, o. D.)  
