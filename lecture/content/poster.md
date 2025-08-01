@@ -103,6 +103,7 @@ Wh-Questions to help structure your poster:
 - content reduction: condense information to core statements & highlight results
 -	text vs. image ratio: rule of thumb = 50% images & 50% text
 
+![Image that visualizes an optimal text vs. image ratio: 50% text, 40% images, 20% free space](text-image-ratio.png)
 
 
 
