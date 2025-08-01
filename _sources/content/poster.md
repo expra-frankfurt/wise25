@@ -94,7 +94,7 @@ Wh-Questions to help structure your poster:
 -	posters are typically in portrait format; DIN A0 (118.8 x 84.1cm) is the standard size in the ExPra, DIN A1 (84.1 x 59.4cm) may be used elsewhere
 -	visual hierarchy guides the viewer´s attention, ensuring that key elements are seen first and the reading flow is intuitive rather than confusing (https://www.youtube.com/watch?v=4x0SLtCVFho)   
 
-<img src="../_static/visual-guidance1.png" alt="" width="425"/> <img src="(../_static/visual-guidance2.png" alt="" width="425"/> 
+<img src="../_static/visual-guidance1.png" alt="" width="200"/> <img src="(../_static/visual-guidance2.png" alt="" width="200"/> 
 
 ### Read me – ensuring readability & comprehensibility 
 (following ISEK, 2014; Studierwerkstatt an der Universität Bremen, o. D.)
@@ -147,13 +147,13 @@ Wh-Questions to help structure your poster:
 
 ```{Tools & technical setup}
 	**Tools & technical setup:**
--	Tools / Software: PowerPoint, Canva, Google Slides, Inkscape, MS Publisher etc.
--	Format: here DIN A0 (84,1 x 118,9 cm), typically in portrait format
-If using PowerPoint, immediately set the correct poster size when you start the file (Entwurf -> Foliengröße -> benutzerdefiniert). 
--	Graphics & Tables: sufficient size & quality (min. 200dpi or 800x600 pixles) of graphics, avoid tables if they would be more than a few rows / columns 
--	QR Codes: possible to provide a link to download the poster as a pdf & to link further materials that can be found e.g. on LIFOS (https://me-qr.com/de/ or https://www.the-qrcode-generator.com/ )
--	Alignment: align figures, text, sections, etc.
-If using PowerPoint set gridlines to be visible (Ansicht -> Anzeigen -> Gitternetzlinien) & look for the red and blue horizontal / vertical lines linking objects during drag & drop.
+- Tools / Software: PowerPoint, Canva, Google Slides, Inkscape, MS Publisher etc.
+- Format: here DIN A0 (84,1 x 118,9 cm), typically in portrait format  
+_If using PowerPoint, immediately set the correct poster size when you start the file (Entwurf -> Foliengröße -> benutzerdefiniert)._ 
+- Graphics & Tables: sufficient size & quality (min. 200dpi or 800x600 pixles) of graphics, avoid tables if they would be more than a few rows / columns 
+- QR Codes: possible to provide a link to download the poster as a pdf & to link further materials that can be found e.g. on LIFOS (https://me-qr.com/de/ or https://www.the-qrcode-generator.com/ )
+- Alignment: align figures, text, sections, etc.  
+_If using PowerPoint set gridlines to be visible (Ansicht -> Anzeigen -> Gitternetzlinien) & look for the red and blue horizontal / vertical lines linking objects during drag & drop._
 ```
 
 **4.	Finalizing the poster**
