@@ -20,6 +20,7 @@ p + ol {
 
 ## Why are _good_ scientific posters important? 
 (following Burkhardt et al, 2017)
+
 -	Visual Communication & Simplification: Posters serve as a visual aid to clearly present complex scientific information and summarize research results concisely.
 -	Discussion & Scientific Exchange: Their primary purpose is to stimulate discussions and encourage viewers to interact with the presenter.
 -	Fundamental Competence: The ability to present one’s project understandably is an essential competence in academic studies and professional scientific fields. 
@@ -30,6 +31,7 @@ p + ol {
 
 ### Structure 
 (following Burkhardt et al., 2017; ISEK, 2014)
+
 **1.	Title & Authorship**
 -	capture viewer’s attention
 -	title = meaningful, attractive, concentrating on the project’s core message, formulated as a question or clear statement 
@@ -63,7 +65,7 @@ align: right
 ---
 ```
 
-Wh-Questions to help structure your poster: 
+Wh-Questions to help structure your poster:  
 (Studierwerkstatt an der Universität Bremen, o. D.)
 -	WHO investigates
 -	WHAT
@@ -81,7 +83,7 @@ Wh-Questions to help structure your poster:
 > The following always applies to the design: avoid superfluous and disruptive elements (Studierwerkstatt an der Universität Bremen, o. D.).
 
 ### Look at me – attracting attention & first impression 
-(following ISEK, 2014)
+(following ISEK, 2014)  
 > The initial impression is crucial, with the first 10 seconds often determining if your poster generates interest (Burkhardt et al., 2017).
 -	divide poster into sections such as title, introduction, methodological background, results, discussion and references
 -	white space is crucial to loosen up the poster & prevent overload
@@ -97,12 +99,12 @@ Wh-Questions to help structure your poster:
 <img src="../_static/visual-guidance1.png" alt="" width="200"/> <img src="(../_static/visual-guidance2.png" alt="" width="200"/> 
 
 ### Read me – ensuring readability & comprehensibility 
-(following ISEK, 2014; Studierwerkstatt an der Universität Bremen, o. D.)
+(following ISEK, 2014; Studierwerkstatt an der Universität Bremen, o. D.)  
 
 > The aim is for viewers to grasp a lot at a glance with minimal reading. The less text required for understanding, the clearer your poster will be (Burkhardt et al., 2017; ISEK, 2014).
 
 - content reduction: condense information to core statements & highlight results
--	text vs. image ratio: rule of thumb = 50% images & 50% text
+- text vs. image ratio: rule of thumb = 50% images & 50% text
 
 ![Image that visualizes an optimal text vs. image ratio: 50% text, 40% images, 20% free space](text-image-ratio.png)
 
@@ -126,7 +128,7 @@ Wh-Questions to help structure your poster:
 
 
 ## Step-by-step guide of creating a scientific poster 
-(following Burkhardt et al, 2017; ISEK, 2014; Studierwerkstatt an der Universität Bremen, o. D.)
+(following Burkhardt et al, 2017; ISEK, 2014; Studierwerkstatt an der Universität Bremen, o. D.)  
 
 **1.	Planning the work process**
 -	Familiarize yourself with the design requirements & purpose of scientific poster. Plan your workflow by outlining what needs to be completed and by when.
@@ -156,15 +158,15 @@ _If using PowerPoint, immediately set the correct poster size when you start the
 _If using PowerPoint set gridlines to be visible (Ansicht -> Anzeigen -> Gitternetzlinien) & look for the red and blue horizontal / vertical lines linking objects during drag & drop._
 ```
 
-**4.	Finalizing the poster**
-•	Carefully review your poster to ensure that all aspects have been addressed.
-o	Content level: Is the content complete and correct?
-o	Structural level: Is the structure of the poster logical and comprehensible?
-o	Linguistic level: Are the formulations precise and scientific?
-o	Design level: Is the design appropriate (e.g. choice of colors)? Are graphics or images used and arranged sensibly? Is everything easy to read?
-o	Formal level: Have the formal design specifications been implemented? Is the literature cited correctly? Is the spelling and punctuation correct?
-•	If necessary, test the readability of your poster on your computer by viewing the document at its actual print size before sending it to print.
-•	Always perform a test print, even on a smaller scale (e.g., A4 paper), as printed colours often differ from those displayed on a scree
+**4. Finalizing the poster**
+- Carefully review your poster to ensure that all aspects have been addressed.
+	- Content level: Is the content complete and correct?
+   	-  Structural level: Is the structure of the poster logical and comprehensible?
+	- Linguistic level: Are the formulations precise and scientific?
+	- Design level: Is the design appropriate (e.g. choice of colors)? Are graphics or images used and arranged sensibly? Is everything easy to read?
+	- Formal level: Have the formal design specifications been implemented? Is the literature cited correctly? Is the spelling and punctuation correct?
+- If necessary, test the readability of your poster on your computer by viewing the document at its actual print size before sending it to print.
+- Always perform a test print, even on a smaller scale (e.g., A4 paper), as printed colours often differ from those displayed on a scree
 
 
 
