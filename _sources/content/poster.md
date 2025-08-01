@@ -64,7 +64,7 @@ Wh-Questions to help structure your poster:
 -	on WHICH basis?                             
 ```
 
-```{figure} ../images/wh-questions.jpg
+```{figure} ../_static/wh-questions.jpg
 ---
 scale: 50%
 align: right
