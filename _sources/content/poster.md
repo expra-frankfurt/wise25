@@ -138,17 +138,33 @@ Wh-Questions to help structure your poster:
 
 ![A comic image that shows different ways of how to structure a poster. The heading is: Wie ist ein wissenschaftliches Poster aufgebaut? Von der Studienwekstatt der Universität Bremen.](../_static/poster-structure.png)
 
+-	When determining the final content, extract the core statements from your findings. A useful technique is to categorize information into "Need to know", "Good to know" and "Nice to know", prioritizing the "Need to know" information as it is crucial for understanding.
+-	Emphasize your results, not the methods used.
 
+**3.	Create a draft of the poster**
+-	If using a program like PowerPoint, immediately set the correct poster size when you start the file. 
+-	Process and optimize images before inserting them into the poster (e.g., using image editing software).
 
+```{Tools & technical setup}
+	**Tools & technical setup:**
+-	Tools / Software: PowerPoint, Canva, Google Slides, Inkscape, MS Publisher etc.
+-	Format: here DIN A0 (84,1 x 118,9 cm), typically in portrait format
+If using PowerPoint, immediately set the correct poster size when you start the file (Entwurf -> Foliengröße -> benutzerdefiniert). 
+-	Graphics & Tables: sufficient size & quality (min. 200dpi or 800x600 pixles) of graphics, avoid tables if they would be more than a few rows / columns 
+-	QR Codes: possible to provide a link to download the poster as a pdf & to link further materials that can be found e.g. on LIFOS (https://me-qr.com/de/ or https://www.the-qrcode-generator.com/ )
+-	Alignment: align figures, text, sections, etc.
+If using PowerPoint set gridlines to be visible (Ansicht -> Anzeigen -> Gitternetzlinien) & look for the red and blue horizontal / vertical lines linking objects during drag & drop.
+```
 
-
-
-
-
-
-•	When determining the final content, extract the core statements from your findings. A useful technique is to categorize information into "Need to know", "Good to know" and "Nice to know", prioritizing the "Need to know" information as it is crucial for understanding.
-•	Emphasize your results, not the methods used.
-
+**4.	Finalizing the poster**
+•	Carefully review your poster to ensure that all aspects have been addressed.
+o	Content level: Is the content complete and correct?
+o	Structural level: Is the structure of the poster logical and comprehensible?
+o	Linguistic level: Are the formulations precise and scientific?
+o	Design level: Is the design appropriate (e.g. choice of colors)? Are graphics or images used and arranged sensibly? Is everything easy to read?
+o	Formal level: Have the formal design specifications been implemented? Is the literature cited correctly? Is the spelling and punctuation correct?
+•	If necessary, test the readability of your poster on your computer by viewing the document at its actual print size before sending it to print.
+•	Always perform a test print, even on a smaller scale (e.g., A4 paper), as printed colours often differ from those displayed on a scree
 
 
 
