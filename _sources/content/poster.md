@@ -58,7 +58,7 @@ p + ol {
 ````{tip}
 ```{figure} ../_static/wh-questions.png
 ---
-scale: 80%
+scale: 120%
 align: right
 ---
 ```
@@ -94,7 +94,7 @@ Wh-Questions to help structure your poster:
 -	posters are typically in portrait format; DIN A0 (118.8 x 84.1cm) is the standard size in the ExPra, DIN A1 (84.1 x 59.4cm) may be used elsewhere
 -	visual hierarchy guides the viewer´s attention, ensuring that key elements are seen first and the reading flow is intuitive rather than confusing (https://www.youtube.com/watch?v=4x0SLtCVFho)   
 
-![alt-text-1](../_static/visual-guidance1.png) ![alt-text-2](../_static/visual-guidance2.png)
+<img src="../_static/visual-guidance1.png" alt="" width="425"/> <img src="(../_static/visual-guidance2.png" alt="" width="425"/> 
 
 ### Read me – ensuring readability & comprehensibility 
 (following ISEK, 2014; Studierwerkstatt an der Universität Bremen, o. D.)
@@ -113,12 +113,41 @@ Wh-Questions to help structure your poster:
     - DIN A0: main heading 85-100 pt, subheading 50 pt, body text 28-32 pt
     - DIN A1: main heading 60 pt, body text 20-24 pt
     - references typically in a much smaller font size  
-      ![A comic image that shows a person who stands in front of a poster. The space between them is defined as 1 to 3 metres.](poster-size.png)
+      ![A comic image that shows a person who stands in front of a poster. The space between them is defined as 1 to 3 metres.](../_static/poster-size.png)
 
+-	visual flow: information is read from top left to bottom right & important elements should be placed as centrally as possible, at eye level
+-	graphics & illustrations: self-explanatory & relevant, described in a short legend & not within flowing text, avoid complicated formulas, ensure sufficient image quality (min. 200dpi or 800x600 pixels)
       
 
+### Ask me
+> Design your poster to encourage viewers to engage with you (Burkhardt et al., 2017).
+- sense of suspense, e.g. by designing the introduction so that the results appear surprising
+- comparison with contrasting results could stimulate discussion 
 
 
+## Step-by-step guide of creating a scientific poster 
+(following Burkhardt et al, 2017; ISEK, 2014; Studierwerkstatt an der Universität Bremen, o. D.)
+
+**1.	Planning the work process**
+-	Familiarize yourself with the design requirements & purpose of scientific poster. Plan your workflow by outlining what needs to be completed and by when.
+-	Allocate sufficient time for the professional printing of your poster.
+
+**2.	Developing content for the poster**
+-	Translate your research findings into a poster-friendly format.
+-	You may start by sketching your ideas on paper to visualize the arrangement of content elements 
+
+![A comic image that shows different ways of how to structure a poster. The heading is: Wie ist ein wissenschaftliches Poster aufgebaut? Von der Studienwekstatt der Universität Bremen.](../_static/poster-structure.png)
+
+
+
+
+
+
+
+
+
+•	When determining the final content, extract the core statements from your findings. A useful technique is to categorize information into "Need to know", "Good to know" and "Nice to know", prioritizing the "Need to know" information as it is crucial for understanding.
+•	Emphasize your results, not the methods used.
 
 
 
