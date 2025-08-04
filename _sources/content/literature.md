@@ -93,7 +93,7 @@ You can remove an alert, by going to the Scholar menu, clicking **Alerts**, and 
 
 Researchers will often put together and maintain their own Google Scholar profile page. This can be useful if you want to see what other work a researcher has been doing. One easy way to get to a researcher's Google Scholar profile, is by clicking their name:
 
-<img src="../_static/google_scholar_profile.png" alt"Image of a Google scholar result, with one author name (right under the title) highlighted, and an image of the google scholar profile of the author that lists all related titles of that person." width="500 px">
+<img src="../_static/google_scholar_profile.png" alt="Image of a Google scholar result, with one author name (right under the title) highlighted, and an image of the google scholar profile of the author that lists all related titles of that person." width="500 px">
 
 #### Extra Tips
 
@@ -257,7 +257,7 @@ Some tools can use natural language processing (NLP) techniques to extract infor
 
 These methods are far from perfect (e.g., sometimes combining conditions, participants, or analyses that don't make sense together), but can be useful as a first look into neuroimaging literature for a certain effect.
 
-<img src="../_static/neuroquery.png" width="600px">
+<img src="../_static/neuroquery.png" alt="Image of the result interface of neuroquery with an image of brain activity on the right side" width="600px">
 
 You can also export the list of papers and include them in your notes/research.
 
@@ -269,7 +269,7 @@ Two platforms for this are:
 
 An approach you might find useful when reading literature, is to connect the articles you are reading to each other and your own work in a mind map.
 
-<img src="../_static/mindmap_example.png" width="500 px">
+<img src="../_static/mindmap_example.png" alt="Image of a mindmap with our study in the middle surrounded by connected references." width="500 px">
 
 This can help remind you where all the different articles fit in, and can help you structure your report when it comes time to write everything up.
 
