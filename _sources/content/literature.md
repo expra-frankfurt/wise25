@@ -39,15 +39,15 @@ With Zotero, you can create "collections" for each course or research project yo
 
 Zotero provides [Zotero Connector](https://www.zotero.org/download/) - a plugin for your browser that lets you save articles directly to Zotero with just one click:
 
-<iframe src="../_static/zotero_connector.gif" width="500 px">
+<iframe src="../_static/zotero_connector.gif" width="500 px"></iframe>
 
 Zotero will usually also save the pdf file for you. In case it doesn't, you can tell it to download the article for you.
 
-<iframe src="../_static/zotero_find_pdf.gif" width="500 px">
+<iframe src="../_static/zotero_find_pdf.gif" width="500 px"></iframe>
 
 You can read pdfs directly in Zotero, and save notes so you can easily come back to them later.
 
-<iframe src="../_static/zotero_comments.gif" width="500 px">
+<iframe src="../_static/zotero_comments.gif" width="500 px"></iframe>
 
 -----------------------------
 
@@ -63,7 +63,7 @@ Google Scholar is a popular tool for researchers, students, and academics, as it
 
 You can use the search bar to enter keywords and other search terms, and there are extra filters for refining your results. 
 
-<img src="../_static/google_scholar.png">
+<img src="../_static/google_scholar.png" alt="An image showing a screenshot of a google scholar search result. On the left side it is highlighted in red, where you can filter the results by date, sort the results by relevance or date, change type of results, add an alert. Under one reference, it is highlighted in red, where to click if you want to generate a reference and how to check who cited this title">
 <br>
 <br>
 
