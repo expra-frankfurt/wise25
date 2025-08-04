@@ -6,7 +6,7 @@ There are lots of ways to find and organise literature. A simple Google Scholar 
 
 In this session, we will cover:
 
-- How to manage literature
+- [How to manage literature](#how-to-manage-literature:-zotero)
 
 - [Search engines for literature](#search-engines-for-literature)
     - Using [Google Scholar](#google-scholar), [Web Of Science](#web-of-science), [PubMed](#pubmed)
