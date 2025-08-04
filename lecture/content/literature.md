@@ -35,7 +35,7 @@ An important first step is to make sure you have a way of keeping track of all t
 
 With Zotero, you can create "collections" for each course or research project you complete in your degree. You can do this by right clicking your library (on the left), and clicking *New Collection*. You could name this "ExPra".
 
-<img src="../_static/zotero_new_collection.png" alt="Image of the options that are listed when you click on "My Library" on the upper left side. One option is "New collection." >
+<img src="../_static/zotero_new_collection.png" alt="Image of the options that are listed when you click on My Library on the upper left side. One option is New collection." >
 
 Zotero provides [Zotero Connector](https://www.zotero.org/download/) - a plugin for your browser that lets you save articles directly to Zotero with just one click:
 
@@ -77,7 +77,7 @@ On the google scholar results page, you can:
 
 Click on the `3 Bars` in the top right, next to the search bar, to reveal the Scholar menu. Here, you can select advanced search, which will open a pop-up looking like this:
 
-<img src="../_static/google_scholar_advanced_search.png" width="500 px">
+<img src="../_static/google_scholar_advanced_search.png" alt="Image of the advanced search interface." width="500 px">
 
 This allows you to match phrases either in the title or text, exclude phrases, and filter by author, publication, and year range.
 
