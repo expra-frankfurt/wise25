@@ -35,19 +35,19 @@ An important first step is to make sure you have a way of keeping track of all t
 
 With Zotero, you can create "collections" for each course or research project you complete in your degree. You can do this by right clicking your library (on the left), and clicking *New Collection*. You could name this "ExPra".
 
-<img src="../_static/zotero_new_collection.png">
+<img src="../_static/zotero_new_collection.png" alt="Image of the options that are listed when you click on "My Library" on the upper left side. One option is "New collection." >
 
 Zotero provides [Zotero Connector](https://www.zotero.org/download/) - a plugin for your browser that lets you save articles directly to Zotero with just one click:
 
-<img src="../_static/zotero_connector.gif" width="500 px">
+<iframe src="../_static/zotero_connector.gif" width="500 px">
 
 Zotero will usually also save the pdf file for you. In case it doesn't, you can tell it to download the article for you.
 
-<img src="../_static/zotero_find_pdf.gif" width="500 px">
+<iframe src="../_static/zotero_find_pdf.gif" width="500 px">
 
 You can read pdfs directly in Zotero, and save notes so you can easily come back to them later.
 
-<img src="../_static/zotero_comments.gif" width="500 px">
+<iframe src="../_static/zotero_comments.gif" width="500 px">
 
 -----------------------------
 
