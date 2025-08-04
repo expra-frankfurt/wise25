@@ -39,15 +39,15 @@ With Zotero, you can create "collections" for each course or research project yo
 
 Zotero provides [Zotero Connector](https://www.zotero.org/download/) - a plugin for your browser that lets you save articles directly to Zotero with just one click:
 
-<iframe src="../_static/zotero_connector.gif" width="500 px"></iframe>
+<img src="../_static/zotero_connector.gif" width="500 px" >
 
 Zotero will usually also save the pdf file for you. In case it doesn't, you can tell it to download the article for you.
 
-<iframe src="../_static/zotero_find_pdf.gif" width="500 px"></iframe>
+<iframe src="../_static/zotero_find_pdf.gif" width="500" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 You can read pdfs directly in Zotero, and save notes so you can easily come back to them later.
 
-<iframe src="../_static/zotero_comments.gif" width="500 px"></iframe>
+!(alttext)[../_static/zotero_comments.gif]
 
 -----------------------------
 
@@ -85,7 +85,7 @@ This allows you to match phrases either in the title or text, exclude phrases, a
 
 You can also click on **Create alert** to set up E-mail notifications when new literature comes out that fits your search term. This can be very useful while working on, e.g., a thesis!
 
-<img src="../_static/google_scholar_alert.png" width="300 px">
+<img src="../_static/google_scholar_alert.png" alt="Image of the alert interface, in which you can enter you search term." width="300 px">
 
 You can remove an alert, by going to the Scholar menu, clicking **Alerts**, and clicking the **Cancel** button.
 
@@ -93,7 +93,7 @@ You can remove an alert, by going to the Scholar menu, clicking **Alerts**, and 
 
 Researchers will often put together and maintain their own Google Scholar profile page. This can be useful if you want to see what other work a researcher has been doing. One easy way to get to a researcher's Google Scholar profile, is by clicking their name:
 
-<img src="../_static/google_scholar_profile.png" width="500 px">
+<img src="../_static/google_scholar_profile.png" alt"Image of a Google scholar result, with one author name (right under the title) highlighted, and an image of the google scholar profile of the author that lists all related titles of that person." width="500 px">
 
 #### Extra Tips
 
