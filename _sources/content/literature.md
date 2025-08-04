@@ -39,7 +39,9 @@ With Zotero, you can create "collections" for each course or research project yo
 
 Zotero provides [Zotero Connector](https://www.zotero.org/download/) - a plugin for your browser that lets you save articles directly to Zotero with just one click:
 
-<img src="../_static/zotero_connector.gif" width="500 px" >
+<img src="images/zotero_connector.gif" width="500 px">
+<img src="../_static/zotero_connector.gif" width="500 px">
+
 
 Zotero will usually also save the pdf file for you. In case it doesn't, you can tell it to download the article for you.
 
