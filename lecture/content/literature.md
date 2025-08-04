@@ -35,19 +35,19 @@ An important first step is to make sure you have a way of keeping track of all t
 
 With Zotero, you can create "collections" for each course or research project you complete in your degree. You can do this by right clicking your library (on the left), and clicking *New Collection*. You could name this "ExPra".
 
-<img src="images/zotero_new_collection.png">
+<img src="../_static/zotero_new_collection.png">
 
 Zotero provides [Zotero Connector](https://www.zotero.org/download/) - a plugin for your browser that lets you save articles directly to Zotero with just one click:
 
-<img src="images/zotero_connector.gif" width="500 px">
+<img src="../_static/zotero_connector.gif" width="500 px">
 
 Zotero will usually also save the pdf file for you. In case it doesn't, you can tell it to download the article for you.
 
-<img src="images/zotero_find_pdf.gif" width="500 px">
+<img src="../_static/zotero_find_pdf.gif" width="500 px">
 
 You can read pdfs directly in Zotero, and save notes so you can easily come back to them later.
 
-<img src="images/zotero_comments.gif" width="500 px">
+<img src="../_static/zotero_comments.gif" width="500 px">
 
 -----------------------------
 
@@ -63,7 +63,7 @@ Google Scholar is a popular tool for researchers, students, and academics, as it
 
 You can use the search bar to enter keywords and other search terms, and there are extra filters for refining your results. 
 
-<img src="images/google_scholar.png">
+<img src="../_static/google_scholar.png">
 <br>
 <br>
 
@@ -77,7 +77,7 @@ On the google scholar results page, you can:
 
 Click on the `3 Bars` in the top right, next to the search bar, to reveal the Scholar menu. Here, you can select advanced search, which will open a pop-up looking like this:
 
-<img src="images/google_scholar_advanced_search.png" width="500 px">
+<img src="../_static/google_scholar_advanced_search.png" width="500 px">
 
 This allows you to match phrases either in the title or text, exclude phrases, and filter by author, publication, and year range.
 
@@ -85,7 +85,7 @@ This allows you to match phrases either in the title or text, exclude phrases, a
 
 You can also click on **Create alert** to set up E-mail notifications when new literature comes out that fits your search term. This can be very useful while working on, e.g., a thesis!
 
-<img src="images/google_scholar_alert.png" width="300 px">
+<img src="../_static/google_scholar_alert.png" width="300 px">
 
 You can remove an alert, by going to the Scholar menu, clicking **Alerts**, and clicking the **Cancel** button.
 
@@ -93,7 +93,7 @@ You can remove an alert, by going to the Scholar menu, clicking **Alerts**, and 
 
 Researchers will often put together and maintain their own Google Scholar profile page. This can be useful if you want to see what other work a researcher has been doing. One easy way to get to a researcher's Google Scholar profile, is by clicking their name:
 
-<img src="images/google_scholar_profile.png" width="500 px">
+<img src="../_static/google_scholar_profile.png" width="500 px">
 
 #### Extra Tips
 
@@ -109,7 +109,7 @@ The [Web of Science](https://www.webofscience.com/wos/) is a powerful online dat
 
 Web of Science has some very useful search options, including citation searching, author searching, filtering by research field, and finding articles that also share their data.
 
-<img src="images/web_of_science_search.png" width="500 px">
+<img src="../_static/web_of_science_search.png" width="500 px">
 
 Useful resources:
 * [Youtube: Web of Science training](https://www.youtube.com/@WoSTraining/videos)
@@ -127,7 +127,7 @@ Useful resources:
 
 Like Web of Science, PubMed has some useful options for filtering results to focus on the most relevant results.
 
-<img src="images/pubmed.png" width="500 px">
+<img src="../_static/pubmed.png" width="500 px">
 
 Useful resources:
 * [Pubmed User Guide](https://www.ncbi.nlm.nih.gov/pmc/about/userguide/)
@@ -222,7 +222,7 @@ You can then filter the results to identify the most relevant articles.
 
 Here is an example of what that looks like in google scholar:
 
-<img src="images/google_scholar_cited_search.png" width="750 px">
+<img src="../_static/google_scholar_cited_search.png" width="750 px">
 
 ------------------------------
 
@@ -235,7 +235,7 @@ As well as the search engine approaches above, there are also some helpful tools
 
 Inciteful ([inciteful.xyz](https://inciteful.xyz/)) is a free tool for making forward and backward search easier. It creates a network of papers based on which papers are citing each other. It also provides a list of similar articles, based on the logic that papers that cite many of the same sources are likely to be related in topic too.
 
-<img src="images/inciteful.png" width="500px">
+<img src="../_static/inciteful.png" width="500px">
 
 If you use Zotero, there is a handy plugin for quickly looking up a paper on inciteful: https://github.com/inciteful-xyz/inciteful-zotero-plugin
 
@@ -257,7 +257,7 @@ Some tools can use natural language processing (NLP) techniques to extract infor
 
 These methods are far from perfect (e.g., sometimes combining conditions, participants, or analyses that don't make sense together), but can be useful as a first look into neuroimaging literature for a certain effect.
 
-<img src="images/neuroquery.png" width="600px">
+<img src="../_static/neuroquery.png" width="600px">
 
 You can also export the list of papers and include them in your notes/research.
 
@@ -269,7 +269,7 @@ Two platforms for this are:
 
 An approach you might find useful when reading literature, is to connect the articles you are reading to each other and your own work in a mind map.
 
-<img src="images/mindmap_example.png" width="500 px">
+<img src="../_static/mindmap_example.png" width="500 px">
 
 This can help remind you where all the different articles fit in, and can help you structure your report when it comes time to write everything up.
 
