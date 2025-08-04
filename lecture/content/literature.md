@@ -47,7 +47,7 @@ Zotero will usually also save the pdf file for you. In case it doesn't, you can 
 
 You can read pdfs directly in Zotero, and save notes so you can easily come back to them later.
 
-!(alttext)[../_static/zotero_comments.gif]
+![alttext](../_static/zotero_comments.gif)
 
 -----------------------------
 
@@ -109,7 +109,7 @@ The [Web of Science](https://www.webofscience.com/wos/) is a powerful online dat
 
 Web of Science has some very useful search options, including citation searching, author searching, filtering by research field, and finding articles that also share their data.
 
-<img src="../_static/web_of_science_search.png" width="500 px">
+<img src="../_static/web_of_science_search.png" alt="Image of the interface where to enter search specifications on the web of science website" width="500 px">
 
 Useful resources:
 * [Youtube: Web of Science training](https://www.youtube.com/@WoSTraining/videos)
@@ -127,7 +127,7 @@ Useful resources:
 
 Like Web of Science, PubMed has some useful options for filtering results to focus on the most relevant results.
 
-<img src="../_static/pubmed.png" width="500 px">
+<img src="../_static/pubmed.png" alt="Image of the result list on pupmed." width="500 px">
 
 Useful resources:
 * [Pubmed User Guide](https://www.ncbi.nlm.nih.gov/pmc/about/userguide/)
@@ -222,7 +222,7 @@ You can then filter the results to identify the most relevant articles.
 
 Here is an example of what that looks like in google scholar:
 
-<img src="../_static/google_scholar_cited_search.png" width="750 px">
+<img src="../_static/google_scholar_cited_search.png" alt="Image of the list of results on google scholar, that are sorted by relevance" width="750 px">
 
 ------------------------------
 
@@ -235,7 +235,7 @@ As well as the search engine approaches above, there are also some helpful tools
 
 Inciteful ([inciteful.xyz](https://inciteful.xyz/)) is a free tool for making forward and backward search easier. It creates a network of papers based on which papers are citing each other. It also provides a list of similar articles, based on the logic that papers that cite many of the same sources are likely to be related in topic too.
 
-<img src="../_static/inciteful.png" width="500px">
+<img src="../_static/inciteful.png" alt="Image of a network of paper, created by inciteful." width="500px">
 
 If you use Zotero, there is a handy plugin for quickly looking up a paper on inciteful: https://github.com/inciteful-xyz/inciteful-zotero-plugin
 
