@@ -1,10 +1,8 @@
 # Poster Presentation
 
-:::{admonition} 
-:class: note
-
+```{note}
 A poster without a presentation is no poster at all! Your presentation serves as a concise “commercial” for your own scientific work and the topic you have addressed (ISEK, 2014).
-:::
+```
 
 ## Why is a _good_ presentation of your poster important? <small>(Burkhardt et al, 2017; Erren & Bourne, 2007; ISEK, 2014)</small>
 - Discussion & Scientific Exchange: The primary purpose of your presentation is to stimulate discussions and encourage viewers to ask potential questions.
