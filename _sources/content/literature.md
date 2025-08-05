@@ -292,4 +292,4 @@ They give 10 questions that you should ask yourself while reading a paper:
 
 ### Do you have to read everything?
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRiFDRgQ8x6ZRaYK26u0DzC4zq-pypROVz0zTl9lFTRGZldqe7AI6umpgK3_xw0Be2kJoarqzLJiC6r/pubembed?start=false&loop=false" frameborder="0" width="80vw" height="45vw" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRiFDRgQ8x6ZRaYK26u0DzC4zq-pypROVz0zTl9lFTRGZldqe7AI6umpgK3_xw0Be2kJoarqzLJiC6r/pubembed?start=false&loop=false" frameborder="0" width="400vw" height="200vw" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
