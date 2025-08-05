@@ -1,6 +1,6 @@
 # Poster Presentation
 
-```{note}
+```{important}
 A poster without a presentation is no poster at all! Your presentation serves as a concise “commercial” for your own scientific work and the topic you have addressed (ISEK, 2014).
 ```
 
