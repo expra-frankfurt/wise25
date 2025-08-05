@@ -86,7 +86,7 @@ The following always applies to the design: avoid superfluous and disruptive ele
 
 ### Look at me – attracting attention & first impression 
 (following [ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf))  
-> The initial impression is crucial, with the first 10 seconds often determining if your poster generates interest ([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf)).
+The initial impression is crucial, with the first 10 seconds often determining if your poster generates interest ([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf)).  
 -	divide poster into sections such as title, introduction, methodological background, results, discussion and references
 -	white space is crucial to loosen up the poster & prevent overload
 -	frames around text boxes are not necessary (if used, they should be fine lines, as bold ones may appear narrowing)
@@ -141,6 +141,28 @@ Design your poster to encourage viewers to engage with you ([Burkhardt et al., 2
 -	You may start by sketching your ideas on paper to visualize the arrangement of content elements 
 
 ![A comic image that shows different ways of how to structure a poster. The heading is: Wie ist ein wissenschaftliches Poster aufgebaut? Von der Studienwekstatt der Universität Bremen.](../_static/poster-structure.png)
+
+
+<div align="center">
+
+  <img src="../_static/poster-structure1.png" alt="Illustration of a poster with typical boxes for introduction, method, results, and so on." width="30%">
+  &nbsp;
+  <img src="../_static/poster-structure2.png" alt="Illustration of a standard poster with arrows representing the reading direction from left to right." width="30%">
+  &nbsp;
+  <img src="../_static/poster-structure3.png" alt="Illustration of a standard poster with arrows representing the reading direction from up to down." width="30%">
+
+  <br>
+  <img src="../_static/poster-structure4.png" alt="Illustration of a standard poster with numbered boxes from 1 to 6." width="30%">
+  &nbsp;
+  <img src="../_static/poster-structure5.png" alt="Illustration of a poster with a central box and additional information branching outwards." width="30%">
+  &nbsp;
+  <img src="../_static/poster-structure6.png" alt="Poster illustration with four elements linked in a circular sequence." width="30%">
+
+  <p style="margin-top: 10px; font-style: italic;">
+    [Studierwerkstatt an der Universität Bremen, o. D.](https://www.uni-bremen.de/fileadmin/user_upload/sites/studierwerkstatt/Leitfaden_wissenschaftliche_Poster_erstellen.pdf)
+  </p>
+
+</div>
 
 -	When determining the final content, extract the core statements from your findings. A useful technique is to categorize information into "Need to know", "Good to know" and "Nice to know", prioritizing the "Need to know" information as it is crucial for understanding.
 -	Emphasize your results, not the methods used.
