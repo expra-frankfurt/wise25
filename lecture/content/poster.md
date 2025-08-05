@@ -209,15 +209,21 @@ _For more information watch [https://www.youtube.com/watch?v=SYk29tnxASs](https:
 
 ![Image of an example poster by Forberich et al. with a lot of text.](../_static/poster-example1.png)  
 
+
 ![Image of another example poster of Adebesin et al. with a lot of text.](../_static/poster-example2.jpg)  
+
 
 ![Image of an example poster by Braun et al. with a remarkable background.](../_static/poster-example3.jpg)  
 
+
 ![Image of an example poster by Hernandez Bark et al.](../_static/poster-example4.png)  
+
 
 ![Image of an example betterposter by Morrison et al.](../_static/poster-example5.png)  
 
+
 ![Image of an example betterposter by Kelsey Pino.](../_static/poster-example6.png)  
+
 
 ![Image of an example betterposter by Ed Hawkins.](../_static/poster-example7.png)  
 
@@ -225,11 +231,17 @@ _For more information watch [https://www.youtube.com/watch?v=SYk29tnxASs](https:
 
 ## Literature
 Burkhardt, C., Meyer-Heydecke, N., & Stahlberg, N. (2017). Das wissenschaftliche Poster. Technische Universität Hamburg. https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf  
+
 ISEK (2014). Zum Poster in Wissenschaft und Lehre. Institut Sozialanthropologie und Empirische Kulturwissenschaft – Universität Zürich. https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf   
+
 Mike Morrison, PhD. (2019, 25. März). How to create a better research poster in less time (#betterposter Generation 1) [Video]. YouTube. https://www.youtube.com/watch?v=1RwJbhkCA58  
+
 Mike Morrison, PhD. (2020, 13. Juli). How to create a better research poster in less time (#betterposter Generation 2) [Video]. YouTube. https://www.youtube.com/watch?v=SYk29tnxASs   
+
 Morrison, M. (2019). betterposter-template-landscape [PowerPoint slides]. Open Science Framework. https://osf.io/6ua4k    
+
 Morrison, M. (2021). powerpoint-slides-you-can-teach-posters-with [PowerPoint slides]. Open Science Framework. https://osf.io/taq2f  
+
 Studierwerkstatt an der Universität Bremen. (o. D.). Wissenschaftliche Poster erstellen – ein kleiner Leitfaden. https://www.uni-bremen.de/fileadmin/user_upload/sites/studierwerkstatt/Leitfaden_wissenschaftliche_Poster_erstellen.pdf   
 
 
