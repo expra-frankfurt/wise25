@@ -231,11 +231,13 @@ _For more information watch [https://www.youtube.com/watch?v=SYk29tnxASs](https:
 
 <img src="../_static/poster-example3.jpg" alt="Image of an example poster by Braun et al. with a remarkable background." width="500 px">  
 
-<br>
+<br><br>
+
 
 <img src="../_static/poster-example4.png" alt="Image of an example poster by Hernandez Bark et al." width="500 px">  
 
-<br>
+<br><br>
+
 
 ![Image of an example betterposter by Morrison et al.](../_static/poster-example5.png)  
 
