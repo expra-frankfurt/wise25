@@ -98,9 +98,9 @@ The following always applies to the design: avoid superfluous and disruptive ele
 -	posters are typically in portrait format; DIN A0 (118.8 x 84.1cm) is the standard size in the ExPra, DIN A1 (84.1 x 59.4cm) may be used elsewhere
 -	visual hierarchy guides the viewer´s attention, ensuring that key elements are seen first and the reading flow is intuitive rather than confusing (https://www.youtube.com/watch?v=4x0SLtCVFho)   
 <p align="center">
-  <img alt="" src="../_static/visual-guidance1.png" height="45%">
+  <img alt="" src="../_static/visual-guidance1.png" height="50">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="" src="../_static/visual-guidance2.png" height="45%">
+  <img alt="" src="../_static/visual-guidance2.png" height="100">
 </p>
 
 ### Read me – ensuring readability & comprehensibility 
