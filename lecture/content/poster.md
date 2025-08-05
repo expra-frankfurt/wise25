@@ -159,7 +159,7 @@ Design your poster to encourage viewers to engage with you ([Burkhardt et al., 2
   <img src="../_static/poster-structure6.png" alt="Poster illustration with four elements linked in a circular sequence." width="30%">
 
   <p style="margin-top: 10px; font-style: italic;">
-    [Studierwerkstatt an der Universität Bremen, o. D.](https://www.uni-bremen.de/fileadmin/user_upload/sites/studierwerkstatt/Leitfaden_wissenschaftliche_Poster_erstellen.pdf)
+    <a href="https://www.uni-bremen.de/fileadmin/user_upload/sites/studierwerkstatt/Leitfaden_wissenschaftliche_Poster_erstellen.pdf">Studierwerkstatt an der Universität Bremen, o. D.</a>
   </p>
 
 </div>
