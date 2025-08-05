@@ -18,8 +18,7 @@ p + ol {
 When creating your poster, remember: **a good poster doesn´t follow a recipe, it follows a purpose**. There is **no rigid blueprint** for a scientific poster, but a clear structure is essential to present complex content understandably ([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf)).
 
 
-## Why are _good_ scientific posters important? [^ref]
-(following [Burkhardt et al, 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf))
+## Why are _good_ scientific posters important? <small>([Burkhardt et al, 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf))</small>
 
 -	Visual Communication & Simplification: Posters serve as a visual aid to clearly present complex scientific information and summarize research results concisely.
 -	Discussion & Scientific Exchange: Their primary purpose is to stimulate discussions and encourage viewers to interact with the presenter.
@@ -81,8 +80,7 @@ Wh-Questions to help structure your poster:
 -	on WHICH basis?                             
 ````
 
-## Design principles – 3 levels of engagement 
-(following Alean-Kirkpatrick, 2002a, 2002b, as cited in [Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf))
+## Design principles – 3 levels of engagement <small>(Alean-Kirkpatrick, 2002a, 2002b, as cited in [Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf))</small>
 
 The following always applies to the design: avoid superfluous and disruptive elements ([Studierwerkstatt an der Universität Bremen, o. D.](https://www.uni-bremen.de/fileadmin/user_upload/sites/studierwerkstatt/Leitfaden_wissenschaftliche_Poster_erstellen.pdf)).
 
@@ -105,8 +103,7 @@ The initial impression is crucial, with the first 10 seconds often determining i
   <img alt="" src="../_static/visual-guidance2.png" width="45%">
 </p>
 
-### Read me – ensuring readability & comprehensibility 
-(following [ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf); [Studierwerkstatt an der Universität Bremen, o. D.](https://www.uni-bremen.de/fileadmin/user_upload/sites/studierwerkstatt/Leitfaden_wissenschaftliche_Poster_erstellen.pdf))  
+### Read me – ensuring readability & comprehensibility <small>([ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf); [Studierwerkstatt an der Universität Bremen, o. D.](https://www.uni-bremen.de/fileadmin/user_upload/sites/studierwerkstatt/Leitfaden_wissenschaftliche_Poster_erstellen.pdf))</small>
 
 The aim is for viewers to grasp a lot at a glance with minimal reading. The less text required for understanding, the clearer your poster will be ([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf); [ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf)).
 
@@ -131,8 +128,7 @@ Design your poster to encourage viewers to engage with you ([Burkhardt et al., 2
 - comparison with contrasting results could stimulate discussion 
 
 
-## Step-by-step guide of creating a scientific poster 
-(following [Burkhardt et al, 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf); ISEK, 2014; Studierwerkstatt an der Universität Bremen, o. D.)  
+## Step-by-step guide of creating a scientific poster <small>([Burkhardt et al, 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf); [ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf); [Studierwerkstatt an der Universität Bremen, o. D.](https://www.uni-bremen.de/fileadmin/user_upload/sites/studierwerkstatt/Leitfaden_wissenschaftliche_Poster_erstellen.pdf))<small>
 
 **1.	Planning the work process**
 -	Familiarize yourself with the design requirements & purpose of scientific poster. Plan your workflow by outlining what needs to be completed and by when.
@@ -193,8 +189,7 @@ _If using PowerPoint set gridlines to be visible (Ansicht -> Anzeigen -> Gittern
 
 
 
-## Excursus: Rethinking poster designs with #BetterPoster 
-(following [Mike Morrison, PhD, 2019](https://www.youtube.com/watch?v=1RwJbhkCA58); [Morrison, PhD, 2020](https://www.youtube.com/watch?v=SYk29tnxASs))
+## Excursus: Rethinking poster designs with #BetterPoster <small>([Mike Morrison, PhD, 2019](https://www.youtube.com/watch?v=1RwJbhkCA58); [Morrison, PhD, 2020](https://www.youtube.com/watch?v=SYk29tnxASs))</small>
 
 > _A poster that successfully communicates one thing is better than a poster that fails to communicate a thousand things._ ([Mike Morrison, PhD, 2020](https://www.youtube.com/watch?v=SYk29tnxASs))
 
