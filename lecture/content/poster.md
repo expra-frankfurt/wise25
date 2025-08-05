@@ -140,9 +140,6 @@ Design your poster to encourage viewers to engage with you ([Burkhardt et al., 2
 -	Translate your research findings into a poster-friendly format.
 -	You may start by sketching your ideas on paper to visualize the arrangement of content elements 
 
-![A comic image that shows different ways of how to structure a poster. The heading is: Wie ist ein wissenschaftliches Poster aufgebaut? Von der Studienwekstatt der Universität Bremen.](../_static/poster-structure.png)
-
-
 <div align="center">
 
   <img src="../_static/poster-structure1.png" alt="Illustration of a poster with typical boxes for introduction, method, results, and so on." width="30%">
