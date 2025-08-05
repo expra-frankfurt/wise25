@@ -230,21 +230,27 @@ _For more information watch [https://www.youtube.com/watch?v=SYk29tnxASs](https:
 ![Image of an example poster by Forberich et al. with a lot of text.](../_static/poster-example1.png)  
 
 <br>
+
 ![Image of another example poster of Adebesin et al. with a lot of text.](../_static/poster-example2.jpg)  
 
 <br>
+
 <img src="../_static/poster-example3.jpg" alt="Image of an example poster by Braun et al. with a remarkable background." width="500 px">  
 
 <br>
+
 <img src="../_static/poster-example4.png" alt="Image of an example poster by Hernandez Bark et al." width="500 px">  
 
 <br>
+
 ![Image of an example betterposter by Morrison et al.](../_static/poster-example5.png)  
 
 <br>
+
 ![Image of an example betterposter by Kelsey Pino.](../_static/poster-example6.png)  
 
 <br>
+
 ![Image of an example betterposter by Ed Hawkins.](../_static/poster-example7.png)  
 
 
