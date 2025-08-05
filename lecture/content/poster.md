@@ -15,7 +15,7 @@ p + ol {
 
 # Poster Design
 
-> When creating your poster, remember: **a good poster doesn´t follow a recipe, it follows a purpose**. There is **no rigid blueprint** for a scientific poster, but a clear structure is essential to present complex content understandably ([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf)).
+When creating your poster, remember: **a good poster doesn´t follow a recipe, it follows a purpose**. There is **no rigid blueprint** for a scientific poster, but a clear structure is essential to present complex content understandably ([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf)).
 
 
 ## Why are _good_ scientific posters important? 
@@ -82,7 +82,7 @@ Wh-Questions to help structure your poster:
 ## Design principles – 3 levels of engagement 
 (following Alean-Kirkpatrick, 2002a, 2002b, as cited in [Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf))
 
-> The following always applies to the design: avoid superfluous and disruptive elements ([Studierwerkstatt an der Universität Bremen, o. D.](https://www.uni-bremen.de/fileadmin/user_upload/sites/studierwerkstatt/Leitfaden_wissenschaftliche_Poster_erstellen.pdf)).
+The following always applies to the design: avoid superfluous and disruptive elements ([Studierwerkstatt an der Universität Bremen, o. D.](https://www.uni-bremen.de/fileadmin/user_upload/sites/studierwerkstatt/Leitfaden_wissenschaftliche_Poster_erstellen.pdf)).
 
 ### Look at me – attracting attention & first impression 
 (following [ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf))  
@@ -106,7 +106,7 @@ Wh-Questions to help structure your poster:
 ### Read me – ensuring readability & comprehensibility 
 (following [ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf); [Studierwerkstatt an der Universität Bremen, o. D.](https://www.uni-bremen.de/fileadmin/user_upload/sites/studierwerkstatt/Leitfaden_wissenschaftliche_Poster_erstellen.pdf))  
 
-> _The aim is for viewers to grasp a lot at a glance with minimal reading. The less text required for understanding, the clearer your poster will be_.([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf); [ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf))
+The aim is for viewers to grasp a lot at a glance with minimal reading. The less text required for understanding, the clearer your poster will be ([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf); [ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf)).
 
 - content reduction: condense information to core statements & highlight results
 - text vs. image ratio: rule of thumb = 50% images & 50% text
@@ -126,7 +126,7 @@ Wh-Questions to help structure your poster:
       
 
 ### Ask me
-> _Design your poster to encourage viewers to engage with you._ ([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf))
+Design your poster to encourage viewers to engage with you ([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf)).
 - sense of suspense, e.g. by designing the introduction so that the results appear surprising
 - comparison with contrasting results could stimulate discussion 
 
