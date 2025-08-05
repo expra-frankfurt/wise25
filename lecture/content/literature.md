@@ -288,8 +288,8 @@ They give 10 questions that you should ask yourself while reading a paper:
 5. How did the author(s) interpret the results (interpretation/discussion)? 
 6. What should be done next?
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR_sjtfMswrYWEpfpQeDik8F-aFt0HHH4MfjaS2tJui1PzvaaekgrbCe9dIsVVtaeC4GrrpJNm6iuIl/pubembed?start=false&loop=false" frameborder="0" width=100% height=200% allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR_sjtfMswrYWEpfpQeDik8F-aFt0HHH4MfjaS2tJui1PzvaaekgrbCe9dIsVVtaeC4GrrpJNm6iuIl/pubembed?start=false&loop=false" frameborder="0" width=100% height=569 allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Do you have to read everything?
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRiFDRgQ8x6ZRaYK26u0DzC4zq-pypROVz0zTl9lFTRGZldqe7AI6umpgK3_xw0Be2kJoarqzLJiC6r/pubembed?start=false&loop=false" frameborder="0" width=100% height="400 px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRiFDRgQ8x6ZRaYK26u0DzC4zq-pypROVz0zTl9lFTRGZldqe7AI6umpgK3_xw0Be2kJoarqzLJiC6r/pubembed?start=false&loop=false" frameborder="0" width="80vw" height="45vw" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
