@@ -60,7 +60,7 @@ p + ol {
 ````{tip}
 ```{figure} ../_static/wh-questions.png
 ---
-scale: 120%
+scale: 50%
 align: right
 ---
 ```
@@ -96,36 +96,35 @@ Wh-Questions to help structure your poster:
 -	posters are typically in portrait format; DIN A0 (118.8 x 84.1cm) is the standard size in the ExPra, DIN A1 (84.1 x 59.4cm) may be used elsewhere
 -	visual hierarchy guides the viewer´s attention, ensuring that key elements are seen first and the reading flow is intuitive rather than confusing (https://www.youtube.com/watch?v=4x0SLtCVFho)   
 <p align="center">
-  <img alt="" src="../_static/visual-guidance1.png" width="45%">
+  <img alt="" src="../_static/visual-guidance1.png" height="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="" src="../_static/visual-guidance2.png" width="45%">
+  <img alt="" src="../_static/visual-guidance2.png" height="45%">
 </p>
 
 ### Read me – ensuring readability & comprehensibility 
 (following [ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf); [Studierwerkstatt an der Universität Bremen, o. D.](https://www.uni-bremen.de/fileadmin/user_upload/sites/studierwerkstatt/Leitfaden_wissenschaftliche_Poster_erstellen.pdf))  
 
-> The aim is for viewers to grasp a lot at a glance with minimal reading. The less text required for understanding, the clearer your poster will be ([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf); [ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf)).
+> _The aim is for viewers to grasp a lot at a glance with minimal reading. The less text required for understanding, the clearer your poster will be_.([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf); [ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf))
 
 - content reduction: condense information to core statements & highlight results
 - text vs. image ratio: rule of thumb = 50% images & 50% text
 
-![Image that visualizes an optimal text vs. image ratio: 50% text, 40% images, 20% free space](text-image-ratio.png)
+<img src="../_static/text-image-ratio.png" alt="Image that visualizes an optimal text vs. image ratio: 50% text, 40% images, 20% free space" width="400 px">
 
--	text formatting: short, continuous text rather than bullet points or long paragraphs
--	font choice: sans-serif fonts (e.g. Arial, Calibri) are easier to read from a distance than serif fonts
--	font size: poster should be readable from a distance of up to 3 meters, therefore also use large line spacing (at least 6-7 mm) 
+- text formatting: short, continuous text rather than bullet points or long paragraphs
+- font choice: sans-serif fonts (e.g. Arial, Calibri) are easier to read from a distance than serif fonts
+- font size: poster should be readable from a distance of up to 3 meters, therefore also use large line spacing (at least 6-7 mm) 
   - orientation aids for font sizes:
     - DIN A0: main heading 85-100 pt, subheading 50 pt, body text 28-32 pt
     - DIN A1: main heading 60 pt, body text 20-24 pt
-    - references typically in a much smaller font size  
+    - references typically in a much smaller font size
       ![A comic image that shows a person who stands in front of a poster. The space between them is defined as 1 to 3 metres.](../_static/poster-size.png)
-
--	visual flow: information is read from top left to bottom right & important elements should be placed as centrally as possible, at eye level
--	graphics & illustrations: self-explanatory & relevant, described in a short legend & not within flowing text, avoid complicated formulas, ensure sufficient image quality (min. 200dpi or 800x600 pixels)
+- visual flow: information is read from top left to bottom right & important elements should be placed as centrally as possible, at eye level
+- graphics & illustrations: self-explanatory & relevant, described in a short legend & not within flowing text, avoid complicated formulas, ensure sufficient image quality (min. 200dpi or 800x600 pixels)
       
 
 ### Ask me
-> Design your poster to encourage viewers to engage with you ([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf)).
+> _Design your poster to encourage viewers to engage with you._ ([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf))
 - sense of suspense, e.g. by designing the introduction so that the results appear surprising
 - comparison with contrasting results could stimulate discussion 
 
@@ -176,7 +175,7 @@ _If using PowerPoint set gridlines to be visible (Ansicht -> Anzeigen -> Gittern
 ## Excursus: Rethinking poster designs with #BetterPoster 
 (following [Mike Morrison, PhD, 2019](https://www.youtube.com/watch?v=1RwJbhkCA58); [Morrison, PhD, 2020](https://www.youtube.com/watch?v=SYk29tnxASs))
 
-> A poster that successfully communicates one thing is better than a poster that fails to communicate a thousand things. ([Mike Morrison, PhD, 2020](https://www.youtube.com/watch?v=SYk29tnxASs))
+> _A poster that successfully communicates one thing is better than a poster that fails to communicate a thousand things._ ([Mike Morrison, PhD, 2020](https://www.youtube.com/watch?v=SYk29tnxASs))
 
 - #better poster is a new approach to academic poster design by Mike Morrison
 - aim based on user experience design: posters should tell one clear story immediately 
