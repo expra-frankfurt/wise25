@@ -27,7 +27,11 @@ p + ol {
 
 ## What is a scientific poster and how is it structured?
 
-> A scientific poster is a visual communication medium primarily used to summarize and present findings in an illustrative and concise manner, displaying one’s own research at conferences and in seminars. Its main purpose is to provide a clear overview of complex scientific content and to stimulate discussions. It achieves this by combining textual and visual elements, with the reduction of content to the essentials ([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf); [ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf); [Studierwerkstatt an der Universität Bremen, o. D.](https://www.uni-bremen.de/fileadmin/user_upload/sites/studierwerkstatt/Leitfaden_wissenschaftliche_Poster_erstellen.pdf)).
+:::{admonition} What is a scientific poster?
+:class: tip
+
+A scientific poster is a visual communication medium primarily used to summarize and present findings in an illustrative and concise manner, displaying one’s own research at conferences and in seminars. Its main purpose is to provide a clear overview of complex scientific content and to stimulate discussions. It achieves this by combining textual and visual elements, with the reduction of content to the essentials ([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf); [ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf); [Studierwerkstatt an der Universität Bremen, o. D.](https://www.uni-bremen.de/fileadmin/user_upload/sites/studierwerkstatt/Leitfaden_wissenschaftliche_Poster_erstellen.pdf)).
+:::
 
 ### Structure 
 (following [Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf); [ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf))
@@ -74,8 +78,6 @@ Wh-Questions to help structure your poster:
 -	for WHICH aim
 -	on WHICH basis?                             
 ````
-
-
 
 ## Design principles – 3 levels of engagement 
 (following Alean-Kirkpatrick, 2002a, 2002b, as cited in [Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf))
