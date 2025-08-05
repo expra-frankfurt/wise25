@@ -288,7 +288,7 @@ They give 10 questions that you should ask yourself while reading a paper:
 5. How did the author(s) interpret the results (interpretation/discussion)? 
 6. What should be done next?
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR_sjtfMswrYWEpfpQeDik8F-aFt0HHH4MfjaS2tJui1PzvaaekgrbCe9dIsVVtaeC4GrrpJNm6iuIl/pubembed?start=false&loop=false" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR_sjtfMswrYWEpfpQeDik8F-aFt0HHH4MfjaS2tJui1PzvaaekgrbCe9dIsVVtaeC4GrrpJNm6iuIl/pubembed?start=false&loop=false" class="responsive-iframe"  frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Do you have to read everything?
 
