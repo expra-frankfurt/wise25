@@ -64,7 +64,7 @@ A scientific poster is a visual communication medium primarily used to summarize
 ````{tip}
 ```{figure} ../_static/wh-questions.png
 ---
-scale: 50%
+scale: 40%
 align: right
 ---
 ```
