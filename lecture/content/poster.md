@@ -18,12 +18,14 @@ p + ol {
 When creating your poster, remember: **a good poster doesn´t follow a recipe, it follows a purpose**. There is **no rigid blueprint** for a scientific poster, but a clear structure is essential to present complex content understandably ([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf)).
 
 
-## Why are _good_ scientific posters important? 
+## Why are _good_ scientific posters important? [^ref]
 (following [Burkhardt et al, 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf))
 
 -	Visual Communication & Simplification: Posters serve as a visual aid to clearly present complex scientific information and summarize research results concisely.
 -	Discussion & Scientific Exchange: Their primary purpose is to stimulate discussions and encourage viewers to interact with the presenter.
 -	Fundamental Competence: The ability to present one’s project understandably is an essential competence in academic studies and professional scientific fields. 
+
+[^ref]: [Burkhardt et al, 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf)
 
 ## What is a scientific poster and how is it structured?
 
@@ -33,7 +35,7 @@ When creating your poster, remember: **a good poster doesn´t follow a recipe, i
 A scientific poster is a visual communication medium primarily used to summarize and present findings in an illustrative and concise manner, displaying one’s own research at conferences and in seminars. Its main purpose is to provide a clear overview of complex scientific content and to stimulate discussions. It achieves this by combining textual and visual elements, with the reduction of content to the essentials ([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf); [ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf); [Studierwerkstatt an der Universität Bremen, o. D.](https://www.uni-bremen.de/fileadmin/user_upload/sites/studierwerkstatt/Leitfaden_wissenschaftliche_Poster_erstellen.pdf)).
 :::
 
-### Structure 
+### Structure  <small>([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf); [ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf))</small>
 (following [Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf); [ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf))
 
 **1.	Title & Authorship**
