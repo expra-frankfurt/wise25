@@ -109,10 +109,8 @@ The following always applies to the design: avoid superfluous and disruptive ele
 The aim is for viewers to grasp a lot at a glance with minimal reading. The less text required for understanding, the clearer your poster will be ([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf); [ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf)).
 
 - content reduction: condense information to core statements & highlight results
-- text vs. image ratio: rule of thumb = 50% images & 50% text
-
-<img src="../_static/text-image-ratio.png" alt="Image that visualizes an optimal text vs. image ratio: 50% text, 40% images, 20% free space" width="400 px">
-
+- text vs. image ratio: rule of thumb = 50% images & 50% text  
+<img src="../_static/text-image-ratio.png" alt="Image that visualizes an optimal text vs. image ratio: 50% text, 40% images, 20% free space" width="300 px">  
 - text formatting: short, continuous text rather than bullet points or long paragraphs
 - font choice: sans-serif fonts (e.g. Arial, Calibri) are easier to read from a distance than serif fonts
 - font size: poster should be readable from a distance of up to 3 meters, therefore also use large line spacing (at least 6-7 mm) 
@@ -120,7 +118,7 @@ The aim is for viewers to grasp a lot at a glance with minimal reading. The less
     - DIN A0: main heading 85-100 pt, subheading 50 pt, body text 28-32 pt
     - DIN A1: main heading 60 pt, body text 20-24 pt
     - references typically in a much smaller font size
-      ![A comic image that shows a person who stands in front of a poster. The space between them is defined as 1 to 3 metres.](../_static/poster-size.png)
+<img src="../_static/poster-size.png" alt="A comic image that shows a person who stands in front of a poster. The space between them is defined as 1 to 3 metres." width="300 px">  
 - visual flow: information is read from top left to bottom right & important elements should be placed as centrally as possible, at eye level
 - graphics & illustrations: self-explanatory & relevant, described in a short legend & not within flowing text, avoid complicated formulas, ensure sufficient image quality (min. 200dpi or 800x600 pixels)
       
