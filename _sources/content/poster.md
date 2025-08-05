@@ -173,13 +173,46 @@ _If using PowerPoint set gridlines to be visible (Ansicht -> Anzeigen -> Gittern
 
 
 
+## Excursus: Rethinking poster designs with #BetterPoster 
+(following Mike Morrison, PhD, 2019; Morrison, PhD, 2020)
+
+> A poster that successfully communicates one thing is better than a poster that fails to communicate a thousand things. (Mike Morrison, PhD, 2020)
+
+- #better poster is a new approach to academic poster design by Mike Morrison
+- aim based on user experience design: posters should tell one clear story immediately 
+	- focusing viewer attention reduces cognitive load and increases memory retention
+	- #betterposters are faster to scan, easier to understand and promote more interaction
+	- posters should transmit key information even to people who only move past them
+- possible design elements:
+	- one large, centrally placed “takeaway statement”, written in plain language
+ 	- a “silent presenter bar” for more information, understandable without verbal explanation
+	- QR-Code that links to further information
+	- presenting information in both verbal and visual form allows information to root more deeply
+	- author names placed at the bottom to avoid visual distraction
+	- creative, unconventional design elements can make posters more memorable
+
+_For more information watch [https://www.youtube.com/watch?v=SYk29tnxASs](https://www.youtube.com/watch?v=SYk29tnxASs)._
 
 
+```{admonition} Additional tips:
+- It is essential to limit all your information to only what is crucial for understanding the content (Burkhardt et al., 2017).
+- “Need to know” instead of “Nice to know”. The less text the better (ISEK, 2014).
+- Do not try to make up for a lack of space with a smaller font (Burkhardt et al., 2017).
+- Always ask yourself whether it is more effective to show your results in a figure, table or text.
+- 2 golden rules for your design (Morrison, PhD, 2020):
+	1. Don’t put things on your poster that people will ignore. 
+	2. People will ignore most things.
+```
 
+## Example Posters 
 
-
-
-
+![Image of an example poster by Forberich et al. with a lot of text.](../_static/poster-example1.png)  
+![Image of another example poster of Adebesin et al. with a lot of text.](../_static/poster-example2.png)  
+![Image of an example poster by Braun et al. with a remarkable background.](../_static/poster-example3.png)  
+![Image of an example poster by Hernandez Bark et al.](../_static/poster-example4.png)  
+![Image of an example betterposter by Morrison et al.](../_static/poster-example5.png)  
+![Image of an example betterposter by Kelsey Pino.](../_static/poster-example6.png)  
+![Image of an example betterposter by Ed Hawkins.](../_static/poster-example7.png)  
 
 
 
