@@ -2,6 +2,7 @@
 
 :::{admonition} 
 :class: attention
+
 A poster without a presentation is no poster at all! Your presentation serves as a concise “commercial” for your own scientific work and the topic you have addressed (ISEK, 2014).
 :::
 
@@ -15,13 +16,13 @@ A poster without a presentation is no poster at all! Your presentation serves as
 ## Preparation for the Presentation <small>(Burkhardt et al., 2017; Erren & Bourne, 2007; ISEK, 2014; Rowe & Ilic, 2011)</small>
 -	Conditions: Create favourable conditions for your presentation by visibly hanging and aligning the poster for your audience.
 -	Plan your talk: Think about what you want to say about your poster. It is important to identify the core of your research. Your presentation should cover…
-  -	the research question
-  -	the goals and motivations behind the work
-  -	the scientific relevance of the topic
-  -	the methods used
-  -	the results
-  -	any further questions
-  -	planned next steps or connections to other works.
+    -	the research question
+    -	the goals and motivations behind the work
+    -	the scientific relevance of the topic
+    -	the methods used
+    -	the results
+    -	any further questions
+    -	planned next steps or connections to other works.
 -	Free Speech: Try to structure your talk using memory cues on the poster, rather than memorizing it by heart.
 -	Rehearsal: If possible, conduct a practice presentation and give each other feedback within a group to improve. 
 -	Prepare for discussions: Anticipate potential crucial questions or areas where a discussion might develop. Consider bringing your own discussion questions as well. 
@@ -34,14 +35,14 @@ A poster without a presentation is no poster at all! Your presentation serves as
 -	Duration: Your presentation should last a maximum of 3 minutes, preferably less.
 -	Structure: Always indicate where on the poster your presentation is currently focused, to help your audience follow along. Formulate clear transitions between points (e.g., “I will now move on to the results”).
 -	Language:
-  -	Speak freely and do not read directly from the poster.
-  -	Speak slowly. Under stress, we often tend to speak faster.
-  -	Speak loudly and clearly. When presenting to a group in a crowded, noisy room, it is often necessary to speak louder than usual. If necessary, ask whether everyone can hear you clearly.
-  -	Do not present monotonously.
+    -	Speak freely and do not read directly from the poster.
+    -	Speak slowly. Under stress, we often tend to speak faster.
+    -	Speak loudly and clearly. When presenting to a group in a crowded, noisy room, it is often necessary to speak louder than usual. If necessary, ask whether everyone can hear you clearly.
+    -	Do not present monotonously.
 -	Body Posture and Position:
-  -	Do not stand directly in front of your poster, as you will block your audience’s view. Standing slightly to the side is preferable.
-  -	Maintain a friendly facial expression and eye contact with the group while speaking 
-  -	Stand still and avoid hectic gestures. Choose your gestures deliberately and keep an open, confident body posture.
+    -	Do not stand directly in front of your poster, as you will block your audience’s view. Standing slightly to the side is preferable.
+    -	Maintain a friendly facial expression and eye contact with the group while speaking 
+    -	Stand still and avoid hectic gestures. Choose your gestures deliberately and keep an open, confident body posture.
 -	Conclusion: Avoid an abrupt ending, for example by thanking your audience.
 -	Questions and Discussion: After the presentation give your listeners the opportunity to read your poster and ask questions. Take charge of the discussion by ensuring that all contributions can be expressed. Also note that not all questions can be answered definitively and that some may remain open.
 
@@ -54,11 +55,12 @@ A poster without a presentation is no poster at all! Your presentation serves as
 -	Questions are answered confidently and the engagement with the audience is compelling.
 
 :::{admonition} Additional tips: 
-:class: attention 
-•	Look forward to being able to present the results of your work. You can finally show others what you put a lot of work and effort into (Burkhardt et al., 2017).
-•	Always remember that visitors are your main focus. Target group orientation is the be-all and end-all (Erren & Bourne, 2007).
-•	“Elevator Pitch”: Imagine you had to present your research to someone in an elevator and only had this short amount of time to communicate the most important points. This will help you limit your presentation to the truly relevant aspects of your work (Erren & Bourne, 2007).
-•	Arrive early to secure a spot for your poster that balances high foot traffic with sufficient space for engaging visitors comfortably.
+:class: tip 
+
+- Look forward to being able to present the results of your work. You can finally show others what you put a lot of work and effort into (Burkhardt et al., 2017).
+- Always remember that visitors are your main focus. Target group orientation is the be-all and end-all (Erren & Bourne, 2007).
+- “Elevator Pitch”: Imagine you had to present your research to someone in an elevator and only had this short amount of time to communicate the most important points. This will help you limit your presentation to the truly relevant aspects of your work (Erren & Bourne, 2007).
+- Arrive early to secure a spot for your poster that balances high foot traffic with sufficient space for engaging visitors comfortably.
 :::
 
 
@@ -74,3 +76,7 @@ ISEK (2014). Zum Poster in Wissenschaft und Lehre. Institut Sozialanthropologie 
 
 Rowe, N., & Ilic, D. (2011). Poster Presentation – a visual medium for academic and scientific meetings. Paediatric Respiratory Reviews, 12(3), 208–213. https://doi.org/10.1016/j.prrv.2011.01.011
 
+----
+
+**Acknowledgments**  
+This section was contributed by [Benedikt Kratzer](https://www.psychologie.uni-frankfurt.de/137346178/M__Sc__Benedikt_Kratzer) and [Stephan Braun](https://www.psychologie.uni-frankfurt.de/51975588/Dr__Stephan_Braun). 
