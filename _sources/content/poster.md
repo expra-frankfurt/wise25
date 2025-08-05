@@ -266,4 +266,7 @@ Morrison, M. (2021). powerpoint-slides-you-can-teach-posters-with [PowerPoint sl
 
 Studierwerkstatt an der Universität Bremen. (o. D.). Wissenschaftliche Poster erstellen – ein kleiner Leitfaden. https://www.uni-bremen.de/fileadmin/user_upload/sites/studierwerkstatt/Leitfaden_wissenschaftliche_Poster_erstellen.pdf   
 
+----
 
+**Acknowledgments**  
+This section was contributed by [Benedikt Kratzer](https://www.psychologie.uni-frankfurt.de/137346178/M__Sc__Benedikt_Kratzer) and [Stephan Braun](https://www.psychologie.uni-frankfurt.de/51975588/Dr__Stephan_Braun). 
