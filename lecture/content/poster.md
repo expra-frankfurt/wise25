@@ -117,7 +117,7 @@ The aim is for viewers to grasp a lot at a glance with minimal reading. The less
   - orientation aids for font sizes:
     - DIN A0: main heading 85-100 pt, subheading 50 pt, body text 28-32 pt
     - DIN A1: main heading 60 pt, body text 20-24 pt
-    - references typically in a much smaller font size
+    - references typically in a much smaller font size  
 <img src="../_static/poster-size.png" alt="A comic image that shows a person who stands in front of a poster. The space between them is defined as 1 to 3 metres." width="300 px">  
 - visual flow: information is read from top left to bottom right & important elements should be placed as centrally as possible, at eye level
 - graphics & illustrations: self-explanatory & relevant, described in a short legend & not within flowing text, avoid complicated formulas, ensure sufficient image quality (min. 200dpi or 800x600 pixels)
@@ -207,23 +207,22 @@ _For more information watch [https://www.youtube.com/watch?v=SYk29tnxASs](https:
 
 ![Image of an example poster by Forberich et al. with a lot of text.](../_static/poster-example1.png)  
 
-
+<br>
 ![Image of another example poster of Adebesin et al. with a lot of text.](../_static/poster-example2.jpg)  
 
-
-![Image of an example poster by Braun et al. with a remarkable background.](../_static/poster-example3.jpg)  
+<br>
 <img src="../_static/poster-example3.jpg" alt="Image of an example poster by Braun et al. with a remarkable background." width="500 px">  
 
+<br>
+<img src="../_static/poster-example4.png" alt="Image of an example poster by Hernandez Bark et al." width="500 px">  
 
-![Image of an example poster by Hernandez Bark et al.](../_static/poster-example4.png)  
-
-
+<br>
 ![Image of an example betterposter by Morrison et al.](../_static/poster-example5.png)  
 
-
+<br>
 ![Image of an example betterposter by Kelsey Pino.](../_static/poster-example6.png)  
 
-
+<br>
 ![Image of an example betterposter by Ed Hawkins.](../_static/poster-example7.png)  
 
 
