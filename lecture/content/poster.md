@@ -212,6 +212,7 @@ _For more information watch [https://www.youtube.com/watch?v=SYk29tnxASs](https:
 
 
 ![Image of an example poster by Braun et al. with a remarkable background.](../_static/poster-example3.jpg)  
+<img src="../_static/poster-example3.jpg" alt="Image of an example poster by Braun et al. with a remarkable background." width="500 px">  
 
 
 ![Image of an example poster by Hernandez Bark et al.](../_static/poster-example4.png)  
