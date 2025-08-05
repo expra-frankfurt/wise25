@@ -104,5 +104,10 @@ Here are entirely fictional, but still realistic, examples of some bad things th
 https://www.uni-frankfurt.de/141179107/Die_Gremien_des_Fachbereich_05
 -	Hinweise für Antragsteller
 -	Checkliste Kurzantrag (Suggestion: Fill out and Peer-review the checklist between Expra-groups!)
- 
+
+
+----
+
+**Acknowledgments**  
+This section was contributed by [Sabine Windmann](https://www.psychologie.uni-frankfurt.de/55263733/Prof__Dr__Sabine_Windmann). 
 
