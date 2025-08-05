@@ -207,12 +207,19 @@ _For more information watch [https://www.youtube.com/watch?v=SYk29tnxASs](https:
 ## Example Posters 
 
 ![Image of an example poster by Forberich et al. with a lot of text.](../_static/poster-example1.png)  
-![Image of another example poster of Adebesin et al. with a lot of text.](../_static/poster-example2.png)  
-![Image of an example poster by Braun et al. with a remarkable background.](../_static/poster-example3.png)  
+
+![Image of another example poster of Adebesin et al. with a lot of text.](../_static/poster-example2.jpg)  
+
+![Image of an example poster by Braun et al. with a remarkable background.](../_static/poster-example3.jpg)  
+
 ![Image of an example poster by Hernandez Bark et al.](../_static/poster-example4.png)  
+
 ![Image of an example betterposter by Morrison et al.](../_static/poster-example5.png)  
+
 ![Image of an example betterposter by Kelsey Pino.](../_static/poster-example6.png)  
+
 ![Image of an example betterposter by Ed Hawkins.](../_static/poster-example7.png)  
+
 
 
 ## Literature
