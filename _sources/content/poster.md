@@ -92,7 +92,8 @@ Wh-Questions to help structure your poster:
 
 The following always applies to the design: avoid superfluous and disruptive elements (Studierwerkstatt an der Universität Bremen, o. D.).
 
-### Look at me – attracting attention & first impression <small>(ISEK, 2014)</small>  
+### Look at me – attracting attention & first impression 
+<small>Based on ISEK, 2014.</small>    
 The initial impression is crucial, with the first 10 seconds often determining if your poster generates interest (Burkhardt et al., 2017).  
 -	divide poster into sections such as title, introduction, methodological background, results, discussion and references
 -	white space is crucial to loosen up the poster & prevent overload
