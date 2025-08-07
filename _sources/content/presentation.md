@@ -13,14 +13,16 @@ In this session, we will cover:
 
 
 
-## 1. Why is a _good_ presentation of your poster important? <small>(Burkhardt et al, 2017; Erren & Bourne, 2007; ISEK, 2014)</small>
+## 1. Why is a _good_ presentation of your poster important? 
+<small>Based on Burkhardt et al, 2017; Erren & Bourne, 2007; ISEK, 2014.</small>
 - Discussion & Scientific Exchange: The primary purpose of your presentation is to stimulate discussions and encourage viewers to ask potential questions.
 - Fundamental Competence: The ability to present one’s project understandably is an essential competence in academic studies and professional scientific fields. It contributes to the development of public speaking and engagement skills, making the research alive through oral presentation. A well-delivered presentation helps to leave a competent impression on the audience.
 - Academic Reputation: Confident presentations can enhance your visibility and reputation within and beyond an institution.
 - Key Information: A presentation enables you to clearly articulate why your work is important and what aspects you found fascinating.
 
 
-## 2. Preparation for the Presentation <small>(Burkhardt et al., 2017; Erren & Bourne, 2007; ISEK, 2014; Rowe & Ilic, 2011)</small>
+## 2. Preparation for the Presentation 
+<small>Based on Burkhardt et al., 2017; Erren & Bourne, 2007; ISEK, 2014; Rowe & Ilic, 2011.</small>
 -	Conditions: Create favourable conditions for your presentation by visibly hanging and aligning the poster for your audience.
 -	Plan your talk: Think about what you want to say about your poster. It is important to identify the core of your research. Your presentation should cover…
     -	the research question
@@ -36,7 +38,8 @@ In this session, we will cover:
 -	Contact afterwards: Print out and bring contact information, e.g., QR-Codes or business cards.
 -	Clothing: Choose appropriate clothing for a presentation in front of an academic audience.
 
-## 3. The Presentation itself <small>(Burkhardt et al., 2017; Erren & Bourne, 2007; ISEK, 2014; Rowe & Ilic, 2011)</small>
+## 3. The Presentation itself 
+<small>Based on Burkhardt et al., 2017; Erren & Bourne, 2007; ISEK, 2014; Rowe & Ilic, 2011.</small>
 -	The first sentence is crucial: Clearly state what your presentation is about.
 -	Beginning: Briefly introduce yourself if the audience is not familiar with you. You can also express specific wishes to your listeners, e.g., that questions should only be asked at the end of the presentation. 
 -	Duration: Your presentation should last a maximum of 3 minutes, preferably less.
@@ -53,7 +56,8 @@ In this session, we will cover:
 -	Conclusion: Avoid an abrupt ending, for example by thanking your audience.
 -	Questions and Discussion: After the presentation give your listeners the opportunity to read your poster and ask questions. Take charge of the discussion by ensuring that all contributions can be expressed. Also note that not all questions can be answered definitively and that some may remain open.
 
-## 4. Typical Evaluation Criteria for Presentations <small>(Burkhardt et al., 2017; ISEK, 2014)</small>
+## 4. Typical Evaluation Criteria for Presentations 
+<small>Based on Burkhardt et al., 2017; ISEK, 2014.</small>
 -	The topic is meaningfully structured and presented concisely.
 -	The language style and expression are scientific.
 -	The poster is sensibly integrated into the presentation. 
