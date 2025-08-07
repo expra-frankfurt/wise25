@@ -11,15 +11,12 @@ In this session, we will cover:
 3. [The Presentation itself](the-presentation-itself)
 4. [Typical Evaluation Criteria for Presentations](#typical-evaluation-criteria-for-presentation)
 
-
-
-## 1. Why is a _good_ presentation of your poster important? 
+## 1. Why is a _good_ presentation of your poster important?
 <small>Based on Burkhardt et al, 2017; Erren & Bourne, 2007; ISEK, 2014.</small>
 - Discussion & Scientific Exchange: The primary purpose of your presentation is to stimulate discussions and encourage viewers to ask potential questions.
 - Fundamental Competence: The ability to present one’s project understandably is an essential competence in academic studies and professional scientific fields. It contributes to the development of public speaking and engagement skills, making the research alive through oral presentation. A well-delivered presentation helps to leave a competent impression on the audience.
 - Academic Reputation: Confident presentations can enhance your visibility and reputation within and beyond an institution.
 - Key Information: A presentation enables you to clearly articulate why your work is important and what aspects you found fascinating.
-
 
 ## 2. Preparation for the Presentation 
 <small>Based on Burkhardt et al., 2017; Erren & Bourne, 2007; ISEK, 2014; Rowe & Ilic, 2011.</small>
@@ -73,8 +70,6 @@ In this session, we will cover:
 - “Elevator Pitch”: Imagine you had to present your research to someone in an elevator and only had this short amount of time to communicate the most important points. This will help you limit your presentation to the truly relevant aspects of your work (Erren & Bourne, 2007).
 - Arrive early to secure a spot for your poster that balances high foot traffic with sufficient space for engaging visitors comfortably.
 :::
-
-
 
 
 ## Literature
