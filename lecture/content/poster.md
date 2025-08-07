@@ -128,11 +128,11 @@ Design your poster to encourage viewers to engage with you ([Burkhardt et al., 2
 
 ## Step-by-step guide of creating a scientific poster <small>([Burkhardt et al, 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf); [ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf); [Studierwerkstatt an der Universität Bremen, o. D.](https://www.uni-bremen.de/fileadmin/user_upload/sites/studierwerkstatt/Leitfaden_wissenschaftliche_Poster_erstellen.pdf))<small>
 
-**1.	Planning the work process**
+**1.	Plan the work process**
 -	Familiarize yourself with the design requirements & purpose of scientific poster. Plan your workflow by outlining what needs to be completed and by when.
 -	Allocate sufficient time for the professional printing of your poster.
 
-**2.	Developing content for the poster**
+**2.	Develop content for the poster**
 -	Translate your research findings into a poster-friendly format.
 -	You may start by sketching your ideas on paper to visualize the arrangement of content elements 
 
@@ -175,7 +175,7 @@ _If using PowerPoint, immediately set the correct poster size when you start the
 _If using PowerPoint set gridlines to be visible (Ansicht -> Anzeigen -> Gitternetzlinien) & look for the red and blue horizontal / vertical lines linking objects during drag & drop._
 ```
 
-**4. Finalizing the poster**
+**4. Finalize the poster**
 - Carefully review your poster to ensure that all aspects have been addressed.
 	- Content level: Is the content complete and correct?
    	-  Structural level: Is the structure of the poster logical and comprehensible?
