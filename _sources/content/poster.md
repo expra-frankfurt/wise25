@@ -35,7 +35,6 @@ A scientific poster is a visual communication medium primarily used to summarize
 :::
 
 ### Structure  <small>([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf); [ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf))</small>
-(following [Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf); [ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf))
 
 **1.	Title & Authorship**
 -	capture viewer’s attention
