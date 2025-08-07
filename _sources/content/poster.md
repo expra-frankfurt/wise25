@@ -83,8 +83,7 @@ Wh-Questions to help structure your poster:
 
 The following always applies to the design: avoid superfluous and disruptive elements ([Studierwerkstatt an der Universität Bremen, o. D.](https://www.uni-bremen.de/fileadmin/user_upload/sites/studierwerkstatt/Leitfaden_wissenschaftliche_Poster_erstellen.pdf)).
 
-### Look at me – attracting attention & first impression 
-(following [ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf))  
+### Look at me – attracting attention & first impression <small>([ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf))</small>  
 The initial impression is crucial, with the first 10 seconds often determining if your poster generates interest ([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf)).  
 -	divide poster into sections such as title, introduction, methodological background, results, discussion and references
 -	white space is crucial to loosen up the poster & prevent overload
