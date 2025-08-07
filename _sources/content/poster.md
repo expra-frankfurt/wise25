@@ -15,35 +15,34 @@ p + ol {
 
 # Poster Design
 
-When creating your poster, remember: **a good poster doesn´t follow a recipe, it follows a purpose**. There is **no rigid blueprint** for a scientific poster, but a clear structure is essential to present complex content understandably ([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf)).
+When creating your poster, remember: **a good poster doesn´t follow a recipe, it follows a purpose**. There is **no rigid blueprint** for a scientific poster, but a clear structure is essential to present complex content understandably (Burkhardt et al., 2017).
 
 In this session, we will cover:
 
-1. [Why are good scientific posters important?](#why-are-good-scientific-posters-important-burkhardt-et-al-2017)
+1. [Why are good scientific posters important?](#why-are-good-scientific-posters-important)
 2. [What is a scientific poster and how is it structured?](#what-is-a-scientific-poster-and-how-is-it-structured)
-3. [Design principles – 3 levels of engagement](#design-principles-3-levels-of-engagement-alean-kirkpatrick-2002a-2002b-as-cited-in-burkhardt-et-al-2017)
-4. [Step-by-step guide of creating a scientific poster](#step-by-step-guide-of-creating-a-scientific-poster-burkhardt-et-al-2017-isek-2014-studierwerkstatt-an-der-universitat-bremen-o-d)
-5. [Excursus: Rethinking poster designs with #BetterPoster](#excursus-rethinking-poster-designs-with-betterposter-mike-morrison-phd-2019-morrison-phd-2020)
+3. [Design principles – 3 levels of engagement](#design-principles-3-levels-of-engagement)
+4. [Step-by-step guide of creating a scientific poster](#step-by-step-guide-of-creating-a-scientific-poster)
+5. [Excursus: Rethinking poster designs with #BetterPoster](#excursus-rethinking-poster-designs-with-betterposter)
 6. [Example Posters](#example-posters)
 
 
-## 1. Why are _good_ scientific posters important? <small>([Burkhardt et al, 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf))</small>
-
+## 1. Why are _good_ scientific posters important? 
+<small>Based on Burkhardt et al, 2017.</small>  
 -	Visual Communication & Simplification: Posters serve as a visual aid to clearly present complex scientific information and summarize research results concisely.
 -	Discussion & Scientific Exchange: Their primary purpose is to stimulate discussions and encourage viewers to interact with the presenter.
 -	Fundamental Competence: The ability to present one’s project understandably is an essential competence in academic studies and professional scientific fields. 
-
-[^ref]: [Burkhardt et al, 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf)
 
 ## 2. What is a scientific poster and how is it structured?
 
 :::{admonition} What is a scientific poster?
 :class: note
 
-A scientific poster is a visual communication medium primarily used to summarize and present findings in an illustrative and concise manner, displaying one’s own research at conferences and in seminars. Its main purpose is to provide a clear overview of complex scientific content and to stimulate discussions. It achieves this by combining textual and visual elements, with the reduction of content to the essentials ([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf); [ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf); [Studierwerkstatt an der Universität Bremen, o. D.](https://www.uni-bremen.de/fileadmin/user_upload/sites/studierwerkstatt/Leitfaden_wissenschaftliche_Poster_erstellen.pdf)).
+A scientific poster is a visual communication medium primarily used to summarize and present findings in an illustrative and concise manner, displaying one’s own research at conferences and in seminars. Its main purpose is to provide a clear overview of complex scientific content and to stimulate discussions. It achieves this by combining textual and visual elements, with the reduction of content to the essentials (Burkhardt et al., 2017; ISEK, 2014; Studierwerkstatt an der Universität Bremen, o. D.).
 :::
 
-### Structure  <small>([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf); [ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf))</small>
+### Structure  
+<small>Based on Burkhardt et al., 2017; ISEK, 2014.</small>
 
 **1.	Title & Authorship**
 -	capture viewer’s attention
@@ -79,7 +78,7 @@ align: right
 ```
 
 Wh-Questions to help structure your poster:  
-([Studierwerkstatt an der Universität Bremen, o. D.](https://www.uni-bremen.de/fileadmin/user_upload/sites/studierwerkstatt/Leitfaden_wissenschaftliche_Poster_erstellen.pdf))
+(Studierwerkstatt an der Universität Bremen, o. D.)
 -	WHO investigates
 -	WHAT
 -	HOW
@@ -88,12 +87,13 @@ Wh-Questions to help structure your poster:
 -	on WHICH basis?                             
 ````
 
-## 3. Design principles – 3 levels of engagement <small>(Alean-Kirkpatrick, 2002a, 2002b, as cited in [Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf))</small>
+## 3. Design principles – 3 levels of engagement 
+<small>Based on Alean-Kirkpatrick, 2002a, 2002b, as cited in Burkhardt et al., 2017.</small>
 
-The following always applies to the design: avoid superfluous and disruptive elements ([Studierwerkstatt an der Universität Bremen, o. D.](https://www.uni-bremen.de/fileadmin/user_upload/sites/studierwerkstatt/Leitfaden_wissenschaftliche_Poster_erstellen.pdf)).
+The following always applies to the design: avoid superfluous and disruptive elements (Studierwerkstatt an der Universität Bremen, o. D.).
 
-### Look at me – attracting attention & first impression <small>([ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf))</small>  
-The initial impression is crucial, with the first 10 seconds often determining if your poster generates interest ([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf)).  
+### Look at me – attracting attention & first impression <small>(ISEK, 2014)</small>  
+The initial impression is crucial, with the first 10 seconds often determining if your poster generates interest (Burkhardt et al., 2017).  
 -	divide poster into sections such as title, introduction, methodological background, results, discussion and references
 -	white space is crucial to loosen up the poster & prevent overload
 -	frames around text boxes are not necessary (if used, they should be fine lines, as bold ones may appear narrowing)
@@ -110,9 +110,10 @@ The initial impression is crucial, with the first 10 seconds often determining i
   <img alt="" src="../_static/visual-guidance2.png" width="45%">
 </p>
 
-### Read me – ensuring readability & comprehensibility <small>([ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf); [Studierwerkstatt an der Universität Bremen, o. D.](https://www.uni-bremen.de/fileadmin/user_upload/sites/studierwerkstatt/Leitfaden_wissenschaftliche_Poster_erstellen.pdf))</small>
+### Read me – ensuring readability & comprehensibility 
+<small>Based on ISEK, 2014; Studierwerkstatt an der Universität Bremen, o. D.</small>
 
-The aim is for viewers to grasp a lot at a glance with minimal reading. The less text required for understanding, the clearer your poster will be ([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf); [ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf)).
+The aim is for viewers to grasp a lot at a glance with minimal reading. The less text required for understanding, the clearer your poster will be (Burkhardt et al., 2017; ISEK, 2014).
 
 - content reduction: condense information to core statements & highlight results
 - text vs. image ratio: rule of thumb = 50% images & 50% text  
@@ -130,12 +131,13 @@ The aim is for viewers to grasp a lot at a glance with minimal reading. The less
       
 
 ### Ask me
-Design your poster to encourage viewers to engage with you ([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf)).
+Design your poster to encourage viewers to engage with you (Burkhardt et al., 2017).
 - sense of suspense, e.g. by designing the introduction so that the results appear surprising
 - comparison with contrasting results could stimulate discussion 
 
 
-## 4. Step-by-step guide of creating a scientific poster <small>([Burkhardt et al, 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf); [ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf); [Studierwerkstatt an der Universität Bremen, o. D.](https://www.uni-bremen.de/fileadmin/user_upload/sites/studierwerkstatt/Leitfaden_wissenschaftliche_Poster_erstellen.pdf))<small>
+## 4. Step-by-step guide of creating a scientific poster 
+<small>Based on Burkhardt et al, 2017; ISEK, 2014; Studierwerkstatt an der Universität Bremen, o. D.<small>
 
 **1.	Plan the work process**
 -	Familiarize yourself with the design requirements & purpose of scientific poster. Plan your workflow by outlining what needs to be completed and by when.
@@ -194,13 +196,12 @@ _If using PowerPoint set gridlines to be visible (Ansicht -> Anzeigen -> Gittern
 - If necessary, test the readability of your poster on your computer by viewing the document at its actual print size before sending it to print.
 - Always perform a test print, even on a smaller scale (e.g., A4 paper), as printed colours often differ from those displayed on a scree
 
+## 5. Excursus: Rethinking poster designs with #BetterPoster 
+<small>Based on Mike Morrison, PhD, 2019; Morrison, PhD, 2020.</small>
 
+> A poster that successfully communicates one thing is better than a poster that fails to communicate a thousand things. (Mike Morrison, PhD, 2020)
 
-## 5. Excursus: Rethinking poster designs with #BetterPoster <small>([Mike Morrison, PhD, 2019](https://www.youtube.com/watch?v=1RwJbhkCA58); [Morrison, PhD, 2020](https://www.youtube.com/watch?v=SYk29tnxASs))</small>
-
-> A poster that successfully communicates one thing is better than a poster that fails to communicate a thousand things. ([Mike Morrison, PhD, 2020](https://www.youtube.com/watch?v=SYk29tnxASs))
-
-- #better poster is a new approach to academic poster design by Mike Morrison
+- #betterposter is a new approach to academic poster design by Mike Morrison
 - aim based on user experience design: posters should tell one clear story immediately 
 	- focusing viewer attention reduces cognitive load and increases memory retention
 	- #betterposters are faster to scan, easier to understand and promote more interaction
@@ -217,11 +218,11 @@ _For more information watch [https://www.youtube.com/watch?v=SYk29tnxASs](https:
 
 
 ```{admonition} Additional tips:
-- It is essential to limit all your information to only what is crucial for understanding the content ([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf)).
-- “Need to know” instead of “Nice to know”. The less text the better ([ISEK, 2014](https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf)).
-- Do not try to make up for a lack of space with a smaller font ([Burkhardt et al., 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf)).
+- It is essential to limit all your information to only what is crucial for understanding the content (Burkhardt et al., 2017).
+- “Need to know” instead of “Nice to know”. The less text the better (ISEK, 2014).
+- Do not try to make up for a lack of space with a smaller font (Burkhardt et al., 2017).
 - Always ask yourself whether it is more effective to show your results in a figure, table or text.
-- 2 golden rules for your design ([Morrison, PhD, 2020](https://www.youtube.com/watch?v=SYk29tnxASs)):
+- 2 golden rules for your design (Morrison, PhD, 2020):
 	1. Don’t put things on your poster that people will ignore. 
 	2. People will ignore most things.
 ```
