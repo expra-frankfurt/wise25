@@ -19,16 +19,12 @@ When creating your poster, remember: **a good poster doesn´t follow a recipe, i
 
 In this session, we will cover:
 
-1. [Why are good scientific posters important?](#why-are-good)
-2. [What is a scientific poster and how is it structured?](#search-engines-for-literature)
-3. [Using citation patterns to find literature](#using-citations-to-find-literature)
-4. [Tools for literature search/review](#tools-for-literature-searchreview)
-    - [Citation-based tools](#a-citation-based-tool-inciteful)
-    - [AI-based tools](#ai-based-tools)
-    - [Meta-analysis tools](#meta-analysis-tools-for-neuroimaging)
-    - [Mind maps](#mind-maps)
-5. [How to read papers](#how-to-read-a-paper)
-6. Example Posters
+1. [Why are good scientific posters important?](#why-are-good-scientific-posters-important)
+2. [What is a scientific poster and how is it structured?](#What-is-a-scientific-poster-and-how-is-it-structured)
+3. [Design principles – 3 levels of engagement](#design-principles)
+4. [Step-by-step guide of creating a scientific poster](#step-by-step-guide)
+5. [Excursus: Rethinking poster designs with #BetterPoster](#excursus)
+6. [Example Posters](#example-posters)
 
 
 ## 1. Why are _good_ scientific posters important? <small>([Burkhardt et al, 2017](https://www2.tuhh.de/zll/wp-content/uploads/2017_Das_wissenschaftliche_Poster_website.pdf))</small>
