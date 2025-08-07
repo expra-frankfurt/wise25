@@ -6,10 +6,10 @@ A poster without a presentation is no poster at all! Your presentation serves as
 
 In this session, we will cover:
 
-1. [Why is a good presentation of your poster important?](#why-is-a-good-presentation-of-your-poster-important-burkhardt-et-al-2017-erren-bourne-2007-isek-2014)
-2. [Preparation for the Presentation](#preparation-for-the-presentation-burkhardt-et-al-2017-erren-bourne-2007-isek-2014-rowe-ilic-2011)
-3. [The Presentation itself](the-presentation-itself-burkhardt-et-al-2017-erren-bourne-2007-isek-2014-rowe-ilic-2011)
-4. [Typical Evaluation Criteria for Presentations](#typical-evaluation-criteria-for-presentations-burkhardt-et-al-2017-isek-2014)
+1. [Why is a good presentation of your poster important?](#why-is-a-good-presentation-of-your-poster-important)
+2. [Preparation for the Presentation](#preparation-for-the-presentation)
+3. [The Presentation itself](the-presentation-itself)
+4. [Typical Evaluation Criteria for Presentations](#typical-evaluation-criteria-for-presentation)
 
 
 
