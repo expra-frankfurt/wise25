@@ -6,25 +6,21 @@ There are lots of ways to find and organise literature. A simple Google Scholar 
 
 In this session, we will cover:
 
-- [How to manage literature](#how-to-manage-literature-zotero)
-
-- [Search engines for literature](#search-engines-for-literature)
+1. [How to manage literature](#how-to-manage-literature-zotero)
+2. [Search engines for literature](#search-engines-for-literature)
     - Using [Google Scholar](#google-scholar), [Web Of Science](#web-of-science), [PubMed](#pubmed)
     - [Tips and tricks for search engines](#tips-and-tricks-for-search-engines)
-    
-- [Using citation patterns to find literature](#using-citations-to-find-literature)
-
-- [Tools for literature search/review](#tools-for-literature-searchreview)
+3. [Using citation patterns to find literature](#using-citations-to-find-literature)
+4. [Tools for literature search/review](#tools-for-literature-searchreview)
     - [Citation-based tools](#a-citation-based-tool-inciteful)
     - [AI-based tools](#ai-based-tools)
     - [Meta-analysis tools](#meta-analysis-tools-for-neuroimaging)
     - [Mind maps](#mind-maps)
-
-- [How to read papers](#how-to-read-a-paper)
+5. [How to read papers](#how-to-read-a-paper)
 
 -----------------------------
 
-## How to Manage Literature: Zotero
+## 1. How to Manage Literature: Zotero
 
 An important first step is to make sure you have a way of keeping track of all the relevant papers you find. We recommend [Zotero](https://www.zotero.org/) as a tool to help with this.
 
@@ -52,7 +48,7 @@ You can read pdfs directly in Zotero, and save notes so you can easily come back
 
 -----------------------------
 
-## Search Engines for Literature
+## 2. Search Engines for Literature
 
 The three most popular search engines for finding scientific literature are Google Scholar, Web of Science, and PubMed.
 
@@ -150,11 +146,11 @@ You can also write an email to or visit the library to request help. Librarians 
     
 -------------------------------
 
-## Tips and Tricks for Search Engines
+### Tips and Tricks for Search Engines
 
 Here are a few handy tricks for making your searches more effective.
 
-### Phrase Search
+#### Phrase Search
 
 Imagine you want to search for articles that mention the *visual world paradigm*. This is a specific form of experimental design that researchers often use to look at visual and language processes (see Huettig et al., [2011](https://doi.org/10.1016/j.actpsy.2010.11.003)). You could just search for `visual world paradigm`, but this might also match articles that just happen to mention all three words at some point in the article.
 
@@ -162,7 +158,7 @@ For example, you might find an article that has a title like, *Visual processing
 
 Instead, you can use *phrase searching*, where you put quotation marks around the phrase you want to search for. If you search for `"visual world paradigm"` in quotation marks, the search engine will look for articles that use this exact phrase, including the spaces and the exact word order that you asked for.
 
-### Logical operators
+#### Logical operators
 
 You can combine keywords in your search with "logical operators", like AND, OR, and NOT. These can be useful if we want to exclude irrelevant results that include certain words or phrases.
 
@@ -176,13 +172,13 @@ We can solve these example problems with logical operators:
 
 * We could combine possible search terms with the OR operator. In Google Scholar, we can do this by searching for, e.g., `"working memory" OR "short term memory"`.
 
-### Proximity search
+#### Proximity search
 
 Sometimes we want to find a word that occurs close to another relevant word. For example, imagine we want to find articles that mention *healthy aging* in the context of *face recognition*. We can do this using the AROUND operator. For example, if we want to find articles that mention healthy aging within 25 words of face recognition, we could search for:
 
 `"healthy aging" AROUND(25) "face recognition"`
 
-### Wildcards
+#### Wildcards
 
 A final useful trick is wildcards. Imagine we want to search for articles that are related to depression in adolescents. The words *depression* and *adolescent* might occur in articles, but so might *depressive*, *depressed*, *adolescents*, or *adolescence*. We could use wildcards to capture all of these:
 
@@ -196,7 +192,7 @@ A final useful trick is wildcards. Imagine we want to search for articles that a
 
 </br>
 
-## Using Citations to Find Literature
+## 3. Using Citations to Find Literature
 
 When you have found a very relevant article for a topic you are researching. A really useful way of exploring literature is looking up:
 1. Who does this article cite? (*Backward Search*)
@@ -228,7 +224,7 @@ Here is an example of what that looks like in google scholar:
 ------------------------------
 
 
-## Tools for Literature Search/Review
+## 4. Tools for Literature Search/Review
 
 As well as the search engine approaches above, there are also some helpful tools you might want to consider. These tools don't replace the literature search methods above, but can be effective tools when *combined* with a literature search.
 
@@ -252,7 +248,7 @@ Examples include:
 * [Elicit](https://elicit.com/): Provides tools for summarising papers. Provides limited usage for free.
 
 
-## Meta-analysis tools for Neuroimaging
+### Meta-analysis tools for Neuroimaging
 
 Some tools can use natural language processing (NLP) techniques to extract information from the texts of published studies, and use these data to generate statistical summaries of brain activity patterns across specific cognitive processes or experimental conditions.
 
@@ -266,7 +262,7 @@ Two platforms for this are:
 * [Neuroquery](https://neuroquery.org/)
 * [Neurosyth](https://neurosynth.org/)
 
-## Mind Maps
+### Mind Maps
 
 An approach you might find useful when reading literature, is to connect the articles you are reading to each other and your own work in a mind map.
 
@@ -274,7 +270,7 @@ An approach you might find useful when reading literature, is to connect the art
 
 This can help remind you where all the different articles fit in, and can help you structure your report when it comes time to write everything up.
 
-## How to Read a Paper
+## 5. How to Read a Paper
 
 ### "10 Simple Rules"
 
