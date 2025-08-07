@@ -198,7 +198,7 @@ _If using PowerPoint set gridlines to be visible (Ansicht -> Anzeigen -> Gittern
 
 ## 5. Excursus: Rethinking poster designs with #BetterPoster <small>([Mike Morrison, PhD, 2019](https://www.youtube.com/watch?v=1RwJbhkCA58); [Morrison, PhD, 2020](https://www.youtube.com/watch?v=SYk29tnxASs))</small>
 
-> _A poster that successfully communicates one thing is better than a poster that fails to communicate a thousand things._ ([Mike Morrison, PhD, 2020](https://www.youtube.com/watch?v=SYk29tnxASs))
+> A poster that successfully communicates one thing is better than a poster that fails to communicate a thousand things. ([Mike Morrison, PhD, 2020](https://www.youtube.com/watch?v=SYk29tnxASs))
 
 - #better poster is a new approach to academic poster design by Mike Morrison
 - aim based on user experience design: posters should tell one clear story immediately 
