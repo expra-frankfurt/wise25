@@ -19,11 +19,11 @@ When creating your poster, remember: **a good poster doesn´t follow a recipe, i
 
 In this session, we will cover:
 
-1. [Why are good scientific posters important?](#why-are-good-scientific-posters-important)
-2. [What is a scientific poster and how is it structured?](#What-is-a-scientific-poster-and-how-is-it-structured)
-3. [Design principles – 3 levels of engagement](#design-principles)
-4. [Step-by-step guide of creating a scientific poster](#step-by-step-guide)
-5. [Excursus: Rethinking poster designs with #BetterPoster](#excursus)
+1. [Why are good scientific posters important?](#1-why-are-good-scientific-posters-important-burkhardt-et-al-2017)
+2. [What is a scientific poster and how is it structured?](#what-is-a-scientific-poster-and-how-is-it-structured)
+3. [Design principles – 3 levels of engagement](#design-principles-3-levels-of-engagement-alean-kirkpatrick-2002a-2002b-as-cited-in-burkhardt-et-al-2017)
+4. [Step-by-step guide of creating a scientific poster](#step-by-step-guide-of-creating-a-scientific-poster-burkhardt-et-al-2017-isek-2014-studierwerkstatt-an-der-universitat-bremen-o-d)
+5. [Excursus: Rethinking poster designs with #BetterPoster](#excursus-rethinking-poster-designs-with-betterposter-mike-morrison-phd-2019-morrison-phd-2020)
 6. [Example Posters](#example-posters)
 
 
