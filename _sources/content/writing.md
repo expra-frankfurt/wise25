@@ -22,7 +22,7 @@ In this session, we will cover:
 - Formulate your title early on during (or even before) writing– as a reminder to yourself of the contribution you want to make and communicate
 
 **Example**:  
-Scene-selective brain regions respond to embedded objects of a scene (Aminoff & Durham, 2022)
+Scene-selective brain regions respond to embedded objects of a scene ([Aminoff & Durham, 2022](https://doi.org/10.1093/cercor/bhac399))
 
 ## 2. Write for readers who don’t know your work
 <img src="../_static/science-hell.png" alt="Comic with three people standing in hell. One of the three persons look like the devil, who says to one person while pointing to the other one: Welcome to science hell, Professor, this is Tony. He once saw something on the internet about your field of expertise and is going to spent eternety lecturing you on it."  width="333"  />
