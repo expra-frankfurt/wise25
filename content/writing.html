@@ -197,6 +197,8 @@
 <li class="toctree-l2"><a class="reference internal" href="visualization.html">Data Visualization</a></li>
 <li class="toctree-l2"><a class="reference internal" href="presentation.html">Poster Presentation</a></li>
 <li class="toctree-l2 current active"><a class="current reference internal" href="#">Scientific Writing</a></li>
+
+
 </ul>
 </details></li>
 <li class="toctree-l1"><a class="reference internal" href="../general_information/CoC.html">Code of Conduct</a></li>
@@ -390,7 +392,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
 </div></div>
       
     </div>
@@ -406,6 +410,29 @@ document.write(`
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Scientific Writing</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#contents">Contents</a><ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#focus-your-paper-on-a-central-contribution">1. Focus your paper on a central contribution</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#write-for-readers-who-dont-know-your-work">2. Write for readers who don’t know your work</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-context-content-conclusion-scheme">3. The context-content-conclusion scheme</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#have-a-clear-logical-flow-of-arguments">4. Have a clear, logical flow of arguments</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tell-a-complete-story-in-the-abstract">5. Tell a complete story in the abstract</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction-say-why-your-paper-matters">6. Introduction: Say why your paper matters</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#method-provide-enough-detail-for-a-replication">7. Method: Provide enough detail for a replication</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#results-series-of-evidence-supporting-your-claim">8. Results: Series of evidence supporting your claim</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#discussion-was-the-gap-filled">9. Discussion: Was the gap filled?</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#test-your-paper-on-naive-readers">10. Test your paper on naïve readers</a></li>
+</ul>
+</li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#language">Language</a></li>
+</ul>
+
+            </nav>
         </div>
     </div>
 </div>
@@ -417,6 +444,229 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="scientific-writing">
 <h1>Scientific Writing<a class="headerlink" href="#scientific-writing" title="Permalink to this heading">#</a></h1>
+<p>In this session, we will cover:</p>
+<ol class="arabic simple">
+<li><p><a class="reference internal" href="#contents"><span class="xref myst">Contents</span></a></p></li>
+<li><p><a class="reference external" href="https://www.sphinx-doc.org/en/master/development/html_themes/templating.html#language" title="Sphinx 8.3.0"><span class="xref myst">Language</span></a></p></li>
+<li><p><a class="reference internal" href="#form"><span class="xref myst">Form</span></a></p></li>
+</ol>
+<ul class="simple">
+<li><p>APA style</p></li>
+<li><p>Figures and Tables</p></li>
+<li><p>References</p></li>
+</ul>
+<ol class="arabic simple" start="4">
+<li><p><a class="reference internal" href="#use-of-ai-tools"><span class="xref myst">Use of AI tools</span></a></p></li>
+</ol>
+</section>
+<section class="tex2jax_ignore mathjax_ignore" id="contents">
+<h1>Contents<a class="headerlink" href="#contents" title="Permalink to this heading">#</a></h1>
+<img src="../_static/ten-rules.png" alt="Screenshot of the PLOS article by Mensh and Kording, named Ten simple rules for structuring papers" width="648" />
+<section id="focus-your-paper-on-a-central-contribution">
+<h2>1. Focus your paper on a central contribution<a class="headerlink" href="#focus-your-paper-on-a-central-contribution" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>Make your claim as <strong>simple</strong> as your data and experimental logic allow</p></li>
+<li><p>Clearly communicate your contribution in the **title of your paper **</p>
+<ul>
+<li><p>Titles should be <strong>short</strong> (10-15 words), <strong>avoid abbreviations/jargon</strong>, no question marks</p></li>
+</ul>
+</li>
+<li><p>Formulate your title early on during (or even before) writing– as a reminder to yourself of the contribution you want to make and communicate</p></li>
+</ul>
+<p><strong>Example</strong>:<br />
+Scene-selective brain regions respond to embedded objects of a scene (Aminoff &amp; Durham, 2022)</p>
+</section>
+<section id="write-for-readers-who-dont-know-your-work">
+<h2>2. Write for readers who don’t know your work<a class="headerlink" href="#write-for-readers-who-dont-know-your-work" title="Permalink to this heading">#</a></h2>
+<img src="../_static/science-hell.png" alt="Comic with three people standing in hell. One of the three persons look like the devil, who says to one person while pointing to the other one: Welcome to science hell, Professor, this is Tony. He once saw something on the internet about your field of expertise and is going to spent eternety lecturing you on it."  width="333"  />
+<ul class="simple">
+<li><p><strong>Write for a naïve reader</strong> (a psychologist who is not from the specific field your project is located in)</p></li>
+<li><p>Define specific/technical <strong>terms</strong>, avoid abbreviations and acronyms (unless common, such as RT or ms)</p></li>
+<li><p><strong>Make your reader care</strong> about your work (why is it important?)</p></li>
+</ul>
+</section>
+<section id="the-context-content-conclusion-scheme">
+<h2>3. The context-content-conclusion scheme<a class="headerlink" href="#the-context-content-conclusion-scheme" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>Each good story consists of three parts:</p>
+<ul>
+<li><p>Beginning: Set up the <strong>context</strong> (problem) for the story → No context: “Why was I told that?”</p></li>
+<li><p>Body: Provide the <strong>content</strong> of the story → No content: “Why should I believe that?”</p></li>
+<li><p>Ending: Problem finds its <strong>conclusion</strong>  → No conclusion: “So what?”</p></li>
+</ul>
+</li>
+<li><p><strong>Paper level</strong>: Introduction (context), methods &amp; results (content), discussion (conclusion)</p></li>
+<li><p><strong>Paragraph level</strong>: First sentence defines the topic, body provides (novel) content, last sentence provides a conclusion</p></li>
+</ul>
+<img width="847" height="166" alt="grafik" src="https://github.com/user-attachments/assets/4aa22819-d3cb-4a11-a989-01f5e7d81dfe" />
+<ul class="simple">
+<li><p>The C-C-C scheme also follows a broad-narrow-broad structure (the “hour-glass structure”)</p></li>
+</ul>
+<img width="930" height="268" alt="grafik" src="https://github.com/user-attachments/assets/78b445b0-c979-4fb7-9e9d-903232c3e138" />
+</section>
+<section id="have-a-clear-logical-flow-of-arguments">
+<h2>4. Have a clear, logical flow of arguments<a class="headerlink" href="#have-a-clear-logical-flow-of-arguments" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p><strong>Avoid zig-zag</strong>:</p>
+<ul>
+<li><p>Each subject should be covered only in one place</p></li>
+<li><p>Related sentences or paragraphs should be strung together</p></li>
+<li><p>Arguments should not be interrupted by unrelated material (“zig-zag”)</p></li>
+</ul>
+</li>
+<li><p><strong>Use parallelism</strong>:</p>
+<ul>
+<li><p>Parallel messages should be communicated with parallel form (same syntax, same terms for same concepts)</p></li>
+<li><p>Sounding repetitive is better than confusing people</p></li>
+<li><p>This is especially important when using abbreviations (e.g., for conditions):</p>
+<ul>
+<li><p><strong>Bad</strong>: “CON stimuli lead to slower responses whereas inconsistent stimuli had lower RTs.”</p></li>
+<li><p><strong>Good</strong>: “Participants responded faster to consistent compared to inconsistent stimuli.”</p></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</section>
+<section id="tell-a-complete-story-in-the-abstract">
+<h2>5. Tell a complete story in the abstract<a class="headerlink" href="#tell-a-complete-story-in-the-abstract" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>For most readers, the abstract is the only part of a paper they will ever read!</p></li>
+<li><p>Once again, the Context-Content-Conclusion rule (and hourglass structure) applies:</p>
+<ul>
+<li><p><strong>Context</strong>:</p>
+<ul>
+<li><p>Introduce the <strong>broader field</strong> (1-2 sentences)</p></li>
+<li><p>Narrow down the context to the <strong>specific open question</strong> you want to answer (the “gap”; 1-2)</p></li>
+<li><p>Justify <strong>why this question matters</strong> (relate back to broader context you started with; 1-2)</p></li>
+</ul>
+</li>
+<li><p><strong>Content</strong>:</p>
+<ul>
+<li><p>Summarize the <strong>method/experimental logic</strong> you used to answer your question (“Here we…”; 1-2)</p></li>
+<li><p>Present the <strong>key results</strong> (2-3)</p></li>
+</ul>
+</li>
+<li><p><strong>Conclusion</strong>:</p>
+<ul>
+<li><p>Interpret the results and <strong>answer the question</strong> you posed in the beginning (1-3)</p></li>
+<li><p>Show the <strong>consequences of your findings</strong> (with respect to theories, future studies, etc.; 1-2)</p></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>The Abstract should consist of 200-250 words!</p></li>
+</ul>
+</section>
+<section id="introduction-say-why-your-paper-matters">
+<h2>6. Introduction: Say why your paper matters<a class="headerlink" href="#introduction-say-why-your-paper-matters" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>Identify the <strong>gap in knowledge you seek to fill</strong> and highlight <strong>why it is important</strong></p>
+<ul>
+<li><p>Introduce the <strong>general topic/field</strong> (short) – Why is it important?</p></li>
+<li><p>Summarize <strong>current knowledge</strong> of the field (findings, theories, models) – What is your study based on?</p></li>
+<li><p>Establish gap in current knowledge – What is <strong>still unclear</strong>?</p></li>
+<li><p>Describe your project – What is the <strong>question/goal of your study</strong>?</p></li>
+<li><p>Summarize your design, key results and conclusion – <strong>How is your project “filling the gap”?</strong></p></li>
+</ul>
+</li>
+<li><p>Underline your arguments with <strong>relevant citations</strong>, but only cite articles that are directly related to your work!</p></li>
+<li><p>Follow the <strong>hourglass principle</strong>: broad to narrow (or general to specific)!</p></li>
+</ul>
+</section>
+<section id="method-provide-enough-detail-for-a-replication">
+<h2>7. Method: Provide enough detail for a replication<a class="headerlink" href="#method-provide-enough-detail-for-a-replication" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>After reading the method section, readers should be able to…</p>
+<ul>
+<li><p>Judge whether your experiment is suited to answer your question</p></li>
+<li><p>Repeat your experiment</p></li>
+</ul>
+</li>
+<li><p>Method section usually has its own subsections:</p>
+<ul>
+<li><p><strong>Participants</strong>: Who participated in your study (summary of demographic data)</p></li>
+<li><p><strong>Materials</strong>: Stimuli that participants perceived, devices/software used to display stimuli and collect responses, etc.</p></li>
+<li><p><strong>Procedure</strong>: What happened when (order of events), participants’ task, trial structure</p></li>
+<li><p><strong>Design</strong>: Description of experimental factors/manipulations → Can also be part of the procedure if design is simple</p></li>
+<li><p><strong>Analysis</strong>: Description of specific analysis strategies → Not needed for common analyses</p></li>
+</ul>
+</li>
+<li><p>Important: Assignment to experimental conditions (random?), between- or within-subjects design, counterbalancing of participants and/or stimuli, etc.</p></li>
+</ul>
+</section>
+<section id="results-series-of-evidence-supporting-your-claim">
+<h2>8. Results: Series of evidence supporting your claim<a class="headerlink" href="#results-series-of-evidence-supporting-your-claim" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>(Mentally) structure your results in subsections:</p></li>
+<li><p>Which statistical analysis is testing what aspect of your question(s)?</p></li>
+<li><p>Introduce the question each paragraph answers: <em>“We next tested whether…”, “After showing […], we next tested…”, “To ensure that there are no artifacts…”</em>, etc.</p></li>
+<li><p>If necessary, summarize your method/analysis strategy again (e.g., unusual designs or category names/abbreviations)</p></li>
+<li><p>If possible, give an answer to each question at the end of the paragraph: “<em>We thus conclude that there are no artifacts of…</em>”</p></li>
+<li><p><strong>Summarize</strong> both descriptive and test results, and <strong>relate them to your hypotheses</strong>!</p>
+<ul>
+<li><p>“<em>In line with the context hypothesis, we found…</em>” or “<em>…were faster which supports the notion of…</em>”</p></li>
+</ul>
+</li>
+</ul>
+</section>
+<section id="discussion-was-the-gap-filled">
+<h2>9. Discussion: Was the gap filled?<a class="headerlink" href="#discussion-was-the-gap-filled" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>Start by <strong>repeating the main question</strong> of your work, the <strong>key findings</strong> and whether they <strong>support your hypotheses</strong></p></li>
+<li><p>Highlight the main <strong>contributions</strong> of your work to the gap: <strong>Relate your findings</strong> to previous findings, theories, models, etc.</p></li>
+<li><p>Discuss <strong>potential differences</strong> between your findings and others as well as unexpected results and provide <strong>reasons for these differences</strong> (you can speculate here)</p></li>
+<li><p>Discuss <strong>limitations</strong> of your work, remaining open questions and <strong>implications</strong> for future studies</p></li>
+<li><p>Show how your work advances the field, draw a <strong>summarizing conclusion</strong> (take-home message)</p></li>
+<li><p>Follow the <strong>hourglass structure</strong> (specific to general) in the discussion</p></li>
+</ul>
+</section>
+<section id="test-your-paper-on-naive-readers">
+<h2>10. Test your paper on naïve readers<a class="headerlink" href="#test-your-paper-on-naive-readers" title="Permalink to this heading">#</a></h2>
+<div class="pst-scrollable-table-container"><table class="colwidths-auto table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Rule</p></th>
+<th class="head"><p>Sign of violation</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>1. Focus on a central contribution</p></td>
+<td><p>Readers cannot give a 1-sentence summary</p></td>
+</tr>
+<tr class="row-odd"><td><p>2. Write for naïve readers</p></td>
+<td><p>Readers do not “get” the paper</p></td>
+</tr>
+<tr class="row-even"><td><p>3. Use context-content-conclusion scheme</p></td>
+<td><p>Readers ask why something matters</p></td>
+</tr>
+<tr class="row-odd"><td><p>4. Have a clear, logical flow of arguments</p></td>
+<td><p>Readers stumble on small section of text</p></td>
+</tr>
+<tr class="row-even"><td><p>5. Tell a complete story in the abstract</p></td>
+<td><p>Readers cannot give an “elevator pitch” of your work after reading the abstract</p></td>
+</tr>
+<tr class="row-odd"><td><p>6. Introduction: Say why your paper matters</p></td>
+<td><p>Readers show little interest in the paper</p></td>
+</tr>
+<tr class="row-even"><td><p>7. Method: Provide enough detail for a replication</p></td>
+<td><p>Readers can’t recreate your experiment</p></td>
+</tr>
+<tr class="row-odd"><td><p>8. Results: Series of evidence supporting your claim</p></td>
+<td><p>Readers do not agree with your conclusion</p></td>
+</tr>
+<tr class="row-even"><td><p>9. Discussion: Was the gap filled?</p></td>
+<td><p>Readers are left with unanswered criticisms and/or questions on their mind</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+</section>
+<section class="tex2jax_ignore mathjax_ignore" id="language">
+<h1>Language<a class="headerlink" href="#language" title="Permalink to this heading">#</a></h1>
+<hr class="docutils" />
+<p><strong>Acknowledgments</strong><br />
+This section was contributed by <a class="reference external" href="https://www.goethe-university-frankfurt.de/120691400/Dr__Sandro_Wiesmann">Sandro Wiesmann</a>.</p>
 </section>
 
     <script type="text/x-thebe-config">
@@ -473,6 +723,36 @@ document.write(`
             </div>
             
             
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Scientific Writing</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#contents">Contents</a><ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#focus-your-paper-on-a-central-contribution">1. Focus your paper on a central contribution</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#write-for-readers-who-dont-know-your-work">2. Write for readers who don’t know your work</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-context-content-conclusion-scheme">3. The context-content-conclusion scheme</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#have-a-clear-logical-flow-of-arguments">4. Have a clear, logical flow of arguments</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tell-a-complete-story-in-the-abstract">5. Tell a complete story in the abstract</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction-say-why-your-paper-matters">6. Introduction: Say why your paper matters</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#method-provide-enough-detail-for-a-replication">7. Method: Provide enough detail for a replication</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#results-series-of-evidence-supporting-your-claim">8. Results: Series of evidence supporting your claim</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#discussion-was-the-gap-filled">9. Discussion: Was the gap filled?</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#test-your-paper-on-naive-readers">10. Test your paper on naïve readers</a></li>
+</ul>
+</li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#language">Language</a></li>
+</ul>
+
+  </nav></div>
+
+</div></div>
               
             
           </div>
