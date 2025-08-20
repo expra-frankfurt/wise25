@@ -13,9 +13,7 @@ In this session, we will cover:
 ## Contents
 <img src="../_static/ten-rules.png" alt="Screenshot of the PLOS article by Mensh and Kording, named Ten simple rules for structuring papers" width="648" />
 
-<big>1. Focus your paper on a central contribution</big>  
-<big>**1. Focus your paper on a central contribution**</big>
-
+<big>**1. Focus your paper on a central contribution**</big>  
 
 - Make your claim as **simple** as your data and experimental logic allow
 - Clearly communicate your contribution in the **title of your paper **
@@ -25,20 +23,19 @@ In this session, we will cover:
 **Example**:  
 Scene-selective brain regions respond to embedded objects of a scene ([Aminoff & Durham, 2022](https://doi.org/10.1093/cercor/bhac399))
 
-### 2. Write for readers who don’t know your work
+<big>**2. Write for readers who don’t know your work**</big>  
 <img src="../_static/science-hell.png" alt="Comic with three people standing in hell. One of the three persons look like the devil, who says to one person while pointing to the other one: Welcome to science hell, Professor, this is Tony. He once saw something on the internet about your field of expertise and is going to spent eternety lecturing you on it."  width="333"  />
 
 - **Write for a naïve reader** (a psychologist who is not from the specific field your project is located in)
 - Define specific/technical **terms**, avoid abbreviations and acronyms (unless common, such as RT or ms)
 - **Make your reader care** about your work (why is it important?)
 
-### 3. The context-content-conclusion scheme
+<big>**3. The context-content-conclusion scheme**</big>
 - Each good story consists of three parts:
   - Beginning: Set up the **context** (problem) for the story → No context: “Why was I told that?”
   - Body: Provide the **content** of the story → No content: “Why should I believe that?”
   - Ending: Problem finds its **conclusion**  → No conclusion: “So what?”
  
-
 - **Paper level**: Introduction (context), methods & results (content), discussion (conclusion)
 - **Paragraph level**: First sentence defines the topic, body provides (novel) content, last sentence provides a conclusion
   
@@ -48,7 +45,7 @@ Scene-selective brain regions respond to embedded objects of a scene ([Aminoff &
 
 <img width="930" height="268" alt="grafik" src="https://github.com/user-attachments/assets/78b445b0-c979-4fb7-9e9d-903232c3e138" />
 
-### 4. Have a clear, logical flow of arguments
+<big>**4. Have a clear, logical flow of arguments**</big>  
 
 - **Avoid zig-zag**: 
   - Each subject should be covered only in one place
@@ -62,7 +59,7 @@ Scene-selective brain regions respond to embedded objects of a scene ([Aminoff &
     - **Bad**: “CON stimuli lead to slower responses whereas inconsistent stimuli had lower RTs.”
     - **Good**: “Participants responded faster to consistent compared to inconsistent stimuli.”
 
-### 5. Tell a complete story in the abstract
+<big>**5. Tell a complete story in the abstract**</big>  
 
 - For most readers, the abstract is the only part of a paper they will ever read!
 - Once again, the Context-Content-Conclusion rule (and hourglass structure) applies:
@@ -78,7 +75,7 @@ Scene-selective brain regions respond to embedded objects of a scene ([Aminoff &
     - Show the **consequences of your findings** (with respect to theories, future studies, etc.; 1-2)
 - The Abstract should consist of 200-250 words!
 
-### 6. Introduction: Say why your paper matters
+<big>**6. Introduction: Say why your paper matters**</big>  
 
 - Identify the **gap in knowledge you seek to fill** and highlight **why it is important**
   - Introduce the **general topic/field** (short) – Why is it important?
@@ -89,7 +86,7 @@ Scene-selective brain regions respond to embedded objects of a scene ([Aminoff &
 - Underline your arguments with **relevant citations**, but only cite articles that are directly related to your work!
 - Follow the **hourglass principle**: broad to narrow (or general to specific)!
 
-### 7. Method: Provide enough detail for a replication
+<big>**7. Method: Provide enough detail for a replication**</big>  
 
 - After reading the method section, readers should be able to…
   - Judge whether your experiment is suited to answer your question 
@@ -102,7 +99,7 @@ Scene-selective brain regions respond to embedded objects of a scene ([Aminoff &
   - **Analysis**: Description of specific analysis strategies → Not needed for common analyses
 - Important: Assignment to experimental conditions (random?), between- or within-subjects design, counterbalancing of participants and/or stimuli, etc.
 
-### 8. Results: Series of evidence supporting your claim
+<big>**8. Results: Series of evidence supporting your claim**</big>  
 
 - (Mentally) structure your results in subsections: 
 - Which statistical analysis is testing what aspect of your question(s)? 
@@ -113,7 +110,7 @@ Scene-selective brain regions respond to embedded objects of a scene ([Aminoff &
 - **Summarize** both descriptive and test results, and **relate them to your hypotheses**!
   - “_In line with the context hypothesis, we found…_” or “_…were faster which supports the notion of…_”
 
-### 9. Discussion: Was the gap filled?
+<big>**9. Discussion: Was the gap filled?**</big>  
 
 - Start by **repeating the main question** of your work, the **key findings** and whether they **support your hypotheses**
 - Highlight the main **contributions** of your work to the gap: **Relate your findings** to previous findings, theories, models, etc.
@@ -122,7 +119,7 @@ Scene-selective brain regions respond to embedded objects of a scene ([Aminoff &
 - Show how your work advances the field, draw a **summarizing conclusion** (take-home message)
 - Follow the **hourglass structure** (specific to general) in the discussion
 
-### 10. Test your paper on naïve readers
+<big>**10. Test your paper on naïve readers**</big>  
 
 | Rule | Sign of violation |
 | --- | ----------- |
@@ -140,7 +137,7 @@ Scene-selective brain regions respond to embedded objects of a scene ([Aminoff &
 
 <img src="../_static/two-kind-of-facts.jpg" alt="Comic of one guy saying to another one: While doing the research, keep in mind there are only two kinds of facts... Thorse that support my position... and inconclusive." />
 
-### Scientific language
+<big>**Scientific language**</big>  
 
 - No colloquial language (e.g., colloquial expressions, abbreviations)  
     **Bad**: _We don’t think there is much of an effect, the test scores were pretty much the same._  
@@ -154,7 +151,7 @@ Scene-selective brain regions respond to embedded objects of a scene ([Aminoff &
   - Simple past for what you or others did: _We conducted an ANOVA… Kim (2015) showed…_
   - Simple present for conclusions and generalizations: _We conclude that font size affects reading speed._
 
-### Your language should be precise and clear
+<big>**Your language should be precise and clear**</big>  
 
 - Use clear, precise and objective language  
 **Bad**: _Response times were roughly equal._  
@@ -169,13 +166,13 @@ Scene-selective brain regions respond to embedded objects of a scene ([Aminoff &
 
 Use **consistent terminology** for conditions, abbreviations, etc. in the **text**, **table** and **figures**!
 
-### Simple is (usually) better!
+<big>**Simple is (usually) better!**</big>  
 
 - Use simple language – no need to sound smart!
 - Avoid overly long sentences – try to break them up into shorter sentences
   - Worst case you can use a numbered list: “_We show that (1) scene categorization is…, (2)…, (3)…_”
 
-### Guide your reader through your text
+<big>**Guide your reader through your text**</big>  
 
 - While writing, consider not only the message you want to convey, but also the **information your reader needs** to understand it
 - There should be a clear _**roter Faden**_ in your work, **arguments should build on each other** 
@@ -194,7 +191,7 @@ First of all: Always follow “APA style”! You find a short overview [here](ht
 <img src="../_static/apa-cover.jpg" alt="Cover of the APA 7 publication manual" width="333" />
 American Psychological Association (2020). Publication Manual of the American Psychological Association. 7th Edition, American Psychological Association.
 
-### Purpose of APA style
+<big>**Purpose of APA style**</big>  
 
 - Standardized writing conventions for
   - The structure of empirical reports
@@ -204,7 +201,7 @@ American Psychological Association (2020). Publication Manual of the American Ps
   - All psychological articles should follow same guidelines and structure
   - Reports should be objective, precise and brief, no “colourful” or colloquial language
 
-### APA: Structure of your manuscript
+<big>**APA: Structure of your manuscript**</big>  
 1. Title page
   - Title, author name(s), contact information, keywords
 2. Abstract
@@ -217,7 +214,7 @@ American Psychological Association (2020). Publication Manual of the American Ps
 8. Appendix
 For your final reports: + signed _Eigenständigkeitserklärung_
 
-### APA: Layout
+<big>**APA: Layout**</big>  
 
 - For your reports: Times New Roman, size 12, double-spaced, left-aligned (no hyphens/manual breaks in words at end of line)
 - Indent first line of each paragraph using the TAB key on your keyboard
@@ -231,7 +228,7 @@ For your final reports: + signed _Eigenständigkeitserklärung_
 Have a look at the [APA student sample paper and Word template](https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers)
 ```
 
-### APA: Reporting test results
+<big>**APA: Reporting test results**</big>  
 
 - Use italics for letters used as statistical symbols: _t_ test, _p_ value, _R_², etc.
   - But not for Greek letters: α, β, Χ², etc.
