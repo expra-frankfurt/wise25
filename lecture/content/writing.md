@@ -306,6 +306,12 @@ Guess what the distribution of these data looks like. Take one minute to draw so
 ```{admonition} Caution, spoiler!
 :class: dropdown
 
+|  | “Real” data" | How about violins? |
+|:-------:|:---------------:|:----------:|
+| ![](../_static/example-plot-distribution1.png){width="150"} | ![](../_static/example-plot-distribution2.png){width="150"} | ![](../_static/example-plot-distribution3.png){width="150"} |
+
+
+
 <p align="center">
   <img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_static/example-plot-distribution1.png" width="25%">
 &nbsp; &nbsp; &nbsp; &nbsp;
@@ -364,12 +370,38 @@ ggplot(…) +
   geom_violin()
 </code></pre>
 
-Play with visual appearance, layer points on top of violins:
+**Play with visual appearance, layer points on top of violins:**
 <pre><code style="white-space: pre;">
 ggplot(…) + 
   geom_violin(colour = "white", fill = "grey",alpha = 0.3) + 
   geom_point(…)
 </code></pre>
+
+<big>**A personal recommendation**</big>  
+- **Invest time** into making visually appealing, easy-to-understand and clear plots!
+- Use **ggplot2** (part of the tidyverse package)
+- Choose a **plot type** appropriate for your data (e.g., violin plots)
+- Use **colours** that are easy to distinguish (consider colour vision deficiency)
+- Make sure that you **label your data clearly** (axes, legends, lines, etc.)
+- Export your figures with a **high resolution** (at least 300 dpi) or as a vector graphic
+
+<pre><code style="white-space: pre;">
+violin_plot <- ggplot(df, aes(x,y)) + 
+    geom_violin(colour = "white", fill = "grey", alpha = 0.3) +
+    labs(x = "Treatment", y = "Outcome") +
+    theme_classic() +
+    theme(legend.position = 'none')
+</code></pre>
+
+<pre><code style="white-space: pre;">
+ggsave(file = “violin_plot.png", plot = violin_plot, width = 16, height = 9,   
+    units = "cm", dpi = 300, bg = "white")
+</code></pre>
+
+### References
+
+<big>**References are important!**</big>  
+
 
 
 
