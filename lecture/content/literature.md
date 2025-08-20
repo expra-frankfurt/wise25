@@ -6,17 +6,17 @@ There are lots of ways to find and organise literature. A simple Google Scholar 
 
 In this session, we will cover:
 
-[1. How to Manage Literature](#how-to-manage-literature-zotero)
-[2. Search Engines for Literature](#search-engines-for-literature)
-    - Using [Google Scholar](#google-scholar), [Web Of Science](#web-of-science), [PubMed](#pubmed)
-    - [Tips and tricks for search engines](#tips-and-tricks-for-search-engines)
-[3. Using Citation Patterns to Find Literature](#using-citations-to-find-literature)
-[4. Tools for Literature Search/Review](#tools-for-literature-searchreview)
-    - [Citation-Based Tools](#a-citation-based-tool-inciteful)
-    - [AI-Based Tools](#ai-based-tools)
-    - [Meta-Analysis Tools](#meta-analysis-tools-for-neuroimaging)
-    - [Mind Maps](#mind-maps)
-[5. How to Read a Paper](#how-to-read-a-paper)
+[1. How to Manage Literature](#how-to-manage-literature-zotero)  
+[2. Search Engines for Literature](#search-engines-for-literature)  
+    - Using [Google Scholar](#google-scholar), [Web Of Science](#web-of-science), [PubMed](#pubmed)  
+    - [Tips and tricks for search engines](#tips-and-tricks-for-search-engines)  
+[3. Using Citation Patterns to Find Literature](#using-citations-to-find-literature)  
+[4. Tools for Literature Search/Review](#tools-for-literature-searchreview)  
+    - [Citation-Based Tools](#a-citation-based-tool-inciteful)  
+    - [AI-Based Tools](#ai-based-tools)  
+    - [Meta-Analysis Tools](#meta-analysis-tools-for-neuroimaging)  
+    - [Mind Maps](#mind-maps)  
+[5. How to Read a Paper](#how-to-read-a-paper)  
 
 -----------------------------
 
