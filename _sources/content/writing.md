@@ -2,15 +2,15 @@
 
 In this session, we will cover:
 
-1. [Contents](#contents)
-2. [Language](#language)
-3. [Form](#form)
-    - [APA style](#apa-style)
-    - [Figures and Tables](#figures-and-tables)
-    - [References](#references)
-4. [Use of AI tools](#use-of-ai-tools)
+[1. Contents](#contents)
+[2. Language](#language)
+[3. Form](#form)
+    - [3.1 APA style](#apa-style)
+    - [3.2 Figures and Tables](#figures-and-tables)
+    - [3.3 References](#references)
+[4. Use of AI tools](#use-of-ai-tools)
 
-## Contents
+## 1. Contents
 <img src="../_static/ten-rules.png" alt="Screenshot of the PLOS article by Mensh and Kording, named Ten simple rules for structuring papers" width="648" />
 
 <big>**1. Focus your paper on a central contribution**</big>  
@@ -133,7 +133,7 @@ Scene-selective brain regions respond to embedded objects of a scene (Aminoff & 
 | 8. Results: Series of evidence supporting your claim | Readers do not agree with your conclusion |
 | 9. Discussion: Was the gap filled? | Readers are left with unanswered criticisms and/or questions on their mind |
 
-## Language
+## 2. Language
 
 <img src="../_static/two-kind-of-facts.jpg" alt="Comic of one guy saying to another one: While doing the research, keep in mind there are only two kinds of facts... Thorse that support my position... and inconclusive." />
 
@@ -184,9 +184,9 @@ Use **consistent terminology** for conditions, abbreviations, etc. in the **text
   - Connect thoughts with words like _however, similarly, surprisingly, in contrast_, etc.
 
 
-## Form
+## 3. Form
 
-### APA style
+### 3.1 APA style
 First of all: Always follow “APA style”! You find a short overview [here](https://apastyle.apa.org/style-grammar-guidelines). 
 
 <img src="../_static/apa-cover.jpg" alt="Cover of the APA 7 publication manual" width="333" />   
@@ -246,7 +246,7 @@ Have a look at the [APA student sample paper and Word template](https://apastyle
 More info on [Numbers and Statistics](https://apastyle.apa.org/instructional-aids/numbers-statistics-guide.pdf).
 ```
 
-### Figures and tables
+### 3.2 Figures and tables
 
 <img src="../_static/comic-abstract.jpg" alt="Cover of the APA 7 publication manual" width="333" />   
 
@@ -349,7 +349,7 @@ ggsave(file = “violin_plot.png", plot = violin_plot, width = 16, height = 9,
     units = "cm", dpi = 300, bg = "white")
 </code></pre>
 
-### References
+### 3.3 References
 
 - APA has [strict guidelines for referencing](https://apastyle.apa.org/style-grammar-guidelines) work by others
     - Distinguish between your own thoughts and ideas taken from other sources
@@ -402,7 +402,7 @@ Click the position in the text where you want to add a citation, then click “A
 Go to the chapter {doc}`literature` to learn how to use Zotero for literature management.
 ```
 
-## Use of AI tools
+## 4. Use of AI tools
 
 ![Comic with two people standing in front of a roboter with A.I. printed on the chest. The one person says: "Only problem is it tends to hallucinate its own facts. What do we do?" - The other person responds: "Run it for president"](../_static/ai-tools.png)    
 
