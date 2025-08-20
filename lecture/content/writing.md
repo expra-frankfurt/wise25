@@ -1,13 +1,13 @@
-<img width="301" height="84" alt="grafik" src="https://github.com/user-attachments/assets/8dc77583-9470-4982-b36c-5d444be6333f" /># Scientific Writing
+# Scientific Writing
 
 In this session, we will cover:
 
 1. [Contents](#contents)
 2. [Language](#language)
 3. [Form](#form)
-    - APA style
-    - Figures and Tables
-    - References
+    - [APA style](#apa-style)
+    - [Figures and Tables](#figures-and-tables)
+    - [References](#references)
 4. [Use of AI tools](#use-of-ai-tools)
 
 ## Contents
@@ -370,10 +370,10 @@ Plagiarism in Prüfungsleistungen will make you fail the exam, worst case lead t
 - In 99 % of cases, **citing means paraphrasing, not verbatim quoting!**
 - Use verbatim quotes only if strictly necessary  
 
-_Horz and Rohrmann (2020) suggested that psychology is fun._
-_Previous research shows that students enjoy statistics (Schultze & Schnatz, 2019)._  
-_In 2021, Fiebach’s seminal study on computer games showed that…_  
-_The authors concluded that the “Expra is the most underrated seminar in the psychology bachelor” (Wiesmann, 2024, p. 47)._  
+        _Horz and Rohrmann (2020) suggested that psychology is fun._
+        _Previous research shows that students enjoy statistics (Schultze & Schnatz, 2019)._  
+        _In 2021, Fiebach’s seminal study on computer games showed that…_  
+        _The authors concluded that the “Expra is the most underrated seminar in the psychology bachelor” (Wiesmann, 2024, p. 47)._  
 
 <big>**Do yourself a favour: Use a reference management software!**</big>  
 
