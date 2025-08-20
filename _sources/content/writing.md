@@ -186,9 +186,10 @@ Use **consistent terminology** for conditions, abbreviations, etc. in the **text
 
 ## Form
 
+### APA style
 First of all: Always follow “APA style”! You find a short overview [here](https://apastyle.apa.org/style-grammar-guidelines). 
 
-<img src="../_static/apa-cover.jpg" alt="Cover of the APA 7 publication manual" width="333" />
+<img src="../_static/apa-cover.jpg" alt="Cover of the APA 7 publication manual" width="333" />  
 American Psychological Association (2020). Publication Manual of the American Psychological Association. 7th Edition, American Psychological Association.
 
 <big>**Purpose of APA style**</big>  
@@ -245,7 +246,96 @@ Have a look at the [APA student sample paper and Word template](https://apastyle
 More info on [Numbers and Statistics](https://apastyle.apa.org/instructional-aids/numbers-statistics-guide.pdf).
 ```
 
-###
+### Figures and tables
+
+<img src="../_static/comic-abstract.jpg" alt="Cover of the APA 7 publication manual" width="333" />   
+
+<big>**Importance of figures and tables**</big>  
+- Figures (and tables) are among the **most important parts of your paper**! 
+- You should…
+    - Use **figures** to visually showcase the **key findings** of your paper (and **stimuli** if applicable)
+    - Use **tables for large amounts of data** that would be too chaotic in a figure or when the exact values matter
+    - Report values in the text if it’s just a few numbers (e.g., _t_ test results)
+    - Not report the same data multiple times (i.e., in the text, a figure and/or a table)
+- Follow APA style when creating figures and tables (see below)
+- Captions should make figures and tables **self-explanatory**!
+
+<big>**APA: Figure guidelines**</big>  
+<img width="839" height="428" alt="grafik" src="https://github.com/user-attachments/assets/234b789d-4e60-4f22-a2ba-ec9cd64a9985" />  
+
+```{tip}
+APA [figure guidelines](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/figures) and [sample figures](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/sample-figures)
+```
+
+<big>**APA: Table guidelines**</big>  
+<img width="911" height="420" alt="grafik" src="https://github.com/user-attachments/assets/96c5eb4d-bb4c-4b27-bfd5-c7553dc8287d" />
+
+```{tip}
+APA [table guidelines](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/tables) and [sample tables](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/sample-tables)
+```
+
+<big>**Warning: Hideous graphs! Don’t try at home!**</big>  
+
+[Here, you could include a more "interactive" part?]
+
+E.g.: 
+
+Image of a graph
+
+```{admonition} Why your graphs shouldn't look like this: OR How could you improve this graph?
+:class: dropdown
+
+- reason 1 / tip 1
+- reason 2 / tip 2
+
+```
+
+
+<big>**Use a plot type appropriate for your data**</big>  
+
+<p align="center">
+  <img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_static/example-plot-distribution1.png" width="30%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="" src="" width="30%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="" src="" width="30%">
+</p>
+
+Guess what the distribution of these data looks like. Take one minute to draw some data points…
+
+```{admonition} Caution, spoiler!
+:class: dropdown
+
+<p align="center">
+  <img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_static/example-plot-distribution1.png" width="30%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Centered image: Plot of the data that shows that the underlying data is distributed very different although the mean is always approximately 50. " src="../_static/example-plot-distribution2.png" width="30%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Right image: Violin plot of the data that represents the data and the means nicely." src="../_static/example-plot-distribution3.png" width="30%">
+</p>
+
+```
+
+<div class="row">
+  <figure>
+  <img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_static/example-plot-distribution1.png" width="30%">
+     <figcaption></figcaption>
+  </figure>
+  <figure>
+  <img alt="Centered image: Plot of the data that shows that the underlying data is distributed very different although the mean is always approximately 50. " src="../_static/example-plot-distribution2.png" width="30%">
+    <figcaption>“Real” data:</figcaption>
+  </figure>
+  <figure>
+  <img alt="Right image: Violin plot of the data that represents the data and the means nicely." src="../_static/example-plot-distribution3.png"  width="30%">
+    <figcaption>How about violins?</figcaption>
+  </figure>
+</div>
+
+
+
+
+
+
 
 
 
