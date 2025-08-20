@@ -1,4 +1,4 @@
-# Scientific Writing
+<img width="138" height="84" alt="grafik" src="https://github.com/user-attachments/assets/d7037d98-ec45-48f3-89fe-c6ce7f74afd2" /><img width="808" height="119" alt="grafik" src="https://github.com/user-attachments/assets/5b9828e0-7966-4030-a5d5-260ec93c3d51" /># Scientific Writing
 
 
 In this session, we will cover:
@@ -155,38 +155,84 @@ Scene-selective brain regions respond to embedded objects of a scene ([Aminoff &
 
 ### Your language should be precise and clear
 
-- Use clear, precise and objective language
-**Bad**: _Response times were roughly equal._
+- Use clear, precise and objective language  
+**Bad**: _Response times were roughly equal._  
 **Good**: _Response times did not differ significantly, t(48)  =  1.04, p = .304._
 
-- Explicitly name variables you are assessing or comparing
-**Bad**: _We found no effect of working memory load._
-**Good**: _We found no effect of working memory load on response times._
+- Explicitly name variables you are assessing or comparing  
+**Bad**: _We found no effect of working memory load._  
+**Good**: _We found no effect of working memory load on response times._  
 
-**Bad**: _Response times were shorter in the low-load condition._
-**Good**: _Response times were shorter in the low-load compared to the high-load condition._
+**Bad**: _Response times were shorter in the low-load condition._  
+**Good**: _Response times were shorter in the low-load compared to the high-load condition._  
 
 Use **consistent terminology** for conditions, abbreviations, etc. in the **text**, **table** and **figures**!
 
+### Simple is (usually) better!
+
+- Use simple language – no need to sound smart!
+- Avoid overly long sentences – try to break them up into shorter sentences
+  - Worst case you can use a numbered list: “_We show that (1) scene categorization is…, (2)…, (3)…_”
+
+### Guide your reader through your text
+
+- While writing, consider not only the message you want to convey, but also the **information your reader needs** to understand it
+- There should be a clear _**roter Faden**_ in your work, **arguments should build on each other** 
+- Certain **key words** make it easier to follow your train of thoughts:
+  - _Here we…_ to identify your question, method, etc. and distinguish it from previous work
+  - _We found…_ to identify your results
+  - _We conclude/Our results indicate…_ to identify your conclusions and interpretations of the data
+  - _We suggest/assume_… to identify suggestions (for theories, models or future work) or speculation
+  - Connect thoughts with words like _however, similarly, surprisingly, in contrast_, etc.
 
 
+## Form
 
+First of all: Always follow “APA style”! You find a short overview [here](https://apastyle.apa.org/style-grammar-guidelines). 
 
+<img src="../_static/apa-cover.png" alt="Cover of the APA 7 publication manual" />
+American Psychological Association (2020). Publication Manual of the American Psychological Association. 7th Edition, American Psychological Association.
 
+### Purpose of APA style
 
+- Standardized writing conventions for
+  - The structure of empirical reports
+  - Referencing other published works
+  - Creation of Figures and Tables
+- Create a form that makes information easily accessible
+  - All psychological articles should follow same guidelines and structure
+  - Reports should be objective, precise and brief, no “colourful” or colloquial language
 
+### APA: Structure of your manuscript
+1. Title page
+  - Title, author name(s), contact information, keywords
+2. Abstract
+3. Introduction
+4. Method
+  - Participants, Materials, Procedure, (Design, Analysis)
+5. Results
+6. Discussion
+7. References					
+8. Appendix
+For your final reports: + signed _Eigenständigkeitserklärung_
 
+### APA: Layout
 
+- For your reports: Times New Roman, size 12, double-spaced, left-aligned (no hyphens/manual breaks in words at end of line)
+- Indent first line of each paragraph using the TAB key on your keyboard
+- Differentiate [levels of heading](https://apastyle.apa.org/style-grammar-guidelines/paper-format/headings) (note that font size is the same as the text!):  
+<img width="739" height="83" alt="grafik" src="https://github.com/user-attachments/assets/299bda45-589f-4a3a-9bc8-019e8962fa58" />  
+- The introduction has no heading; instead repeat the paper title as the heading
+- [Page header](https://apastyle.apa.org/style-grammar-guidelines/paper-format/page-header): Contains page number and running head (short title)
+- [Title page](https://apastyle.apa.org/style-grammar-guidelines/paper-format/title-page): In addition to APA style, provide your email and student ID number
 
+```{tip}
+Have a look at the [APA student sample paper and Word template](https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers)
+```
 
-
-
-
-
-
-
-
-
+<iframe src="../_static/student-annotated.pdf" width="100%" height="100%">
+  <a href="../_static/student-annotated.pdf">Download the PDF</a>
+</iframe>
 
 
 ----
