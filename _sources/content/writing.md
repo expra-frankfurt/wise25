@@ -263,14 +263,14 @@ More info on [Numbers and Statistics](https://apastyle.apa.org/instructional-aid
 <big>**APA: Figure guidelines**</big>  
 <img width="839" height="428" alt="grafik" src="https://github.com/user-attachments/assets/234b789d-4e60-4f22-a2ba-ec9cd64a9985" />  
 
-```{tip}
+```{seealso}
 APA [figure guidelines](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/figures) and [sample figures](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/sample-figures)
 ```
 
 <big>**APA: Table guidelines**</big>  
 <img width="911" height="420" alt="grafik" src="https://github.com/user-attachments/assets/96c5eb4d-bb4c-4b27-bfd5-c7553dc8287d" />
 
-```{tip}
+```{seealso}
 APA [table guidelines](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/tables) and [sample tables](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/sample-tables)
 ```
 
@@ -378,6 +378,7 @@ ggplot(…) +
 </code></pre>
 
 <big>**A personal recommendation**</big>  
+
 - **Invest time** into making visually appealing, easy-to-understand and clear plots!
 - Use **ggplot2** (part of the tidyverse package)
 - Choose a **plot type** appropriate for your data (e.g., violin plots)
@@ -400,7 +401,21 @@ ggsave(file = “violin_plot.png", plot = violin_plot, width = 16, height = 9,
 
 ### References
 
-<big>**References are important!**</big>  
+APA has strict guidelines for referencing work by others
+Distinguish between your own thoughts and ideas taken from other sources
+Explicitly name and credit these sources
+Failure to properly cite other work  =  plagiarism! 
+
+```{caution}
+Plagiarism in Prüfungsleistungen will make you fail the exam, worst case lead to exclusion from the university!
+```
+
+You must provide a citation for:
+Information taken from other sources (e.g., research findings, statistics, facts, ideas, opinions, interpretations), even if you put the information in your own words!
+Tools and materials you used (e.g., computer software, stimulus sets, graphics, analysis tools, R packages, etc.)
+
+You do not need to provide a citation for:
+Information considered common knowledge (e.g., “We conducted an ANOVA” does not require a citation because ANOVAs are considered a standard procedure in psychology)
 
 
 
