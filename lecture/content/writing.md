@@ -11,10 +11,10 @@ In this session, we will cover:
   - References
 4. [Use of AI tools](#use-of-ai-tools)
 
-# Contents
+## Contents
 <img src="../_static/ten-rules.png" alt="Screenshot of the PLOS article by Mensh and Kording, named Ten simple rules for structuring papers" width="648" />
 
-## 1. Focus your paper on a central contribution
+### 1. Focus your paper on a central contribution
 
 - Make your claim as **simple** as your data and experimental logic allow
 - Clearly communicate your contribution in the **title of your paper **
@@ -24,14 +24,14 @@ In this session, we will cover:
 **Example**:  
 Scene-selective brain regions respond to embedded objects of a scene ([Aminoff & Durham, 2022](https://doi.org/10.1093/cercor/bhac399))
 
-## 2. Write for readers who don’t know your work
+### 2. Write for readers who don’t know your work
 <img src="../_static/science-hell.png" alt="Comic with three people standing in hell. One of the three persons look like the devil, who says to one person while pointing to the other one: Welcome to science hell, Professor, this is Tony. He once saw something on the internet about your field of expertise and is going to spent eternety lecturing you on it."  width="333"  />
 
 - **Write for a naïve reader** (a psychologist who is not from the specific field your project is located in)
 - Define specific/technical **terms**, avoid abbreviations and acronyms (unless common, such as RT or ms)
 - **Make your reader care** about your work (why is it important?)
 
-## 3. The context-content-conclusion scheme
+### 3. The context-content-conclusion scheme
 - Each good story consists of three parts:
   - Beginning: Set up the **context** (problem) for the story → No context: “Why was I told that?”
   - Body: Provide the **content** of the story → No content: “Why should I believe that?”
@@ -47,7 +47,7 @@ Scene-selective brain regions respond to embedded objects of a scene ([Aminoff &
 
 <img width="930" height="268" alt="grafik" src="https://github.com/user-attachments/assets/78b445b0-c979-4fb7-9e9d-903232c3e138" />
 
-## 4. Have a clear, logical flow of arguments
+### 4. Have a clear, logical flow of arguments
 
 - **Avoid zig-zag**: 
   - Each subject should be covered only in one place
@@ -61,7 +61,7 @@ Scene-selective brain regions respond to embedded objects of a scene ([Aminoff &
     - **Bad**: “CON stimuli lead to slower responses whereas inconsistent stimuli had lower RTs.”
     - **Good**: “Participants responded faster to consistent compared to inconsistent stimuli.”
 
-## 5. Tell a complete story in the abstract
+### 5. Tell a complete story in the abstract
 
 - For most readers, the abstract is the only part of a paper they will ever read!
 - Once again, the Context-Content-Conclusion rule (and hourglass structure) applies:
@@ -77,7 +77,7 @@ Scene-selective brain regions respond to embedded objects of a scene ([Aminoff &
     - Show the **consequences of your findings** (with respect to theories, future studies, etc.; 1-2)
 - The Abstract should consist of 200-250 words!
 
-## 6. Introduction: Say why your paper matters
+### 6. Introduction: Say why your paper matters
 
 - Identify the **gap in knowledge you seek to fill** and highlight **why it is important**
   - Introduce the **general topic/field** (short) – Why is it important?
@@ -88,7 +88,7 @@ Scene-selective brain regions respond to embedded objects of a scene ([Aminoff &
 - Underline your arguments with **relevant citations**, but only cite articles that are directly related to your work!
 - Follow the **hourglass principle**: broad to narrow (or general to specific)!
 
-## 7. Method: Provide enough detail for a replication
+### 7. Method: Provide enough detail for a replication
 
 - After reading the method section, readers should be able to…
   - Judge whether your experiment is suited to answer your question 
@@ -101,7 +101,7 @@ Scene-selective brain regions respond to embedded objects of a scene ([Aminoff &
   - **Analysis**: Description of specific analysis strategies → Not needed for common analyses
 - Important: Assignment to experimental conditions (random?), between- or within-subjects design, counterbalancing of participants and/or stimuli, etc.
 
-## 8. Results: Series of evidence supporting your claim
+### 8. Results: Series of evidence supporting your claim
 
 - (Mentally) structure your results in subsections: 
 - Which statistical analysis is testing what aspect of your question(s)? 
@@ -112,7 +112,7 @@ Scene-selective brain regions respond to embedded objects of a scene ([Aminoff &
 - **Summarize** both descriptive and test results, and **relate them to your hypotheses**!
   - “_In line with the context hypothesis, we found…_” or “_…were faster which supports the notion of…_”
 
-## 9. Discussion: Was the gap filled?
+### 9. Discussion: Was the gap filled?
 
 - Start by **repeating the main question** of your work, the **key findings** and whether they **support your hypotheses**
 - Highlight the main **contributions** of your work to the gap: **Relate your findings** to previous findings, theories, models, etc.
@@ -121,7 +121,7 @@ Scene-selective brain regions respond to embedded objects of a scene ([Aminoff &
 - Show how your work advances the field, draw a **summarizing conclusion** (take-home message)
 - Follow the **hourglass structure** (specific to general) in the discussion
 
-## 10. Test your paper on naïve readers
+### 10. Test your paper on naïve readers
 
 | Rule | Sign of violation |
 | --- | ----------- |
@@ -135,7 +135,55 @@ Scene-selective brain regions respond to embedded objects of a scene ([Aminoff &
 | 8. Results: Series of evidence supporting your claim | Readers do not agree with your conclusion |
 | 9. Discussion: Was the gap filled? | Readers are left with unanswered criticisms and/or questions on their mind |
 
-# Language
+## Language
+
+<img src="../_static/two-kind-of-facts.png" alt="Comic of one guy saying to another one: While doing the research, keep in mind there are only two kinds of facts... Thorse that support my position... and inconclusive." />
+
+### Scientific language
+
+- No colloquial language (e.g., colloquial expressions, abbreviations)  
+    **Bad**: _We don’t think there is much of an effect, the test scores were pretty much the same._  
+    **Good**: _We conclude that object size does not affect categorization speed as test scores were not significantly correlated with object size._
+  
+- Write from your perspective (“We” or “I”) and use active voice if possible
+    **Bad**: _Stimuli were manipulated to contain only low-level information._
+    **Good**: _We manipulated stimuli to contain only low-level information._
+
+- Use verb tense consistently
+  - Simple past for what you or others did: _We conducted an ANOVA… Kim (2015) showed…_
+  - Simple present for conclusions and generalizations: _We conclude that font size affects reading speed._
+
+### Your language should be precise and clear
+
+- Use clear, precise and objective language
+**Bad**: _Response times were roughly equal._
+**Good**: _Response times did not differ significantly, t(48)  =  1.04, p = .304._
+
+- Explicitly name variables you are assessing or comparing
+**Bad**: _We found no effect of working memory load._
+**Good**: _We found no effect of working memory load on response times._
+
+**Bad**: _Response times were shorter in the low-load condition._
+**Good**: _Response times were shorter in the low-load compared to the high-load condition._
+
+Use **consistent terminology** for conditions, abbreviations, etc. in the **text**, **table** and **figures**!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
