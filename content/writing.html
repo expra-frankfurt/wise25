@@ -688,7 +688,7 @@ Scene-selective brain regions respond to embedded objects of a scene (<a class="
 <section id="apa-style">
 <h3>APA style<a class="headerlink" href="#apa-style" title="Permalink to this heading">#</a></h3>
 <p>First of all: Always follow “APA style”! You find a short overview <a class="reference external" href="https://apastyle.apa.org/style-grammar-guidelines">here</a>.</p>
-<img src="../_static/apa-cover.jpg" alt="Cover of the APA 7 publication manual" width="333" />  
+<img src="../_static/apa-cover.jpg" alt="Cover of the APA 7 publication manual" width="333" />   
 American Psychological Association (2020). Publication Manual of the American Psychological Association. 7th Edition, American Psychological Association.
 <p><big><strong>Purpose of APA style</strong></big></p>
 <ul class="simple">
@@ -818,27 +818,58 @@ For your final reports: + signed <em>Eigenständigkeitserklärung</em></p></li>
 <div class="dropdown admonition">
 <p class="admonition-title">Caution, spoiler!</p>
 <p align="center">
-  <img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_static/example-plot-distribution1.png" width="30%">
+  <img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_static/example-plot-distribution1.png" width="25%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Centered image: Plot of the data that shows that the underlying data is distributed very different although the mean is always approximately 50. " src="../_static/example-plot-distribution2.png" width="30%">
+  <img alt="Centered image: Plot of the data that shows that the underlying data is distributed very different although the mean is always approximately 50. " src="../_static/example-plot-distribution2.png" width="25%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Right image: Violin plot of the data that represents the data and the means nicely." src="../_static/example-plot-distribution3.png" width="30%">
+  <img alt="Right image: Violin plot of the data that represents the data and the means nicely." src="../_static/example-plot-distribution3.png" width="25%">
 </p>
-</div>
 <div class="row">
   <figure>
-  <img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_static/example-plot-distribution1.png" width="30%">
+  <img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_static/example-plot-distribution1.png" width="25%">
      <figcaption></figcaption>
   </figure>
   <figure>
-  <img alt="Centered image: Plot of the data that shows that the underlying data is distributed very different although the mean is always approximately 50. " src="../_static/example-plot-distribution2.png" width="30%">
+  <img alt="Centered image: Plot of the data that shows that the underlying data is distributed very different although the mean is always approximately 50. " src="../_static/example-plot-distribution2.png" width="25%">
     <figcaption>“Real” data:</figcaption>
   </figure>
   <figure>
-  <img alt="Right image: Violin plot of the data that represents the data and the means nicely." src="../_static/example-plot-distribution3.png"  width="30%">
+  <img alt="Right image: Violin plot of the data that represents the data and the means nicely." src="../_static/example-plot-distribution3.png"  width="25%">
     <figcaption>How about violins?</figcaption>
   </figure>
 </div>
+</div>
+<div class="row">
+  <figure>
+  <img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_static/example-plot-distribution1.png" width="25%">
+     <figcaption></figcaption>
+  </figure>
+  <figure>
+  <img alt="Centered image: Plot of the data that shows that the underlying data is distributed very different although the mean is always approximately 50. " src="../_static/example-plot-distribution2.png" width="25%">
+    <figcaption>“Real” data:</figcaption>
+  </figure>
+  <figure>
+  <img alt="Right image: Violin plot of the data that represents the data and the means nicely." src="../_static/example-plot-distribution3.png"  width="25%">
+    <figcaption>How about violins?</figcaption>
+  </figure>
+</div>
+<p>An alternative to bar and box plots: Violin plots</p>
+<p align="left">
+  <img alt="Left image: Violin plot of the data that represents the data and the means nicely." src="../_static/example-plot-distribution3.png" width="30%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Right image: Violin plot that also shows data points" src="../_static/example-plot-distribution4.png" width="30%">
+</p>
+<p><strong>Create violin plots in R:</strong></p>
+<pre><code style="white-space: pre;">
+ggplot(…) + 
+  geom_violin()
+</code></pre>
+<p>Play with visual appearance, layer points on top of violins:</p>
+<pre><code style="white-space: pre;">
+ggplot(…) + 
+  geom_violin(colour = "white", fill = "grey",alpha = 0.3) + 
+  geom_point(…)
+</code></pre>
 <hr class="docutils" />
 <p><strong>Acknowledgments</strong><br />
 This section was contributed by <a class="reference external" href="https://www.goethe-university-frankfurt.de/120691400/Dr__Sandro_Wiesmann">Sandro Wiesmann</a>.</p>
