@@ -293,20 +293,9 @@ Image of a graph
 
 <big>**Use a plot type appropriate for your data**</big>  
 
-<p align="center">
-  <img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_static/example-plot-distribution1.png" width="30%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="" src="" width="30%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="" src="" width="30%">
-</p>
-
-
-
 <p align="left">
   <img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_static/example-plot-distribution1.png" width="30%">
 </p>
-
 
 Guess what the distribution of these data looks like. Take one minute to draw some data points…
 
@@ -314,7 +303,7 @@ Guess what the distribution of these data looks like. Take one minute to draw so
 :class: dropdown
 
 |  | “Real” data" | How about violins? |
-|:-------:|:---------------:|:----------:|
+|:---------------:|:---------------:|:---------------:|
 | ![Left image: Plot with three colored bars that have the same mean outcome of approximately 50.](../_static/example-plot-distribution1.png) | ![Centered image: Plot of the data that shows that the underlying data is distributed very different although the mean is always approximately 50. ](../_static/example-plot-distribution2.png) | ![Right image: Violin plot of the data that represents the data and the means nicely.](../_static/example-plot-distribution3.png) |
 
 ```
@@ -392,20 +381,24 @@ _The authors concluded that the “Expra is the most underrated seminar in the p
 Check out {doc}`literature` to learn how to use Zotero for literature management.
 ```
 
-**1. Install software of your choice (we recommend [Zotero](https://www.zotero.org/))**
-
-![](../_static/example-plot-distribution1.png)  
+**1. Install software of your choice (we recommend [Zotero](https://www.zotero.org/))**   
+![Screenshot of an example Zotero bibliography](../_static/zotero-collection.png)  
 You can just drag-and-drop PDFs into your collection. Zotero will automatically search for article information.
 
-**2. Install plugin for your text editor**
+**2. Install plugin for your text editor**  
+![Screenshot of the Zotero plugin in word](../_static/zotero-plugin.png)    
 
-**3. Tell Zotero to stick to APA style (7th ed.)**
+**3. Tell Zotero to stick to APA style (7th ed.)**  
+![Screenshot of a list of citation styles provided by zotero with the 7th edition of APA higlighted](../_static/zotero-apa.png)    
 
-**4. Use software to add in-text citations**
+**4. Use software to add in-text citations**  
+![Screenshot of the Zotero mask, where you can enter author names or titles to add a in-text citation in word](../_static/zotero-citation.png)    
 
 Click the position in the text where you want to add a citation, then click “Add/Edit Citation”.
 
+**5. When you’re done, add the correctly formatted reference list at the end of your manuscript by clicking “Add/Edit Bibliography”**
 
+<img width="719" height="295" alt="grafik" src="https://github.com/user-attachments/assets/fd972961-119a-4f18-a503-cf14e29ce25c" />
 
 
 ----
