@@ -308,55 +308,11 @@ Guess what the distribution of these data looks like. Take one minute to draw so
 
 |  | “Real” data" | How about violins? |
 |:-------:|:---------------:|:----------:|
-| ![](../_static/example-plot-distribution1.png){width="150"} | ![](../_static/example-plot-distribution2.png){width="150"} | ![](../_static/example-plot-distribution3.png){width="150"} |
-
-
-
-<p align="center">
-  <img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_static/example-plot-distribution1.png" width="25%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Centered image: Plot of the data that shows that the underlying data is distributed very different although the mean is always approximately 50. " src="../_static/example-plot-distribution2.png" width="25%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Right image: Violin plot of the data that represents the data and the means nicely." src="../_static/example-plot-distribution3.png" width="25%">
-</p>
-
-
-<div class="row">
-  <figure>
-  <img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_static/example-plot-distribution1.png" width="25%">
-     <figcaption></figcaption>
-  </figure>
-  <figure>
-  <img alt="Centered image: Plot of the data that shows that the underlying data is distributed very different although the mean is always approximately 50. " src="../_static/example-plot-distribution2.png" width="25%">
-    <figcaption>“Real” data:</figcaption>
-  </figure>
-  <figure>
-  <img alt="Right image: Violin plot of the data that represents the data and the means nicely." src="../_static/example-plot-distribution3.png"  width="25%">
-    <figcaption>How about violins?</figcaption>
-  </figure>
-</div>
-
-
+| ![Left image: Plot with three colored bars that have the same mean outcome of approximately 50.](../_static/example-plot-distribution1.png) | ![Centered image: Plot of the data that shows that the underlying data is distributed very different although the mean is always approximately 50. ](../_static/example-plot-distribution2.png) | ![Right image: Violin plot of the data that represents the data and the means nicely.](../_static/example-plot-distribution3.png) |
 
 ```
 
-<div class="row">
-  <figure>
-  <img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_static/example-plot-distribution1.png" width="25%">
-     <figcaption></figcaption>
-  </figure>
-  <figure>
-  <img alt="Centered image: Plot of the data that shows that the underlying data is distributed very different although the mean is always approximately 50. " src="../_static/example-plot-distribution2.png" width="25%">
-    <figcaption>“Real” data:</figcaption>
-  </figure>
-  <figure>
-  <img alt="Right image: Violin plot of the data that represents the data and the means nicely." src="../_static/example-plot-distribution3.png"  width="25%">
-    <figcaption>How about violins?</figcaption>
-  </figure>
-</div>
-
-
-An alternative to bar and box plots: Violin plots
+An alternative to bar and box plots: **Violin plots**
 
 <p align="left">
   <img alt="Left image: Violin plot of the data that represents the data and the means nicely." src="../_static/example-plot-distribution3.png" width="30%">
@@ -392,32 +348,55 @@ violin_plot <- ggplot(df, aes(x,y)) +
     labs(x = "Treatment", y = "Outcome") +
     theme_classic() +
     theme(legend.position = 'none')
-</code></pre>
-
-<pre><code style="white-space: pre;">
+    
 ggsave(file = “violin_plot.png", plot = violin_plot, width = 16, height = 9,   
     units = "cm", dpi = 300, bg = "white")
 </code></pre>
 
 ### References
 
-APA has strict guidelines for referencing work by others
-Distinguish between your own thoughts and ideas taken from other sources
-Explicitly name and credit these sources
-Failure to properly cite other work  =  plagiarism! 
+- APA has [strict guidelines for referencing](https://apastyle.apa.org/style-grammar-guidelines) work by others
+    - Distinguish between your own thoughts and ideas taken from other sources
+    - Explicitly name and credit these sources
+    - Failure to properly cite other work  =  plagiarism! 
 
 ```{caution}
 Plagiarism in Prüfungsleistungen will make you fail the exam, worst case lead to exclusion from the university!
 ```
 
-You must provide a citation for:
-Information taken from other sources (e.g., research findings, statistics, facts, ideas, opinions, interpretations), even if you put the information in your own words!
-Tools and materials you used (e.g., computer software, stimulus sets, graphics, analysis tools, R packages, etc.)
+- You must provide a citation for:
+    - **Information** taken from other sources (e.g., research findings, statistics, facts, ideas, opinions, interpretations), even if you put the information in your own words!
+    - **Tools and materials** you used (e.g., computer software, stimulus sets, graphics, analysis tools, R packages, etc.)
 
-You do not need to provide a citation for:
-Information considered common knowledge (e.g., “We conducted an ANOVA” does not require a citation because ANOVAs are considered a standard procedure in psychology)
+- You **do not need** to provide a citation for:
+    - Information considered **common knowledge** (e.g., “We conducted an ANOVA” does not require a citation because ANOVAs are considered a standard procedure in psychology)
 
+- In 99 % of cases, **citing means paraphrasing, not verbatim quoting!**
+- Use verbatim quotes only if strictly necessary  
 
+_Horz and Rohrmann (2020) suggested that psychology is fun._
+_Previous research shows that students enjoy statistics (Schultze & Schnatz, 2019)._  
+_In 2021, Fiebach’s seminal study on computer games showed that…_  
+_The authors concluded that the “Expra is the most underrated seminar in the psychology bachelor” (Wiesmann, 2024, p. 47)._  
+
+<big>**Do yourself a favour: Use a reference management software!**</big>
+
+```{seealso}
+Check out {doc}`literature` to learn how to use Zotero for literature management.
+```
+
+**1. Install software of your choice (we recommend [Zotero](https://www.zotero.org/))**
+
+![](../_static/example-plot-distribution1.png)  
+You can just drag-and-drop PDFs into your collection. Zotero will automatically search for article information.
+
+**2. Install plugin for your text editor**
+
+**3. Tell Zotero to stick to APA style (7th ed.)**
+
+**4. Use software to add in-text citations**
+
+Click the position in the text where you want to add a citation, then click “Add/Edit Citation”.
 
 
 
