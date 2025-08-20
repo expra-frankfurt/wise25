@@ -1,5 +1,4 @@
-<img width="138" height="84" alt="grafik" src="https://github.com/user-attachments/assets/d7037d98-ec45-48f3-89fe-c6ce7f74afd2" /><img width="808" height="119" alt="grafik" src="https://github.com/user-attachments/assets/5b9828e0-7966-4030-a5d5-260ec93c3d51" /># Scientific Writing
-
+# Scientific Writing
 
 In this session, we will cover:
 
@@ -137,7 +136,7 @@ Scene-selective brain regions respond to embedded objects of a scene ([Aminoff &
 
 ## Language
 
-<img src="../_static/two-kind-of-facts.png" alt="Comic of one guy saying to another one: While doing the research, keep in mind there are only two kinds of facts... Thorse that support my position... and inconclusive." />
+<img src="../_static/two-kind-of-facts.jpg" alt="Comic of one guy saying to another one: While doing the research, keep in mind there are only two kinds of facts... Thorse that support my position... and inconclusive." />
 
 ### Scientific language
 
@@ -190,7 +189,7 @@ Use **consistent terminology** for conditions, abbreviations, etc. in the **text
 
 First of all: Always follow “APA style”! You find a short overview [here](https://apastyle.apa.org/style-grammar-guidelines). 
 
-<img src="../_static/apa-cover.png" alt="Cover of the APA 7 publication manual" />
+<img src="../_static/apa-cover.jpg" alt="Cover of the APA 7 publication manual" />
 American Psychological Association (2020). Publication Manual of the American Psychological Association. 7th Edition, American Psychological Association.
 
 ### Purpose of APA style
@@ -233,6 +232,28 @@ Have a look at the [APA student sample paper and Word template](https://apastyle
 <iframe src="../_static/student-annotated.pdf" width="100%" height="100%">
   <a href="../_static/student-annotated.pdf">Download the PDF</a>
 </iframe>
+
+
+## APA: Reporting test results
+
+- Use italics for letters used as statistical symbols: _t_ test, _p_ value, _R_², etc.
+  - But not for Greek letters: α, β, Χ², etc.
+- Report exact _p_ values (e.g., _p_ = .019) unless _p_ < .001; no leading zero!
+- Use reasonable number of decimals: 147 ms, mean rating 6.51, p = .041
+- Include test statistic, degrees of freedom, value, p value, effect size
+  - _t_ test: _t_(52) = 4.8, _p_ < .001
+  - ANOVA: _F_(2,34) = 2.51, _p_ = .003, η² = .04
+  - Correlation: _r_(357) = .42, _p_ < .001
+  - Regression coefficient: b = -.34, _t_(225) = 6.53, _p_ < .001
+- Narrative form: “A one-way ANOVA showed that noise had a significant effect on test scores, _F_(3,27) = 5.94, _p_ = .007, η² = .17. Participants in the low noise condition yielded higher scores (_M_ = 23.6, _SD_ = 3.1) compared to the medium noise…”
+
+```{tip}
+More info on [Numbers and Statistics](https://apastyle.apa.org/instructional-aids/numbers-statistics-guide.pdf).
+```
+
+
+
+
 
 
 ----
