@@ -5,9 +5,9 @@ In this session, we will cover:
 1. [Contents](#contents)
 2. [Language](#language)
 3. [Form](#form)
-  - APA style
-  - Figures and Tables
-  - References
+    - APA style
+    - Figures and Tables
+    - References
 4. [Use of AI tools](#use-of-ai-tools)
 
 ## Contents
