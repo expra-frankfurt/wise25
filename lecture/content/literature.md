@@ -6,17 +6,17 @@ There are lots of ways to find and organise literature. A simple Google Scholar 
 
 In this session, we will cover:
 
-1. [How to manage literature](#how-to-manage-literature-zotero)
-2. [Search engines for literature](#search-engines-for-literature)
+[1. How to Manage Literature](#how-to-manage-literature-zotero)
+[2. Search Engines for Literature](#search-engines-for-literature)
     - Using [Google Scholar](#google-scholar), [Web Of Science](#web-of-science), [PubMed](#pubmed)
     - [Tips and tricks for search engines](#tips-and-tricks-for-search-engines)
-3. [Using citation patterns to find literature](#using-citations-to-find-literature)
-4. [Tools for literature search/review](#tools-for-literature-searchreview)
-    - [Citation-based tools](#a-citation-based-tool-inciteful)
-    - [AI-based tools](#ai-based-tools)
-    - [Meta-analysis tools](#meta-analysis-tools-for-neuroimaging)
-    - [Mind maps](#mind-maps)
-5. [How to read papers](#how-to-read-a-paper)
+[3. Using Citation Patterns to Find Literature](#using-citations-to-find-literature)
+[4. Tools for Literature Search/Review](#tools-for-literature-searchreview)
+    - [Citation-Based Tools](#a-citation-based-tool-inciteful)
+    - [AI-Based Tools](#ai-based-tools)
+    - [Meta-Analysis Tools](#meta-analysis-tools-for-neuroimaging)
+    - [Mind Maps](#mind-maps)
+[5. How to Read a Paper](#how-to-read-a-paper)
 
 -----------------------------
 
@@ -248,7 +248,7 @@ Examples include:
 * [Elicit](https://elicit.com/): Provides tools for summarising papers. Provides limited usage for free.
 
 
-### Meta-analysis tools for Neuroimaging
+### Meta-Analysis Tools for Neuroimaging
 
 Some tools can use natural language processing (NLP) techniques to extract information from the texts of published studies, and use these data to generate statistical summaries of brain activity patterns across specific cognitive processes or experimental conditions.
 
