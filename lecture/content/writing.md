@@ -301,6 +301,13 @@ Image of a graph
   <img alt="" src="" width="30%">
 </p>
 
+
+
+<p align="left">
+  <img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_static/example-plot-distribution1.png" width="30%">
+</p>
+
+
 Guess what the distribution of these data looks like. Take one minute to draw some data points…
 
 ```{admonition} Caution, spoiler!
