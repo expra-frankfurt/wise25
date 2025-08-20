@@ -39,11 +39,11 @@ Scene-selective brain regions respond to embedded objects of a scene (Aminoff & 
 - **Paper level**: Introduction (context), methods & results (content), discussion (conclusion)
 - **Paragraph level**: First sentence defines the topic, body provides (novel) content, last sentence provides a conclusion
   
-<img width="847" height="166" alt="grafik" src="https://github.com/user-attachments/assets/4aa22819-d3cb-4a11-a989-01f5e7d81dfe" />
+![Example sentences that are directed as context, content, and conclusion.](../_static/ccc-example.png)    
 
 - The C-C-C scheme also follows a broad-narrow-broad structure (the “hour-glass structure”)
 
-<img width="930" height="268" alt="grafik" src="https://github.com/user-attachments/assets/78b445b0-c979-4fb7-9e9d-903232c3e138" />
+![Image of the hour-glass structure with descriptions of what content is entailed in which part of the hour-glass.](../_static/hour-glass.png)    
 
 <big>**4. Have a clear, logical flow of arguments**</big>  
 
@@ -219,8 +219,8 @@ For your final reports: + signed _Eigenständigkeitserklärung_
 
 - For your reports: Times New Roman, size 12, double-spaced, left-aligned (no hyphens/manual breaks in words at end of line)
 - Indent first line of each paragraph using the TAB key on your keyboard
-- Differentiate [levels of heading](https://apastyle.apa.org/style-grammar-guidelines/paper-format/headings) (note that font size is the same as the text!):  
-<img width="739" height="83" alt="grafik" src="https://github.com/user-attachments/assets/299bda45-589f-4a3a-9bc8-019e8962fa58" />  
+- Differentiate [levels of heading](https://apastyle.apa.org/style-grammar-guidelines/paper-format/headings) (note that font size is the same as the text!):   
+![Examples for the first three levels of headings in apa format.](../_static/apa-headings.png)      
 - The introduction has no heading; instead repeat the paper title as the heading
 - [Page header](https://apastyle.apa.org/style-grammar-guidelines/paper-format/page-header): Contains page number and running head (short title)
 - [Title page](https://apastyle.apa.org/style-grammar-guidelines/paper-format/title-page): In addition to APA style, provide your email and student ID number
@@ -261,14 +261,14 @@ More info on [Numbers and Statistics](https://apastyle.apa.org/instructional-aid
 - Captions should make figures and tables **self-explanatory**!
 
 <big>**APA: Figure guidelines**</big>  
-<img width="839" height="428" alt="grafik" src="https://github.com/user-attachments/assets/234b789d-4e60-4f22-a2ba-ec9cd64a9985" />  
+![This image shows a typical apa formated figure. Blue text fields highlight the different parts like figure number and short title, clearly labelled axes, etc.](../_static/apa-figure-guidelines.png)    
 
 ```{seealso}
 APA [figure guidelines](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/figures) and [sample figures](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/sample-figures)
 ```
 
 <big>**APA: Table guidelines**</big>  
-<img width="911" height="420" alt="grafik" src="https://github.com/user-attachments/assets/96c5eb4d-bb4c-4b27-bfd5-c7553dc8287d" />
+![This image shows a typical apa formated table. Blue text fields highlight the different parts like table number and short title, test statistics in italics, etc.](../_static/apa-table-guidelines.png)    
 
 ```{seealso}
 APA [table guidelines](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/tables) and [sample tables](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/sample-tables)
@@ -377,9 +377,7 @@ Plagiarism in Prüfungsleistungen will make you fail the exam, worst case lead t
 
 <big>**Do yourself a favour: Use a reference management software!**</big>  
 
-```{seealso}
-Go to the chapter {doc}`literature` to learn how to use Zotero for literature management.
-```
+
 
 **1. Install software of your choice (we recommend [Zotero](https://www.zotero.org/))**   
 ![Screenshot of an example Zotero bibliography](../_static/zotero-collection.png)  
@@ -398,7 +396,11 @@ Click the position in the text where you want to add a citation, then click “A
 
 **5. When you’re done, add the correctly formatted reference list at the end of your manuscript by clicking “Add/Edit Bibliography”**
 
-<img width="719" height="295" alt="grafik" src="https://github.com/user-attachments/assets/fd972961-119a-4f18-a503-cf14e29ce25c" />
+![Screenshot of a Bibliography in apa style in word that was produced by the zotero plugin](../_static/zotero-bibliography.png)    
+
+```{seealso}
+Go to the chapter {doc}`literature` to learn how to use Zotero for literature management.
+```
 
 ## Use of AI tools
 
@@ -429,7 +431,7 @@ Click the position in the text where you want to add a citation, then click “A
 
 ## References
 
-Aminoff, E. M., & Durham, T. (2023). Scene-selective brain regions respond to embedded objects of a scene. _Cerebral Cortex_, 33(9), 5066-5074. https://doi.org/10.1093/cercor/bhac399
+Aminoff, E. M., & Durham, T. (2023). Scene-selective brain regions respond to embedded objects of a scene. _Cerebral Cortex_, 33(9), 5066-5074. https://doi.org/10.1093/cercor/bhac399  
 Mensh, B., & Kording, K. (2017). Ten simple rules for structuring papers. PLOS Computational Biology, 13(9), e1005619. https://doi.org/10.1371/journal.pcbi.1005619
 
 
