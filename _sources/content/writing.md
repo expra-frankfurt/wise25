@@ -13,7 +13,9 @@ In this session, we will cover:
 ## Contents
 <img src="../_static/ten-rules.png" alt="Screenshot of the PLOS article by Mensh and Kording, named Ten simple rules for structuring papers" width="648" />
 
-### 1. Focus your paper on a central contribution
+<big>1. Focus your paper on a central contribution</big>  
+<big>**1. Focus your paper on a central contribution**</big>
+
 
 - Make your claim as **simple** as your data and experimental logic allow
 - Clearly communicate your contribution in the **title of your paper **
@@ -229,12 +231,7 @@ For your final reports: + signed _Eigenständigkeitserklärung_
 Have a look at the [APA student sample paper and Word template](https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers)
 ```
 
-<iframe src="../_static/student-annotated.pdf" width="100%" height="100%">
-  <a href="../_static/student-annotated.pdf">Download the PDF</a>
-</iframe>
-
-
-## APA: Reporting test results
+### APA: Reporting test results
 
 - Use italics for letters used as statistical symbols: _t_ test, _p_ value, _R_², etc.
   - But not for Greek letters: α, β, Χ², etc.
@@ -251,7 +248,7 @@ Have a look at the [APA student sample paper and Word template](https://apastyle
 More info on [Numbers and Statistics](https://apastyle.apa.org/instructional-aids/numbers-statistics-guide.pdf).
 ```
 
-
+###
 
 
 
