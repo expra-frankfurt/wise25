@@ -191,7 +191,7 @@ Use **consistent terminology** for conditions, abbreviations, etc. in the **text
 
 First of all: Always follow “APA style”! You find a short overview [here](https://apastyle.apa.org/style-grammar-guidelines). 
 
-<img src="../_static/apa-cover.jpg" alt="Cover of the APA 7 publication manual" />
+<img src="../_static/apa-cover.jpg" alt="Cover of the APA 7 publication manual" width="333" />
 American Psychological Association (2020). Publication Manual of the American Psychological Association. 7th Edition, American Psychological Association.
 
 ### Purpose of APA style
