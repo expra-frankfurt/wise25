@@ -28,7 +28,7 @@ Scene-selective brain regions respond to embedded objects of a scene (Aminoff & 
 
 - **Write for a naïve reader** (a psychologist who is not from the specific field your project is located in)
 - Define specific/technical **terms**, avoid abbreviations and acronyms (unless common, such as RT or ms)
-- **Make your reader care** about your work (why is it important?)
+- **Make your reader care** about your work (why is it important?) 
 
 <big>**3. The context-content-conclusion scheme**</big>
 - Each good story consists of three parts:
