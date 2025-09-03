@@ -5,7 +5,7 @@ In this section, we will discuss several general principles of writing scientifi
 Specifically, we will cover:
 
 1. [Contents:](#contents) What information you should write about and where that information goes.  
-2. [Language:](#language) How to express yourself in a scientific reports.  
+2. [Language:](#language) How to express yourself in a scientific report.  
 3. [Form:](#form) How to format your reports.  
      3.1 [APA style:](#apa-style) Standardized conventions for psychological articles.  
      3.2 [Figures and Tables:](#figures-and-tables) Standardized guidelines for the creation of figures and tables.  
@@ -13,23 +13,21 @@ Specifically, we will cover:
 4. [Use of AI tools:](#use-of-ai-tools) Rules for using AI tools such as ChatGPT, DeepL, etc.  
 
 ## 1. Contents
-This section is mostly based on an excellent paper by Mensh and Kording (2017) entitled [Ten simple rules for structuring papers](https://doi.org/10.1371/journal.pcbi.1005619). It is strongly recommended that you read this paper. You will find a summary of the ten rules below:  
+This section is mostly based on an excellent paper by Mensh and Kording (2017) entitled [Ten simple rules for structuring papers](https://doi.org/10.1371/journal.pcbi.1005619). It is strongly recommended that you read this paper and follow the rules when writing your reports. You will find a summary of the rules below:  
   
   
 <big>**Rule 1: Focus your paper on a central contribution**</big>  
 
-When you write your paper, you should try to focus it on **one central contribution** (this can be a theoretical insight, a new method, a criticism of previous research, etc.). Try to make your claim as **simple** as your data and experimental logic allow and clearly communicate it in the **title of your paper** so that it is immediately clear what your paper is showing.  
+When you write your paper, you should try to focus it on **one central contribution** your project is making (this can be a theoretical insight, a new method, a criticism of previous research, etc.). Try to make your claim as **simple** as your data and experimental logic allow and clearly communicate it in the **title of your paper** so that it is immediately clear what your paper is showing.  
 
-A good example can be found in a paper by Aminoff and Durham (2023) entitled: *Scene-selective brain regions respond to embedded objects of a scene*  
-The central contribution is that scene-selective brain regions, which we usually assume to primarily respond to scene images, also respond to single objects. The novelty and relevance of this contribution are immediately apparent (the paper changes the way we think of these brain regions).  
+A **good example** can be found in a paper by Aminoff and Durham (2023) entitled: *Scene-selective brain regions respond to embedded objects of a scene*. The central contribution is that scene-selective brain regions, which we usually assume to primarily respond to scene images, also respond to single objects. The novelty and relevance of this contribution are immediately apparent (the paper changes the way we think of these brain regions).  
 
-Compare this to a title that only focuses on **what was done** in the project: *A comparison of neural responses of scene-selective brain regions to object and scene images*  
-While this gives the reader a good idea of the method that was used in the project, it doesn't communicate the contribution as clearly and won't spark the readers' interest as much.  
+Compare this to a title that only focuses on **what was done** in the project: *A comparison of neural responses of scene-selective brain regions to object and scene images*. While this gives the reader a good idea of the method that was used in the project, it does not communicate the contribution as clearly and will not spark the reader's interest as much.  
 
 Checklist for good paper titles:
 - Should be **short** (10-15 words)
 - **Avoid abbreviations/jargon**
-- No question marks (provide answers, not questions!)
+- No question marks (**provide answers**, not questions!)
 
 ```{tip}
 Formulate your title early on during (or even before) writing. This will serve as a reminder to yourself of the contribution you want to make and will guide you while writing.
@@ -38,12 +36,14 @@ Formulate your title early on during (or even before) writing. This will serve a
   
 <big>**Rule 2: Write for readers who don’t know your work**</big>  
 
-Your writing should be clear and easy to understand for a **naïve reader** (a psychologist who is not from the specific field your project is located in). This includes defining specific/technical **terms**, avoiding abbreviations and acronyms (unless common, such as RT or ms) and, maybe most importantly, **making your reader care** about your work (why is it important?).
+Your writing should be clear and easy to understand for a **naïve reader** (a psychologist who is not from the specific field your project is located in). This includes defining specific/technical terms, avoiding abbreviations and acronyms (unless common, such as RT or ms) and, maybe most importantly, **making your reader care about your work** (why is it important?).
   
   
 <big>**Rule 3: The context-content-conclusion scheme**</big>
 
-Each good story consists of three parts: Beginning, Body and Ending. The Beginning sets up the **context** (problem) for the story, the Body provides the **content** of the story and in the Ending, the problem finds its **conclusion**. If either part is missing, you will get different responses from your readers. If you tell someone your story and their response is “Why was I told that?”, it indicates that your story did not provide sufficient contextual information in the beginning. If they are sceptical and ask “Why should I believe that?”, it indicates that the content in the Body was not sufficient to convince them. If they simply ask "So what?", they did not understand the conclusion provided in the Ending.
+Each good story consists of three parts: Beginning, Body and Ending. The Beginning sets up the **context** (problem) for the story, the Body provides the **content** of the story and in the Ending, the problem finds its **conclusion**.  
+
+If either part is missing, you will get different responses from your readers. If you tell someone your story and their response is “Why was I told that?”, it indicates that your story did not provide sufficient contextual information in the beginning. If they are sceptical and ask “Why should I believe that?”, it indicates that the content in the Body was not sufficient to convince them. If they simply ask "So what?", they did not understand the conclusion provided in the Ending.
  
 The context-content-conclusion scheme should be applied at different levels of your writing:  
 
@@ -53,7 +53,7 @@ The context-content-conclusion scheme should be applied at different levels of y
 
 **Paragraph level**: The first sentence of each paragraph defines the topic, the body provides (novel) content, the last sentence provides a conclusion (see example below).
   
-     <font color="red">Context:</font>One possible explanation for the counterintuitive effect of X we observe is that […] <font color="blue">Content:</font> Salinger (1951) relates this to […] Similarly, Heller (1961) argues that effect X may be the consequence of […] In contrast, Vonnegut (1963) proposes an alternative view in which effect X is independent of […] <font color="green">Conclusion:</font> In summary, all these accounts suggest that effect X may be reliable and not merely an artifact of our experimental design.</font>
+  <font color="red">Context:</font>One possible explanation for the counterintuitive effect of X we observe is that […] <font color="blue">Content:</font> Salinger (1951) relates this to […] Similarly, Heller (1961) argues that effect X may be the consequence of […] In contrast, Vonnegut (1963) proposes an alternative view in which effect X is independent of […] <font color="green">Conclusion:</font> In summary, all these accounts suggest that effect X may be reliable and not merely an artifact of our experimental design.</font>
   
   
 <big>**Rule 4: Have a clear, logical flow of arguments**</big>  
