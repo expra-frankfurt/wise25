@@ -19,6 +19,6 @@ chapters:
   - file: content/poster
   - file: content/visualization
   - file: content/presentation
-  - file: content/writing
+- file: content/writing
 - file: general_information/CoC
 - file: general_information/dei
