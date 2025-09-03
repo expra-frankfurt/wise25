@@ -305,15 +305,18 @@ Here is a little exercise. Look at the plot above and guess what the respective 
 <p align="left">
   <img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_static/example-plot-distribution2.png" width="60%">
 </p>
-
 ```
 As you can hopefully see, bar plots are not the best way to visualize data (for a number of reasons). An alternative to bar and box plots can be **violin plots**:
 
-<p align="left">
-  <img alt="Left image: Violin plot of the data that represents the data and the means nicely." src="../_static/example-plot-distribution3.png" width="30%">
-</p>
+```{admonition} Caution, spoiler!
+:class: dropdown
 
-To create a violin plot in R, you can use the code style="white-space: pre;">geom_violin()</code></pre> function within the ggplot framework:
+<p align="left">
+  <img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_static/example-plot-distribution3.png" width="60%">
+</p>
+```
+
+To create a violin plot in R, you can use the <pre><code style="white-space: pre;">geom_violin()</code></pre> function within the ggplot framework:
 <pre><code style="white-space: pre;">
 ggplot(…) + 
   geom_violin()
@@ -352,33 +355,29 @@ ggsave(file = “violin_plot_file_name.png", plot = super_coolviolin_plot, width
 
 ### 3.3 References
 
-- APA has [strict guidelines for referencing](https://apastyle.apa.org/style-grammar-guidelines) work by others
-    - Distinguish between your own thoughts and ideas taken from other sources
-    - Explicitly name and credit these sources
-    - Failure to properly cite other work  =  plagiarism! 
+APA has strict [guidelines](https://apastyle.apa.org/style-grammar-guidelines) for referencing work by others. It is important that you clearly distinguish between your own thoughts and ideas taken from other sources and explicitly name and credit these sources. A failure to properly cite other work is considered plagiarism! 
 
 ```{caution}
-Plagiarism in Prüfungsleistungen will make you fail the exam, worst case lead to exclusion from the university!
+Plagiarism in _Prüfungsleistungen_ will make you fail the exam, and in the worst case lead to your exclusion from the university!
 ```
 
-- You must provide a citation for:
+<big>**When to provide a citation**</big>  
+
+You must provide a citation for...
     - **Information** taken from other sources (e.g., research findings, statistics, facts, ideas, opinions, interpretations), even if you put the information in your own words!
     - **Tools and materials** you used (e.g., computer software, stimulus sets, graphics, analysis tools, R packages, etc.)
 
-- You **do not need** to provide a citation for:
+You **do not need** to provide a citation for:
     - Information considered **common knowledge** (e.g., “We conducted an ANOVA” does not require a citation because ANOVAs are considered a standard procedure in psychology)
 
-- In 99 % of cases, **citing means paraphrasing, not verbatim quoting!**
-- Use verbatim quotes only if strictly necessary  
+In 99 % of cases, **citing means paraphrasing, not verbatim quoting!** Use verbatim quotes only if strictly necessary:
 
         _Horz and Rohrmann (2020) suggested that psychology is fun._
         _Previous research shows that students enjoy statistics (Schultze & Schnatz, 2019)._  
         _In 2021, Fiebach’s seminal study on computer games showed that…_  
-        _The authors concluded that the “Expra is the most underrated seminar in the psychology bachelor” (Wiesmann, 2024, p. 47)._  
+        _The authors concluded that the “Expra is the most underrated seminar in the psychology bachelor” (Wiesmann, 2025, p. 47)._  
 
 <big>**Do yourself a favour: Use a reference management software!**</big>  
-
-
 
 **1. Install software of your choice (we recommend [Zotero](https://www.zotero.org/))**   
 ![Screenshot of an example Zotero bibliography](../_static/zotero-collection.png)  
