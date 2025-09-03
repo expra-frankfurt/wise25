@@ -302,50 +302,51 @@ Here is a little exercise. Look at the plot above and guess what the respective 
 ```{admonition} Caution, spoiler!
 :class: dropdown
 
-|  | “Real” data" | How about violins? |
-|:---------------:|:---------------:|:---------------:|
-| ![Left image: Plot with three colored bars that have the same mean outcome of approximately 50.](../_static/example-plot-distribution1.png) | ![Centered image: Plot of the data that shows that the underlying data is distributed very different although the mean is always approximately 50. ](../_static/example-plot-distribution2.png) | ![Right image: Violin plot of the data that represents the data and the means nicely.](../_static/example-plot-distribution3.png) |
+<p align="left">
+  <img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_static/example-plot-distribution2.png" width="60%">
+</p>
 
 ```
-
-An alternative to bar and box plots: **Violin plots**
+As you can hopefully see, bar plots are not the best way to visualize data (for a number of reasons). An alternative to bar and box plots can be **violin plots**:
 
 <p align="left">
   <img alt="Left image: Violin plot of the data that represents the data and the means nicely." src="../_static/example-plot-distribution3.png" width="30%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Right image: Violin plot that also shows data points" src="../_static/example-plot-distribution4.png" width="30%">
 </p>
 
-**Create violin plots in R:**  
+To create a violin plot in R, you can use the code style="white-space: pre;">geom_violin()</code></pre> function within the ggplot framework:
 <pre><code style="white-space: pre;">
 ggplot(…) + 
   geom_violin()
 </code></pre>
 
-**Play with visual appearance, layer points on top of violins:**
+You can then play with visual appearance, layer points on top of the violins, etc.:
 <pre><code style="white-space: pre;">
 ggplot(…) + 
   geom_violin(colour = "white", fill = "grey",alpha = 0.3) + 
   geom_point(…)
 </code></pre>
 
+<p align="left">
+  <img alt="Left image: Violin plot that also shows data points" src="../_static/example-plot-distribution4.png" width="30%">
+</p>
+
 <big>**A personal recommendation**</big>  
 
-- **Invest time** into making visually appealing, easy-to-understand and clear plots!
-- Use **ggplot2** (part of the tidyverse package)
+- **Invest time** into making visually appealing, easy-to-understand and clear result plots!
+- Use **ggplot2** (part of the tidyverse package) for plot creation in R
 - Choose a **plot type** appropriate for your data (e.g., violin plots)
 - Use **colours** that are easy to distinguish (consider colour vision deficiency)
 - Make sure that you **label your data clearly** (axes, legends, lines, etc.)
 - Export your figures with a **high resolution** (at least 300 dpi) or as a vector graphic
 
 <pre><code style="white-space: pre;">
-violin_plot <- ggplot(df, aes(x,y)) + 
+super_cool_violin_plot <- ggplot(df, aes(x,y)) + 
     geom_violin(colour = "white", fill = "grey", alpha = 0.3) +
     labs(x = "Treatment", y = "Outcome") +
     theme_classic() +
     theme(legend.position = 'none')
     
-ggsave(file = “violin_plot.png", plot = violin_plot, width = 16, height = 9,   
+ggsave(file = “violin_plot_file_name.png", plot = super_coolviolin_plot, width = 16, height = 9,   
     units = "cm", dpi = 300, bg = "white")
 </code></pre>
 
