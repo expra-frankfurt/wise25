@@ -330,7 +330,7 @@ ggplot(…) +
 </code></pre>
 
 <p align="left">
-  <img alt="Left image: Violin plot that also shows data points" src="../_static/example-plot-distribution4.png" width="30%">
+  <img alt="Left image: Violin plot that also shows data points" src="../_static/example-plot-distribution4.png" width="60%">
 </p>
 
 <big>**A personal recommendation**</big>  
@@ -349,13 +349,13 @@ super_cool_violin_plot <- ggplot(df, aes(x,y)) +
     theme_classic() +
     theme(legend.position = 'none')
     
-ggsave(file = “violin_plot_file_name.png", plot = super_coolviolin_plot, width = 16, height = 9,   
+ggsave(file = “violin_plot_file_name.png", plot = super_cool_violin_plot, width = 16, height = 9,   
     units = "cm", dpi = 300, bg = "white")
 </code></pre>
 
 ### 3.3 References
 
-APA has strict [guidelines](https://apastyle.apa.org/style-grammar-guidelines) for referencing work by others. It is important that you clearly distinguish between your own thoughts and ideas taken from other sources and explicitly name and credit these sources. A failure to properly cite other work is considered plagiarism! 
+APA has strict [guidelines](https://apastyle.apa.org/style-grammar-guidelines) for referencing work by others. It is important that you **clearly distinguish between your own thoughts and ideas taken from other sources** and **explicitly name and credit these sources**. A failure to properly cite other work is considered plagiarism! 
 
 ```{caution}
 Plagiarism in _Prüfungsleistungen_ will make you fail the exam, and in the worst case lead to your exclusion from the university!
