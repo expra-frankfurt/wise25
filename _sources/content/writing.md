@@ -297,7 +297,7 @@ APA [table guidelines](https://apastyle.apa.org/style-grammar-guidelines/tables-
   <img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_static/example-plot-distribution1.png" width="30%">
 </p>
 
-Here is a little exercise. Look at the plot above and guess what the distribution of these data looks like. If you want, you can copy the plot and draw some data points on it to indicate the distribution.
+Here is a little exercise. Look at the plot above and guess what the respective distributions of the data going into each of the three bars look like. If you want, you can copy the plot and draw some data points on it to indicate the distribution.
 
 ```{admonition} Caution, spoiler!
 :class: dropdown
