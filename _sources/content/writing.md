@@ -53,7 +53,7 @@ The context-content-conclusion scheme should be applied at different levels of y
 
 **Paragraph level**: The first sentence of each paragraph defines the topic, the body provides (novel) content, the last sentence provides a conclusion (see example below).
   
-<font color="red">Context:</font> One possible explanation for the counterintuitive effect of X we observe is that […] <font color="blue">Content:</font> Salinger (1951) relates this to […] Similarly, Heller (1961) argues that effect X may be the consequence of […] In contrast, Vonnegut (1963) proposes an alternative view in which effect X is independent of […] <font color="green">Conclusion:</font> In summary, all these accounts suggest that effect X may be reliable and not merely an artifact of our experimental design.</font>
+     <font color="red">Context:</font>One possible explanation for the counterintuitive effect of X we observe is that […] <font color="blue">Content:</font> Salinger (1951) relates this to […] Similarly, Heller (1961) argues that effect X may be the consequence of […] In contrast, Vonnegut (1963) proposes an alternative view in which effect X is independent of […] <font color="green">Conclusion:</font> In summary, all these accounts suggest that effect X may be reliable and not merely an artifact of our experimental design.</font>
   
   
 <big>**Rule 4: Have a clear, logical flow of arguments**</big>  
@@ -141,7 +141,7 @@ The Discussion section is often critical for the final grade of your report. Whi
   
 <big>**Rule 10: Test your paper on naïve readers**</big>  
 
-A great way to test whether you followed the nine rules above is by having someone else (e.g., a fellow student from a nother Expra group) read your report and see what they think of it. Below you find typical reactions of your readers and how you can find out what you should work on to avoid these reactions:
+A great way to test whether you followed the nine rules above is by having someone else (e.g., a fellow student from another Expra group) read your report and see what they think of it. Below you find typical reactions of your readers and how you can find out what you should work on to avoid these reactions:
 
 | Rule | Sign of violation |
 | --- | ----------- |
@@ -158,7 +158,7 @@ A great way to test whether you followed the nine rules above is by having someo
   
 ## 2. Language
 
-<big>**Scientific language**</big>  
+Scientific writing has the goal to convey information **as precisely and clearly as possible in as much detail as necessary using as few words as possible**. It should be objective and formal, but it should not be unnecessarily complicated or intellectual. Here are a few things to keep in mind:
 
 - No colloquial language (e.g., colloquial expressions, abbreviations)  
     **Bad**: _We don’t think there is much of an effect, the test scores were pretty much the same._  
@@ -172,32 +172,30 @@ A great way to test whether you followed the nine rules above is by having someo
   - Simple past for what you or others did: _We conducted an ANOVA… Kim (2015) showed…_
   - Simple present for conclusions and generalizations: _We conclude that font size affects reading speed._
 
-<big>**Your language should be precise and clear**</big>  
-
 - Use clear, precise and objective language  
-**Bad**: _Response times were roughly equal._  
-**Good**: _Response times did not differ significantly, t(48)  =  1.04, p = .304._
+     **Bad**: _Response times were roughly equal._  
+     **Good**: _Response times did not differ significantly, t(48)  =  1.04, p = .304._
 
 - Explicitly name variables you are assessing or comparing  
-**Bad**: _We found no effect of working memory load._  
-**Good**: _We found no effect of working memory load on response times._  
+     **Bad**: _We found no effect of working memory load._  
+     **Good**: _We found no effect of working memory load on response times._  
 
-**Bad**: _Response times were shorter in the low-load condition._  
-**Good**: _Response times were shorter in the low-load compared to the high-load condition._  
+     **Bad**: _Response times were shorter in the low-load condition._  
+     **Good**: _Response times were shorter in the low-load compared to the high-load condition._  
 
-Use **consistent terminology** for conditions, abbreviations, etc. in the **text**, **table** and **figures**!
-
-<big>**Simple is (usually) better!**</big>  
+- Use **consistent terminology** for conditions, abbreviations, etc. in the **text**, **table** and **figures**!
 
 - Use simple language – no need to sound smart!
+     **Bad**: _Participants experiencing chronic somnolence due to inadequate nocturnal rest demonstrated significantly diminished vigilance._
+     **Good**: _Participants who were sleep-deprived showed impaired attention._ 
+
 - Avoid overly long sentences – try to break them up into shorter sentences
-  - Worst case you can use a numbered list: “_We show that (1) scene categorization is…, (2)…, (3)…_”
+     **Bad**: _Although the experiment demonstrated that participants who engaged in mindfulness meditation reported lower stress levels and higher attention scores, it is not clear whether these effects would persist over a longer period or in a larger and more diverse population._
+     **Good**: _Participants who engaged in mindfulness meditation reported lower stress levels and higher attention scores. However, it is not clear whether these effects would persist over a longer period. Additionally, the effects require replication in a larger and more diverse population._
 
 <big>**Guide your reader through your text**</big>  
 
-- While writing, consider not only the message you want to convey, but also the **information your reader needs** to understand it
-- There should be a clear _**roter Faden**_ in your work, **arguments should build on each other** 
-- Certain **key words** make it easier to follow your train of thoughts:
+While writing, consider not only the message you want to convey, but also the **information your reader needs** to understand it (see rule 2 above). There should be a clear _**roter Faden**_ in your work, and **arguments should build on each other**. Certain **key words** make it easier to follow your train of thought:
   - _Here we…_ to identify your question, method, etc. and distinguish it from previous work
   - _We found…_ to identify your results
   - _We conclude/Our results indicate…_ to identify your conclusions and interpretations of the data
@@ -207,21 +205,15 @@ Use **consistent terminology** for conditions, abbreviations, etc. in the **text
 
 ## 3. Form
 
-### 3.1 APA style
-First of all: Always follow “APA style”! You find a short overview [here](https://apastyle.apa.org/style-grammar-guidelines). 
+There are a number of formal rules that aim to standardize scientific writing and make it easy for readers to read scientific texts and find relevant information. The most important set of rules can be found in the [Publication Manual of the American Psychological Association](https://ubffm.hds.hebis.de/Search/Results?lookfor=Publication%20Manual%20of%20the%20American%20Psychological%20Association&type=allfields&submit=Suchen) (more commonly referred to as "APA style"). A short overview can be found [here](https://apastyle.apa.org/style-grammar-guidelines).  
 
-<img src="../_static/apa-cover.jpg" alt="Cover of the APA 7 publication manual" width="333" />   
-American Psychological Association (2020). Publication Manual of the American Psychological Association. 7th Edition, American Psychological Association.
+In your reports, you must always follow APA style. We will summarize the most important rules below. In case something is not covered here or you are not sure how to proceed, please refer to the 7th edition of the APA manual (can be found in the library).
+
+### 3.1 APA style
 
 <big>**Purpose of APA style**</big>  
 
-- Standardized writing conventions for
-  - The structure of empirical reports
-  - Referencing other published works
-  - Creation of Figures and Tables
-- Create a form that makes information easily accessible
-  - All psychological articles should follow same guidelines and structure
-  - Reports should be objective, precise and brief, no “colourful” or colloquial language
+The purpose of APA style is to provide standardized writing conventions for the structure of empirical reports, for referencing other published works and for the creation of figures and tables. It is supposed to create a form that makes information easily accessible by providing mandatory rules for the structure, language and references in all psychological articles. 
 
 <big>**APA: Structure of your manuscript**</big>  
 1. Title page
@@ -239,7 +231,7 @@ For your final reports: + signed _Eigenständigkeitserklärung_
 <big>**APA: Layout**</big>  
 
 - For your reports: Times New Roman, size 12, double-spaced, left-aligned (no hyphens/manual breaks in words at end of line)
-- Indent first line of each paragraph using the TAB key on your keyboard
+- Indent first line of each paragraph (except for the abstract) using the TAB key on your keyboard
 - Differentiate [levels of heading](https://apastyle.apa.org/style-grammar-guidelines/paper-format/headings) (note that font size is the same as the text!):   
 ![Examples for the first three levels of headings in apa format.](../_static/apa-headings.png)      
 - The introduction has no heading; instead repeat the paper title as the heading
@@ -255,13 +247,13 @@ Have a look at the [APA student sample paper and Word template](https://apastyle
 - Use italics for letters used as statistical symbols: _t_ test, _p_ value, _R_², etc.
   - But not for Greek letters: α, β, Χ², etc.
 - Report exact _p_ values (e.g., _p_ = .019) unless _p_ < .001; no leading zero!
-- Use reasonable number of decimals: 147 ms, mean rating 6.51, p = .041
-- Include test statistic, degrees of freedom, value, p value, effect size
+- Use reasonable number of decimals: 147 ms, mean rating 6.51, _p_ = .041
+- Include test statistic, degrees of freedom, value, _p_ value, effect size
   - _t_ test: _t_(52) = 4.8, _p_ < .001
   - ANOVA: _F_(2,34) = 2.51, _p_ = .003, η² = .04
   - Correlation: _r_(357) = .42, _p_ < .001
-  - Regression coefficient: b = -.34, _t_(225) = 6.53, _p_ < .001
-- Narrative form: “A one-way ANOVA showed that noise had a significant effect on test scores, _F_(3,27) = 5.94, _p_ = .007, η² = .17. Participants in the low noise condition yielded higher scores (_M_ = 23.6, _SD_ = 3.1) compared to the medium noise…”
+  - Regression coefficient: β = -.34, _t_(225) = 6.53, _p_ < .001
+- Narrative form: “A one-way ANOVA showed that noise had a significant effect on test scores, _F_(3,27) = 5.94, _p_ = .007, η² = .17. Participants in the low-noise condition yielded higher scores (_M_ = 23.6, _SD_ = 3.1) compared to the medium noise…”
 
 ```{tip}
 More info on [Numbers and Statistics](https://apastyle.apa.org/instructional-aids/numbers-statistics-guide.pdf).
@@ -269,17 +261,21 @@ More info on [Numbers and Statistics](https://apastyle.apa.org/instructional-aid
 
 ### 3.2 Figures and tables
 
-<img src="../_static/comic-abstract.jpg" alt="Cover of the APA 7 publication manual" width="333" />   
+Figures (and tables) are among the **most important parts of your paper**! Many readers will read your title, maybe the abstract and then look at your figures before reading the main text. You should therefore invest time into making visually appealing, clear and informative figures.
 
-<big>**Importance of figures and tables**</big>  
-- Figures (and tables) are among the **most important parts of your paper**! 
-- You should…
-    - Use **figures** to visually showcase the **key findings** of your paper (and **stimuli** if applicable)
+**Method section:** You can use figures to show...
+     - (example) stimuli
+     - the design of your study
+     - an example trial sequence
+     - the apparatus used in your study
+
+**Results section:**  
+    - Use **figures** to visually showcase the **key findings** of your paper 
     - Use **tables for large amounts of data** that would be too chaotic in a figure or when the exact values matter
-    - Report values in the text if it’s just a few numbers (e.g., _t_ test results)
-    - Not report the same data multiple times (i.e., in the text, a figure and/or a table)
-- Follow APA style when creating figures and tables (see below)
-- Captions should make figures and tables **self-explanatory**!
+    - Report values in the **text** if it’s just a few numbers (e.g., _t_ test results)
+    - Do not report the same data multiple times (i.e., in the text, a figure and/or a table)
+
+APA style also has guidelines for the creation of figures and tables (see below). Keep in mind that figures and tables should (ideally) be **self-explanatory**, therefore it is important to choose a meaningful title and explain data, abbreviations, colours, etc. in the caption.
 
 <big>**APA: Figure guidelines**</big>  
 ![This image shows a typical apa formated figure. Blue text fields highlight the different parts like figure number and short title, clearly labelled axes, etc.](../_static/apa-figure-guidelines.png)    
@@ -295,30 +291,13 @@ APA [figure guidelines](https://apastyle.apa.org/style-grammar-guidelines/tables
 APA [table guidelines](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/tables) and [sample tables](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/sample-tables)
 ```
 
-<big>**Warning: Hideous graphs! Don’t try at home!**</big>  
-
-[Here, you could include a more "interactive" part?]
-
-E.g.: 
-
-Image of a graph
-
-```{admonition} Why your graphs shouldn't look like this: OR How could you improve this graph?
-:class: dropdown
-
-- reason 1 / tip 1
-- reason 2 / tip 2
-
-```
-
-
 <big>**Use a plot type appropriate for your data**</big>  
 
 <p align="left">
   <img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_static/example-plot-distribution1.png" width="30%">
 </p>
 
-Guess what the distribution of these data looks like. Take one minute to draw some data points…
+Here is a little exercise. Look at the plot above and guess what the distribution of these data looks like. If you want, you can copy the plot and draw some data points on it to indicate the distribution.
 
 ```{admonition} Caution, spoiler!
 :class: dropdown
