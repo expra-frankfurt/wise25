@@ -739,19 +739,19 @@ For your final reports: + signed <em>Eigenständigkeitserklärung</em></p></li>
 </p>
 <p>Here is a little exercise. Look at the plot above and guess what the respective distributions of the data going into each of the three bars look like. If you want, you can copy the plot and draw some data points on it to indicate the distribution.</p>
 <div class="dropdown admonition">
-<p class="admonition-title">Caution, spoiler!</p>
+<p class="admonition-title">Click here to see the actual distributions of the data</p>
 <p align="left">
   <img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_static/example-plot-distribution2.png" width="60%">
 </p>
 </div>
 <p>As you can hopefully see, bar plots are not the best way to visualize data (for a number of reasons). An alternative to bar and box plots can be <strong>violin plots</strong>:</p>
 <div class="dropdown admonition">
-<p class="admonition-title">Caution, spoiler!</p>
+<p class="admonition-title">Click here to see violin plots of the same data</p>
 <p align="left">
   <img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_static/example-plot-distribution3.png" width="60%">
 </p>
 </div>
-<p>To create a violin plot in R, you can use the <pre><code style="white-space: pre;">geom_violin()</code></pre> function within the ggplot framework:</p>
+<p>To create a violin plot in R, you can use the <code>geom_violin()</code> function within the ggplot framework:</p>
 <pre><code style="white-space: pre;">
 ggplot(…) + 
   geom_violin()
@@ -762,9 +762,12 @@ ggplot(…) +
   geom_violin(colour = "white", fill = "grey",alpha = 0.3) + 
   geom_point(…)
 </code></pre>
+<div class="dropdown admonition">
+<p class="admonition-title">Click here to see violin plots with data points layered on top of the violins</p>
 <p align="left">
-  <img alt="Left image: Violin plot that also shows data points" src="../_static/example-plot-distribution4.png" width="60%">
+  <img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_static/example-plot-distribution4.png" width="60%">
 </p>
+</div>
 <p><big><strong>A personal recommendation</strong></big></p>
 <ul class="simple">
 <li><p><strong>Invest time</strong> into making visually appealing, easy-to-understand and clear result plots!</p></li>
@@ -793,12 +796,9 @@ ggsave(file = “violin_plot_file_name.png", plot = super_cool_violin_plot, widt
 <p>Plagiarism in <em>Prüfungsleistungen</em> will make you fail the exam, and in the worst case lead to your exclusion from the university!</p>
 </div>
 <p><big><strong>When to provide a citation</strong></big></p>
-<p>You must provide a citation for…
-- <strong>Information</strong> taken from other sources (e.g., research findings, statistics, facts, ideas, opinions, interpretations), even if you put the information in your own words!
-- <strong>Tools and materials</strong> you used (e.g., computer software, stimulus sets, graphics, analysis tools, R packages, etc.)</p>
-<p>You <strong>do not need</strong> to provide a citation for:
-- Information considered <strong>common knowledge</strong> (e.g., “We conducted an ANOVA” does not require a citation because ANOVAs are considered a standard procedure in psychology)</p>
-<p>In 99 % of cases, <strong>citing means paraphrasing, not verbatim quoting!</strong> Use verbatim quotes only if strictly necessary:</p>
+<p>You must provide a citation for (1) <strong>information</strong> taken from other sources (e.g., research findings, statistics, facts, ideas, opinions, interpretations), even if you put the information in your own words, and (2) <strong>tools and materials</strong> you used (e.g., computer software, stimulus sets, graphics, analysis tools, R packages, etc.).</p>
+<p>You <strong>do not need</strong> to provide a citation for information considered <strong>common knowledge</strong> (e.g., “We conducted an ANOVA” does not require a citation because ANOVAs are considered a standard procedure in psychology).</p>
+<p>Note that in 99 % of cases, <strong>citing means paraphrasing, not verbatim quoting!</strong> Use verbatim quotes only if strictly necessary:</p>
 <div class="highlight-none notranslate"><div class="highlight"><pre><span></span>    _Horz and Rohrmann (2020) suggested that psychology is fun._
     _Previous research shows that students enjoy statistics (Schultze &amp; Schnatz, 2019)._  
     _In 2021, Fiebach’s seminal study on computer games showed that…_  
@@ -808,14 +808,15 @@ ggsave(file = “violin_plot_file_name.png", plot = super_cool_violin_plot, widt
 <p><big><strong>Do yourself a favour: Use a reference management software!</strong></big></p>
 <p><strong>1. Install software of your choice (we recommend <a class="reference external" href="https://www.zotero.org/">Zotero</a>)</strong><br />
 <img alt="Screenshot of an example Zotero bibliography" src="../_images/zotero-collection.png" /><br />
-You can just drag-and-drop PDFs into your collection. Zotero will automatically search for article information.</p>
+You can just drag-and-drop PDFs into your collection. Zotero will automatically search for article information, but it is your job to make sure that all information (author names; year of publication; journal name, volume and issue; page numbers; DOI) is complete and correct!</p>
 <p><strong>2. Install plugin for your text editor</strong><br />
 <img alt="Screenshot of the Zotero plugin in word" src="../_images/zotero-plugin.png" /></p>
 <p><strong>3. Tell Zotero to stick to APA style (7th ed.)</strong><br />
-<img alt="Screenshot of a list of citation styles provided by zotero with the 7th edition of APA higlighted" src="../_images/zotero-apa.png" /></p>
-<p><strong>4. Use software to add in-text citations</strong><br />
-<img alt="Screenshot of the Zotero mask, where you can enter author names or titles to add a in-text citation in word" src="../_images/zotero-citation.png" /></p>
-<p>Click the position in the text where you want to add a citation, then click “Add/Edit Citation”.</p>
+<img alt="Screenshot of a list of citation styles provided by zotero with the 7th edition of APA higlighted" src="../_images/zotero-apa.png" /><br />
+This dialogue can be found under “Document preferences” and will automatically open when you insert your first citation.</p>
+<p><strong>4. Use Zotero to add in-text citations</strong><br />
+<img alt="Screenshot of the Zotero mask, where you can enter author names or titles to add a in-text citation in word" src="../_images/zotero-citation.png" /><br />
+Click the position in the text where you want to add a citation, then click “Add/Edit Citation”. You can search among publication titles, author names, journal names, etc. If necessary, you can choose several sources you want to cite, arrange them using drag and drop, and even add prefixes and suffixes such as “(see for example Rohrmann, 2012)” by clicking on the respective reference.</p>
 <p><strong>5. When you’re done, add the correctly formatted reference list at the end of your manuscript by clicking “Add/Edit Bibliography”</strong></p>
 <p><img alt="Screenshot of a Bibliography in apa style in word that was produced by the zotero plugin" src="../_images/zotero-bibliography.png" /></p>
 <div class="admonition seealso">
