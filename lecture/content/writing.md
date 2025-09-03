@@ -22,7 +22,7 @@ When you write your paper, you should try to focus it on **one central contribut
 
 A **good example** can be found in a paper by Aminoff and Durham (2023) entitled: *Scene-selective brain regions respond to embedded objects of a scene*. The central contribution is that scene-selective brain regions, which we usually assume to primarily respond to scene images, also respond to single objects. The novelty and relevance of this contribution are immediately apparent (the paper changes the way we think of these brain regions).  
 
-Compare this to a title that only focuses on **what was done** in the project: *A comparison of neural responses of scene-selective brain regions to object and scene images*. While this gives the reader a good idea of the method that was used in the project, it does not communicate the contribution as clearly and will not spark the reader's interest as much.  
+Compare this to a title that only focuses on **what was done** in the project: *A comparison of neural responses of scene-selective brain regions to object and scene images*. While this gives the readers a good idea of the method that was used in the project, it does not communicate the contribution as clearly and will not spark the readers' interest as much.  
 
 Checklist for good paper titles:
 - Should be **short** (10-15 words)
@@ -36,7 +36,7 @@ Formulate your title early on during (or even before) writing. This will serve a
   
 <big>**Rule 2: Write for readers who don’t know your work**</big>  
 
-Your writing should be clear and easy to understand for a **naïve reader** (a psychologist who is not from the specific field your project is located in). This includes defining specific/technical terms, avoiding abbreviations and acronyms (unless common, such as RT or ms) and, maybe most importantly, **making your reader care about your work** (why is it important?).
+Your writing should be clear and easy to understand for a **naïve reader** (a psychologist who is not from the specific field your project is located in). This includes defining specific/technical terms, avoiding abbreviations and acronyms (unless common, such as RT or ms) and, maybe most importantly, **making your readers care about your work** (why is it important?).
   
   
 <big>**Rule 3: The context-content-conclusion scheme**</big>
@@ -127,7 +127,7 @@ In general, it is important to **summarize** both descriptive and test results, 
   
 <big>**Rule 9: Discussion - Was the gap filled?**</big>  
 
-In your discussion section, you summarize your findings, critically relate them back to your hypotheses and the previous research, models or theories they are based on, outline possible limitations and avenues for future research and give your reader a final take-home message:
+In your discussion section, you summarize your findings, critically relate them back to your hypotheses and the previous research, models or theories they are based on, outline possible limitations and avenues for future research and give your readers a final take-home message:
 - Start by **repeating the main question** of your work, **how your project tried to answer it** (1-2 sentences on your method), the **key findings** and whether they **support your hypotheses**
 - Highlight the main **contributions** of your work to the gap: **Relate your findings** to previous findings, theories, models, etc.
 - Discuss **potential differences** between your findings and others as well as unexpected results and provide **reasons for these differences** (you can speculate here)
@@ -185,7 +185,6 @@ Scientific writing has the goal to convey information **as precisely and clearly
 
      **Bad**: _Response times were shorter in the low-load condition._  
      **Good**: _Response times were shorter in the low-load compared to the high-load condition._
-
 - Use **consistent terminology** for conditions, abbreviations, etc. in the **text**, **table** and **figures**!
 
 - Use simple language – no need to sound smart!  
@@ -196,9 +195,9 @@ Scientific writing has the goal to convey information **as precisely and clearly
      **Bad**: _Although the experiment demonstrated that participants who engaged in mindfulness meditation reported lower stress levels and higher attention scores, it is not clear whether these effects would persist over a longer period or in a larger and more diverse population._  
      **Good**: _Participants who engaged in mindfulness meditation reported lower stress levels and higher attention scores. However, it is not clear whether these effects would persist over a longer period. Additionally, the effects require replication in a larger and more diverse population._
 
-<big>**Guide your reader through your text**</big>  
+<big>**Guide your readers through your text**</big>  
 
-While writing, consider not only the message you want to convey, but also the **information your reader needs** to understand it (see rule 2 above). There should be a clear _**roter Faden**_ in your work, and **arguments should build on each other**. Certain **key words** make it easier to follow your train of thought:
+While writing, consider not only the message you want to convey, but also the **information your readers need** to understand it (see rule 2 above). There should be a clear _**roter Faden**_ in your work, and **arguments should build on each other**. Certain **key words** make it easier to follow your train of thought:
   - _Here we…_ to identify your question, method, etc. and distinguish it from previous work
   - _We found…_ to identify your results
   - _We conclude/Our results indicate…_ to identify your conclusions and interpretations of the data
@@ -224,11 +223,11 @@ The purpose of APA style is to provide standardized writing conventions for the 
 2. Abstract
 3. Introduction
 4. Method
-  - Participants
-  - Materials
-  - Procedure
-  - Design
-  - Analysis
+    - Participants
+    - Materials
+    - Procedure
+    - Design
+    - Analysis
 5. Results
 6. Discussion
 7. References					
