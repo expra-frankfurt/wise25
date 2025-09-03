@@ -4,26 +4,33 @@ In this session, we will discuss several general principles of writing scientifi
 
 Specifically, we will cover:
 
-[1. Contents](#contents) What information you should write about and where that information goes.  
-[2. Language](#language) How to express yourself in a scientific reports.  
-[3. Form](#form) How to format your reports.  
-     [3.1 APA style](#apa-style) Standardized conventions for psychological articles.  
-     [3.2 Figures and Tables](#figures-and-tables) Standardized guidelines for the creation of figures and tables.  
-     [3.3 References](#references) How to cite other articles the easiest way.  
-[4. Use of AI tools](#use-of-ai-tools) Rules for using AI tools such as ChatGPT, DeepL, etc.  
+[1. Contents:](#contents) What information you should write about and where that information goes.  
+[2. Language:](#language) How to express yourself in a scientific reports.  
+[3. Form:](#form) How to format your reports.  
+     [3.1 APA style:](#apa-style) Standardized conventions for psychological articles.  
+     [3.2 Figures and Tables:](#figures-and-tables) Standardized guidelines for the creation of figures and tables.  
+     [3.3 References:](#references) How to cite other articles the easiest way.  
+[4. Use of AI tools:](#use-of-ai-tools) Rules for using AI tools such as ChatGPT, DeepL, etc.  
 
 ## 1. Contents
-<img src="../_static/ten-rules.png" alt="Screenshot of the PLOS article by Mensh and Kording, named Ten simple rules for structuring papers" width="648" />
+This section is mostly based on an excellent paper by Mensh and Kording (2017) entitled [Ten simple rules for structuring papers](https://doi.org/10.1371/journal.pcbi.1005619). It is strongly recommended that you read this paper. You will find a summary of the ten rules below:  
 
 <big>**1. Focus your paper on a central contribution**</big>  
 
-- Make your claim as **simple** as your data and experimental logic allow
-- Clearly communicate your contribution in the **title of your paper **
-  - Titles should be **short** (10-15 words), **avoid abbreviations/jargon**, no question marks
-- Formulate your title early on during (or even before) writing– as a reminder to yourself of the contribution you want to make and communicate
+When you write your paper, you should try to focus it on **one central contribution** (this can be a theoretical insight, a new method, a criticism of previous research, etc.). Try to make your claim as **simple** as your data and experimental logic allow and clearly communicate it in the **title of your paper** so that it is immediately clear what your paper is showing.  
 
-**Example**:  
-Scene-selective brain regions respond to embedded objects of a scene (Aminoff & Durham, 2023)
+A good example can be found in a paper by Aminoff and Durham (2023) entitled: *Scene-selective brain regions respond to embedded objects of a scene*  
+The central contribution is that scene-selective brain regions, which we usually assume to primarily respond to scene images, also respond to single objects. The novelty and relevance of this contribution are immediately apparent (the paper changes the way we think of these brain regions).  
+
+Compare this to a title that only focuses on **what was done** in the project: *A comparison of neural responses of scene-selective brain regions to object and scene images*  
+While this gives the reader a good idea of the method that was used in the project, it doesn't communicate the contribution as clearly and won't spark the readers' interest as much.  
+
+Checklist for good paper titles:
+- Should be **short** (10-15 words)
+- **Avoid abbreviations/jargon**
+- No question marks (provide answers, not questions!)
+
+As a tip: Formulate your title early on during (or even before) writing. This will serve as a reminder to yourself of the contribution you want to make and will guide you while writing.
 
 <big>**2. Write for readers who don’t know your work**</big>  
 <img src="../_static/science-hell.png" alt="Comic with three people standing in hell. One of the three persons look like the devil, who says to one person while pointing to the other one: Welcome to science hell, Professor, this is Tony. He once saw something on the internet about your field of expertise and is going to spent eternety lecturing you on it."  width="333"  />
