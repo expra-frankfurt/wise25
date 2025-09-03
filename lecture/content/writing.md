@@ -1,21 +1,21 @@
 # Scientific Writing
 
-In this session, we will discuss several general principles of writing scientific articles. We will focus on experimental reports as this is part of your assignment in the Expra, but many principles apply to other types of scientific writing as well (e.g., review papers, meta-analyses, commentaries, etc.).
+In this section, we will discuss several general principles of writing scientific articles. We will focus on experimental reports as this is part of your assignment in the Expra, but many principles apply to other types of scientific writing as well (e.g., review papers, meta-analyses, commentaries, etc.).
 
 Specifically, we will cover:
 
-[1. Contents:](#contents) What information you should write about and where that information goes.  
-[2. Language:](#language) How to express yourself in a scientific reports.  
-[3. Form:](#form) How to format your reports.  
-     [3.1 APA style:](#apa-style) Standardized conventions for psychological articles.  
-     [3.2 Figures and Tables:](#figures-and-tables) Standardized guidelines for the creation of figures and tables.  
-     [3.3 References:](#references) How to cite other articles the easiest way.  
-[4. Use of AI tools:](#use-of-ai-tools) Rules for using AI tools such as ChatGPT, DeepL, etc.  
+1. [Contents:](#contents) What information you should write about and where that information goes.  
+2. [Language:](#language) How to express yourself in a scientific reports.  
+3. [Form:](#form) How to format your reports.  
+     3.1 [APA style:](#apa-style) Standardized conventions for psychological articles.  
+     3.2 [Figures and Tables:](#figures-and-tables) Standardized guidelines for the creation of figures and tables.  
+     3.3 [References:](#references) How to cite other articles the easiest way.  
+4. [Use of AI tools:](#use-of-ai-tools) Rules for using AI tools such as ChatGPT, DeepL, etc.  
 
 ## 1. Contents
 This section is mostly based on an excellent paper by Mensh and Kording (2017) entitled [Ten simple rules for structuring papers](https://doi.org/10.1371/journal.pcbi.1005619). It is strongly recommended that you read this paper. You will find a summary of the ten rules below:  
 
-<big>**1. Focus your paper on a central contribution**</big>  
+<big>**Rule 1: Focus your paper on a central contribution**</big>  
 
 When you write your paper, you should try to focus it on **one central contribution** (this can be a theoretical insight, a new method, a criticism of previous research, etc.). Try to make your claim as **simple** as your data and experimental logic allow and clearly communicate it in the **title of your paper** so that it is immediately clear what your paper is showing.  
 
@@ -32,14 +32,14 @@ Checklist for good paper titles:
 
 As a tip: Formulate your title early on during (or even before) writing. This will serve as a reminder to yourself of the contribution you want to make and will guide you while writing.
 
-<big>**2. Write for readers who don’t know your work**</big>  
+<big>**Rule 2: Write for readers who don’t know your work**</big>  
 <img src="../_static/science-hell.png" alt="Comic with three people standing in hell. One of the three persons look like the devil, who says to one person while pointing to the other one: Welcome to science hell, Professor, this is Tony. He once saw something on the internet about your field of expertise and is going to spent eternety lecturing you on it."  width="333"  />
 
 - **Write for a naïve reader** (a psychologist who is not from the specific field your project is located in)
 - Define specific/technical **terms**, avoid abbreviations and acronyms (unless common, such as RT or ms)
 - **Make your reader care** about your work (why is it important?) 
 
-<big>**3. The context-content-conclusion scheme**</big>
+<big>**Rule 3: The context-content-conclusion scheme**</big>
 - Each good story consists of three parts:
   - Beginning: Set up the **context** (problem) for the story → No context: “Why was I told that?”
   - Body: Provide the **content** of the story → No content: “Why should I believe that?”
@@ -54,7 +54,7 @@ As a tip: Formulate your title early on during (or even before) writing. This wi
 
 ![Image of the hour-glass structure with descriptions of what content is entailed in which part of the hour-glass.](../_static/hour-glass.png)    
 
-<big>**4. Have a clear, logical flow of arguments**</big>  
+<big>**Rule 4: Have a clear, logical flow of arguments**</big>  
 
 - **Avoid zig-zag**: 
   - Each subject should be covered only in one place
@@ -68,7 +68,7 @@ As a tip: Formulate your title early on during (or even before) writing. This wi
     - **Bad**: “CON stimuli lead to slower responses whereas inconsistent stimuli had lower RTs.”
     - **Good**: “Participants responded faster to consistent compared to inconsistent stimuli.”
 
-<big>**5. Tell a complete story in the abstract**</big>  
+<big>**Rule 5: Tell a complete story in the abstract**</big>  
 
 - For most readers, the abstract is the only part of a paper they will ever read!
 - Once again, the Context-Content-Conclusion rule (and hourglass structure) applies:
@@ -84,7 +84,7 @@ As a tip: Formulate your title early on during (or even before) writing. This wi
     - Show the **consequences of your findings** (with respect to theories, future studies, etc.; 1-2)
 - The Abstract should consist of 200-250 words!
 
-<big>**6. Introduction: Say why your paper matters**</big>  
+<big>**Rule 6: Introduction - Say why your paper matters**</big>  
 
 - Identify the **gap in knowledge you seek to fill** and highlight **why it is important**
   - Introduce the **general topic/field** (short) – Why is it important?
@@ -95,7 +95,7 @@ As a tip: Formulate your title early on during (or even before) writing. This wi
 - Underline your arguments with **relevant citations**, but only cite articles that are directly related to your work!
 - Follow the **hourglass principle**: broad to narrow (or general to specific)!
 
-<big>**7. Method: Provide enough detail for a replication**</big>  
+<big>**Rule 7: Method - Provide enough detail for a replication**</big>  
 
 - After reading the method section, readers should be able to…
   - Judge whether your experiment is suited to answer your question 
@@ -108,7 +108,7 @@ As a tip: Formulate your title early on during (or even before) writing. This wi
   - **Analysis**: Description of specific analysis strategies → Not needed for common analyses
 - Important: Assignment to experimental conditions (random?), between- or within-subjects design, counterbalancing of participants and/or stimuli, etc.
 
-<big>**8. Results: Series of evidence supporting your claim**</big>  
+<big>**Rule 8: Results - Series of evidence supporting your claim**</big>  
 
 - (Mentally) structure your results in subsections: 
 - Which statistical analysis is testing what aspect of your question(s)? 
@@ -119,7 +119,7 @@ As a tip: Formulate your title early on during (or even before) writing. This wi
 - **Summarize** both descriptive and test results, and **relate them to your hypotheses**!
   - “_In line with the context hypothesis, we found…_” or “_…were faster which supports the notion of…_”
 
-<big>**9. Discussion: Was the gap filled?**</big>  
+<big>**Rule 9: Discussion - Was the gap filled?**</big>  
 
 - Start by **repeating the main question** of your work, the **key findings** and whether they **support your hypotheses**
 - Highlight the main **contributions** of your work to the gap: **Relate your findings** to previous findings, theories, models, etc.
@@ -128,7 +128,7 @@ As a tip: Formulate your title early on during (or even before) writing. This wi
 - Show how your work advances the field, draw a **summarizing conclusion** (take-home message)
 - Follow the **hourglass structure** (specific to general) in the discussion
 
-<big>**10. Test your paper on naïve readers**</big>  
+<big>**Rule 10: Test your paper on naïve readers**</big>  
 
 | Rule | Sign of violation |
 | --- | ----------- |
