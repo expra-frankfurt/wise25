@@ -217,20 +217,28 @@ In your reports, you must always follow APA style. We will summarize the most im
 
 <big>**Purpose of APA style**</big>  
 
-The purpose of APA style is to provide standardized writing conventions for the structure of empirical reports, for referencing other published works and for the creation of figures and tables. It is supposed to create a form that makes information easily accessible by providing mandatory rules for the structure, language and references in all psychological articles. 
+The purpose of APA style is to provide standardized writing conventions for the structure of empirical reports, for referencing other published works and for the creation of figures and tables. It is supposed to create a form that makes information easily accessible by providing mandatory rules for the writing of psychological articles. 
 
 <big>**APA: Structure of your manuscript**</big>  
-1. Title page
-  - Title, author name(s), contact information, keywords
+1. Title page (incl. title, author name(s), contact information, keywords)
 2. Abstract
 3. Introduction
 4. Method
-  - Participants, Materials, Procedure, (Design, Analysis)
+  - Participants
+  - Materials
+  - Procedure
+  - Design
+  - Analysis
 5. Results
 6. Discussion
 7. References					
 8. Appendix
-For your final reports: + signed _Eigenständigkeitserklärung_
+
+Note that some subheadings may not be necessary in your project (e.g., the Analysis subsection).
+
+```{important}
+For your final reports: Include a signed _Eigenständigkeitserklärung_ at the end of your report! 
+```
 
 <big>**APA: Layout**</big>  
 
@@ -248,7 +256,7 @@ Have a look at the [APA student sample paper and Word template](https://apastyle
 
 <big>**APA: Reporting test results**</big>  
 
-- Use italics for letters used as statistical symbols: _t_ test, _p_ value, _R_², etc.
+- Use italics for letters used as statistical symbols: _t_ test, _p_ value, _R²_, etc.
   - But not for Greek letters: α, β, Χ², etc.
 - Report exact _p_ values (e.g., _p_ = .019) unless _p_ < .001; no leading zero!
 - Use reasonable number of decimals: 147 ms, mean rating 6.51, _p_ = .041
@@ -269,17 +277,17 @@ More info on [Numbers and Statistics](https://apastyle.apa.org/instructional-aid
 
 Figures (and tables) are among the **most important parts of your paper**! Many readers will read your title, maybe the abstract and then look at your figures before reading the main text. You should therefore invest time into making visually appealing, clear and informative figures.
 
-**Method section:** You can use figures to show...
-     - (example) stimuli
-     - the design of your study
-     - an example trial sequence
-     - the apparatus used in your study
+**Method section:** You can use figures to show...  
+     - (example) stimuli  
+     - the design of your study  
+     - an example trial sequence  
+     - the apparatus used in your study  
 
 **Results section:**  
-    - Use **figures** to visually showcase the **key findings** of your paper 
-    - Use **tables for large amounts of data** that would be too chaotic in a figure or when the exact values matter
-    - Report values in the **text** if it’s just a few numbers (e.g., _t_ test results)
-    - Do not report the same data multiple times (i.e., in the text, a figure and/or a table)
+    - Use **figures** to visually showcase the **key findings** of your paper  
+    - Use **tables for large amounts of data** that would be too chaotic in a figure or when the exact values matter  
+    - Report values in the **text** if it’s just a few numbers (e.g., _t_ test results)  
+    - Do not report the same data multiple times (i.e., in the text, a figure and/or a table)  
 
 APA style also has guidelines for the creation of figures and tables (see below). Keep in mind that figures and tables should (ideally) be **self-explanatory**, therefore it is important to choose a meaningful title and explain data, abbreviations, colours, etc. in the caption.
 
