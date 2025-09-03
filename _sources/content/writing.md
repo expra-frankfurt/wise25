@@ -63,7 +63,7 @@ Your writing should have both a clear structure (see rule 3 above and rules 6-9 
 **Avoid zig-zag**: Each subject you cover should be covered only in one place and not, for example, in three different parts of your introduction. This also means that related arguments should not be interrupted by unrelated material (“zig-zag”). Instead, related sentences or paragraphs should be strung together so that the reader is naturally guided through your flow of arguments.
 
 **Use parallelism**: Parallel messages should be communicated with parallel form (i.e., same syntax, same terms for same concepts). It is usually better to sound repetitive than to confuse people with different ways to refer to the same thing. This is especially important when using abbreviations (e.g., for conditions):
-- **Bad**: “CON stimuli lead to slower responses whereas inconsistent stimuli had lower RTs.”
+- **Bad**: “CON stimuli led to slower responses whereas inconsistent stimuli had lower RTs.”
 - **Good**: “Participants responded faster to consistent compared to inconsistent stimuli.”
   
   
@@ -72,16 +72,18 @@ Your writing should have both a clear structure (see rule 3 above and rules 6-9 
 The abstract is a short (usually 200-300 word) summary of your report. After the title (see rule 1), the abstract is the second thing your readers will read, and for many readers, it will be the only part of a paper they will ever read! It is therefore extremely important that it is clear, concise and convincing.
 
 The Context-Content-Conclusion rule (and hourglass structure) also applies to the abstract:
-- **Context**: 
-    - Introduce the **broader field** (1-2 sentences)
-    - Narrow down the context to the **specific open question** you want to answer (the “gap”; 1-2 sentences) 
-    - Justify **why this question matters** (relate back to broader context you started with; 1-2 sentences)
-- **Content**: 
-    - Summarize the **method/experimental logic** you used to answer your question (“Here we…”; 1-2 sentences) 
-    - Present the **key results** (2-3 sentences)
-- **Conclusion**: 
-    - Interpret the results and **answer the question** you posed in the beginning (1-3 sentences)
-    - Show the **consequences of your findings** (with respect to theories, future studies, etc.; 1-2 sentences)
+**Context**: 
+- Introduce the **broader field** (1-2 sentences)
+- Narrow down the context to the **specific open question** you want to answer (the “gap”; 1-2 sentences) 
+- Justify **why this question matters** (relate back to broader context you started with; 1-2 sentences)
+
+**Content**: 
+- Summarize the **method/experimental logic** you used to answer your question (“Here we…”; 1-2 sentences) 
+- Present the **key results** (2-3 sentences)
+
+**Conclusion**: 
+- Interpret the results and **answer the question** you posed in the beginning (1-3 sentences)
+- Show the **consequences of your findings** (with respect to theories, future studies, etc.; 1-2 sentences)
   
   
 <big>**Rule 6: Introduction - Say why your paper matters**</big>  
@@ -89,7 +91,7 @@ The Context-Content-Conclusion rule (and hourglass structure) also applies to th
 The purpose of the Introduction is to identify the **gap in knowledge you seek to fill** and highlight **why it is important**. It should cover the following aspects:
   - Introduce the **general topic/field** (short) – Why is it important?
   - Summarize **current knowledge** of the field (findings, theories, models) – What is your study based on?
-  - Establish gap in current knowledge – What is **still unclear**? 
+  - Establish the gap in the current knowledge – What is **still unclear**? 
   - Describe your project – What is the **question/goal of your study**?
   - Summarize your design, key results and conclusion – **How is your project “filling the gap”?**
 
