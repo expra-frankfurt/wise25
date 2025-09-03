@@ -277,16 +277,16 @@ More info on [Numbers and Statistics](https://apastyle.apa.org/instructional-aid
 Figures (and tables) are among the **most important parts of your paper**! Many readers will read your title, maybe the abstract and then look at your figures before reading the main text. You should therefore invest time into making visually appealing, clear and informative figures.
 
 **Method section:** You can use figures to show...  
-     - (example) stimuli  
-     - the design of your study  
-     - an example trial sequence  
-     - the apparatus used in your study  
+  - (example) stimuli
+  - the design of your study
+  - an example trial sequence
+  - the apparatus used in your study  
 
 **Results section:**  
-    - Use **figures** to visually showcase the **key findings** of your paper  
-    - Use **tables for large amounts of data** that would be too chaotic in a figure or when the exact values matter  
-    - Report values in the **text** if it’s just a few numbers (e.g., _t_ test results)  
-    - Do not report the same data multiple times (i.e., in the text, a figure and/or a table)  
+  - Use **figures** to visually showcase the **key findings** of your paper
+  - Use **tables for large amounts of data** that would be too chaotic in a figure or when the exact values matter
+  - Report values in the **text** if it’s just a few numbers (e.g., _t_ test results)
+  - Do not report the same data multiple times (i.e., in the text, a figure and/or a table)  
 
 APA style also has guidelines for the creation of figures and tables (see below). Keep in mind that figures and tables should (ideally) be **self-explanatory**, therefore it is important to choose a meaningful title and explain data, abbreviations, colours, etc. in the caption.
 
