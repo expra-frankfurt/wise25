@@ -95,7 +95,7 @@ The purpose of the Introduction is to identify the **gap in knowledge you seek t
   - Describe your project – What is the **question/goal of your study**?
   - Summarize your design, key results and conclusion – **How is your project “filling the gap”?**
 
-In the Introduction, it is especially important to underline your arguments with **relevant citations**. When you make a claim (e.g., "Psychology students are very eager"), you must substantiate it with a scientific article supporting this claim. Claims that are not backed up by scientific evidence are merely opinions that may or may not be true and should be avoided. Additionally, you should ensure that you properly cite relevant work your project is building upon (e.g., related previous studies, a model or theory you are testing). But only cite articles that are directly related to your work! There is no need to impress people with the amount of literature you read, but it is important to show that you read literature that is relevant.
+In the Introduction, it is especially important to underline your arguments with **relevant citations**. When you make a claim (e.g., "Psychology students are very eager"), you must substantiate it with a scientific article supporting this claim. Claims that are not backed up by scientific evidence are merely opinions that may or may not be true and should be avoided. Additionally, you should ensure that you properly cite relevant work your project is building upon (e.g., related previous studies, a model or theory you are testing). But only cite articles that are directly related to your work! There is no need to impress people with the amount of literature you read, but it is important to show that you know the field and have understood the foundation of your project.
 
 ```{tip}
 Remember to follow the **hourglass principle** in the introduction: From broad to narrow (or general to specific)!
@@ -104,14 +104,14 @@ Remember to follow the **hourglass principle** in the introduction: From broad t
   
 <big>**Rule 7: Method - Provide enough detail for a replication**</big>  
 
-The Method section should contain all information that your readers need to be able to judge whether your experiment is suited to answer your question and to repeat your experiment (remember the replication crisis?). 
+The Method section should contain all information that your readers need to judge whether your experiment is suited to answer your question and to repeat your experiment (remember the replication crisis?). 
 
 The Method section usually has its own subsections:
   - **Participants**: Who participated in your study (summary of demographic data such as mean age and SD, gender distribution, native language, population from which they were recruited, ethics, etc.)
-  - **Materials**: Stimuli that participants perceived, devices/software used to display stimuli and collect responses, etc.
-  - **Procedure**: What happened when (order of events), participants’ task, trial structure
+  - **Stimuli/Materials**: Stimuli that participants perceived, devices/software used to display stimuli and collect responses, etc.
+  - **Procedure**: What happened when (order of events), participants’ task(s), trial structure
   - **Design**: Description of experimental factors/manipulations 
-  - **Analysis**: Description of specific analysis strategies → Not needed for common analyses
+  - **Analysis**: Description of specific analysis strategies (not needed for simple/common analyses)
 
 ```{tip}
 Have a look at similar papers (e.g., your supervisor's) and carefully read the method section. Things that need to be adressed: Assignment to experimental conditions (random?), between- or within-subjects design, counterbalancing of participants and/or stimuli, etc.
@@ -163,37 +163,37 @@ A great way to test whether you followed the nine rules above is by having someo
 
 Scientific writing has the goal to convey information **as precisely and clearly as possible in as much detail as necessary using as few words as possible**. It should be objective and formal, but it should not be unnecessarily complicated or intellectual. Here are a few things to keep in mind:
 
-- No colloquial language (e.g., colloquial expressions, abbreviations)  
+- No colloquial language (e.g., colloquial expressions, abbreviations):  
     **Bad**: _We don’t think there is much of an effect, the test scores were pretty much the same._  
     **Good**: _We conclude that object size does not affect categorization speed as test scores were not significantly correlated with object size._
   
-- Write from your perspective (“We” or “I”) and use active voice if possible
-    **Bad**: _Stimuli were manipulated to contain only low-level information._
+- Write from your perspective (“We” or “I”) and use active voice if possible:  
+    **Bad**: _Stimuli were manipulated to contain only low-level information._  
     **Good**: _We manipulated stimuli to contain only low-level information._
 
-- Use verb tense consistently
-  - Simple past for what you or others did: _We conducted an ANOVA… Kim (2015) showed…_
+- Use verb tense consistently:  
+  - Simple past for what you or others did: _We conducted an ANOVA… Kim (2015) showed…_  
   - Simple present for conclusions and generalizations: _We conclude that font size affects reading speed._
 
-- Use clear, precise and objective language  
+- Use clear, precise and objective language:  
      **Bad**: _Response times were roughly equal._  
      **Good**: _Response times did not differ significantly, t(48)  =  1.04, p = .304._
 
-- Explicitly name variables you are assessing or comparing  
+- Explicitly name variables you are assessing or comparing:  
      **Bad**: _We found no effect of working memory load._  
      **Good**: _We found no effect of working memory load on response times._  
 
      **Bad**: _Response times were shorter in the low-load condition._  
-     **Good**: _Response times were shorter in the low-load compared to the high-load condition._  
+     **Good**: _Response times were shorter in the low-load compared to the high-load condition._
 
 - Use **consistent terminology** for conditions, abbreviations, etc. in the **text**, **table** and **figures**!
 
-- Use simple language – no need to sound smart!
-     **Bad**: _Participants experiencing chronic somnolence due to inadequate nocturnal rest demonstrated significantly diminished vigilance._
+- Use simple language – no need to sound smart!  
+     **Bad**: _Participants experiencing chronic somnolence due to inadequate nocturnal rest demonstrated significantly diminished vigilance._  
      **Good**: _Participants who were sleep-deprived showed impaired attention._ 
 
-- Avoid overly long sentences – try to break them up into shorter sentences
-     **Bad**: _Although the experiment demonstrated that participants who engaged in mindfulness meditation reported lower stress levels and higher attention scores, it is not clear whether these effects would persist over a longer period or in a larger and more diverse population._
+- Avoid overly long sentences – try to break them up into shorter sentences:  
+     **Bad**: _Although the experiment demonstrated that participants who engaged in mindfulness meditation reported lower stress levels and higher attention scores, it is not clear whether these effects would persist over a longer period or in a larger and more diverse population._  
      **Good**: _Participants who engaged in mindfulness meditation reported lower stress levels and higher attention scores. However, it is not clear whether these effects would persist over a longer period. Additionally, the effects require replication in a larger and more diverse population._
 
 <big>**Guide your reader through your text**</big>  
@@ -209,9 +209,9 @@ While writing, consider not only the message you want to convey, but also the **
 
 ## 3. Form
 
-There are a number of formal rules that aim to standardize scientific writing and make it easy for readers to read scientific texts and find relevant information. The most important set of rules can be found in the [Publication Manual of the American Psychological Association](https://ubffm.hds.hebis.de/Search/Results?lookfor=Publication%20Manual%20of%20the%20American%20Psychological%20Association&type=allfields&submit=Suchen) (more commonly referred to as "APA style"). A short overview can be found [here](https://apastyle.apa.org/style-grammar-guidelines).  
+There are a number of formal rules that aim to standardize scientific writing and make it easy for readers to read scientific texts and find relevant information. The most important set of rules can be found in the Publication Manual of the American Psychological Association (more commonly referred to as "APA style"). A short overview can be found [here](https://apastyle.apa.org/style-grammar-guidelines).  
 
-In your reports, you must always follow APA style. We will summarize the most important rules below. In case something is not covered here or you are not sure how to proceed, please refer to the 7th edition of the APA manual (can be found in the library).
+In your reports, you must always follow APA style. We will summarize the most important rules below. In case something is not covered here or you are not sure how to proceed, please refer to the 7th edition of the APA manual (can be found in the [library](https://ubffm.hds.hebis.de/Search/Results?lookfor=Publication%20Manual%20of%20the%20American%20Psychological%20Association&type=allfields&submit=Suchen)).
 
 ### 3.1 APA style
 
