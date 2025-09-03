@@ -1,14 +1,16 @@
 # Scientific Writing
 
-In this session, we will cover:
+In this session, we will discuss several general principles of writing scientific articles. We will focus on experimental reports as this is part of your assignment in the Expra, but many principles apply to other types of scientific writing as well (e.g., review papers, meta-analyses, commentaries, etc.).
 
-[1. Contents](#contents)  
-[2. Language](#language)  
-[3. Form](#form)  
-     [3.1 APA style](#apa-style)  
-     [3.2 Figures and Tables](#figures-and-tables)  
-     [3.3 References](#references)  
-[4. Use of AI tools](#use-of-ai-tools)  
+Specifically, we will cover:
+
+[1. Contents](#contents) What information you should write about and where that information goes.
+[2. Language](#language) How to express yourself in a scientific reports.
+[3. Form](#form) How to format your reports.
+     [3.1 APA style](#apa-style) Standardized conventions for psychological articles.
+     [3.2 Figures and Tables](#figures-and-tables) Standardized guidelines for the creation of figures and tables.
+     [3.3 References](#references) How to cite other articles the easiest way.
+[4. Use of AI tools](#use-of-ai-tools) Rules for using AI tools such as ChatGPT, DeepL, etc.
 
 ## 1. Contents
 <img src="../_static/ten-rules.png" alt="Screenshot of the PLOS article by Mensh and Kording, named Ten simple rules for structuring papers" width="648" />
