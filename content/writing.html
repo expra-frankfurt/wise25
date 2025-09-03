@@ -745,10 +745,13 @@ For your final reports: + signed <em>Eigenständigkeitserklärung</em></p></li>
 </p>
 </div>
 <p>As you can hopefully see, bar plots are not the best way to visualize data (for a number of reasons). An alternative to bar and box plots can be <strong>violin plots</strong>:</p>
+<div class="dropdown admonition">
+<p class="admonition-title">Caution, spoiler!</p>
 <p align="left">
-  <img alt="Left image: Violin plot of the data that represents the data and the means nicely." src="../_static/example-plot-distribution3.png" width="30%">
+  <img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_static/example-plot-distribution3.png" width="60%">
 </p>
-<p>To create a violin plot in R, you can use the code style=”white-space: pre;”&gt;geom_violin()</code></pre> function within the ggplot framework:</p>
+</div>
+<p>To create a violin plot in R, you can use the <pre><code style="white-space: pre;">geom_violin()</code></pre> function within the ggplot framework:</p>
 <pre><code style="white-space: pre;">
 ggplot(…) + 
   geom_violin()
@@ -784,41 +787,24 @@ ggsave(file = “violin_plot_file_name.png", plot = super_coolviolin_plot, width
 </section>
 <section id="references">
 <h3>3.3 References<a class="headerlink" href="#references" title="Permalink to this heading">#</a></h3>
-<ul class="simple">
-<li><p>APA has <a class="reference external" href="https://apastyle.apa.org/style-grammar-guidelines">strict guidelines for referencing</a> work by others</p>
-<ul>
-<li><p>Distinguish between your own thoughts and ideas taken from other sources</p></li>
-<li><p>Explicitly name and credit these sources</p></li>
-<li><p>Failure to properly cite other work  =  plagiarism!</p></li>
-</ul>
-</li>
-</ul>
+<p>APA has strict <a class="reference external" href="https://apastyle.apa.org/style-grammar-guidelines">guidelines</a> for referencing work by others. It is important that you clearly distinguish between your own thoughts and ideas taken from other sources and explicitly name and credit these sources. A failure to properly cite other work is considered plagiarism!</p>
 <div class="admonition caution">
 <p class="admonition-title">Caution</p>
-<p>Plagiarism in Prüfungsleistungen will make you fail the exam, worst case lead to exclusion from the university!</p>
+<p>Plagiarism in <em>Prüfungsleistungen</em> will make you fail the exam, and in the worst case lead to your exclusion from the university!</p>
 </div>
-<ul>
-<li><p>You must provide a citation for:</p>
-<ul class="simple">
-<li><p><strong>Information</strong> taken from other sources (e.g., research findings, statistics, facts, ideas, opinions, interpretations), even if you put the information in your own words!</p></li>
-<li><p><strong>Tools and materials</strong> you used (e.g., computer software, stimulus sets, graphics, analysis tools, R packages, etc.)</p></li>
-</ul>
-</li>
-<li><p>You <strong>do not need</strong> to provide a citation for:</p>
-<ul class="simple">
-<li><p>Information considered <strong>common knowledge</strong> (e.g., “We conducted an ANOVA” does not require a citation because ANOVAs are considered a standard procedure in psychology)</p></li>
-</ul>
-</li>
-<li><p>In 99 % of cases, <strong>citing means paraphrasing, not verbatim quoting!</strong></p></li>
-<li><p>Use verbatim quotes only if strictly necessary</p>
-<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>  _Horz and Rohrmann (2020) suggested that psychology is fun._
-  _Previous research shows that students enjoy statistics (Schultze &amp; Schnatz, 2019)._  
-  _In 2021, Fiebach’s seminal study on computer games showed that…_  
-  _The authors concluded that the “Expra is the most underrated seminar in the psychology bachelor” (Wiesmann, 2024, p. 47)._  
+<p><big><strong>When to provide a citation</strong></big></p>
+<p>You must provide a citation for…
+- <strong>Information</strong> taken from other sources (e.g., research findings, statistics, facts, ideas, opinions, interpretations), even if you put the information in your own words!
+- <strong>Tools and materials</strong> you used (e.g., computer software, stimulus sets, graphics, analysis tools, R packages, etc.)</p>
+<p>You <strong>do not need</strong> to provide a citation for:
+- Information considered <strong>common knowledge</strong> (e.g., “We conducted an ANOVA” does not require a citation because ANOVAs are considered a standard procedure in psychology)</p>
+<p>In 99 % of cases, <strong>citing means paraphrasing, not verbatim quoting!</strong> Use verbatim quotes only if strictly necessary:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>    _Horz and Rohrmann (2020) suggested that psychology is fun._
+    _Previous research shows that students enjoy statistics (Schultze &amp; Schnatz, 2019)._  
+    _In 2021, Fiebach’s seminal study on computer games showed that…_  
+    _The authors concluded that the “Expra is the most underrated seminar in the psychology bachelor” (Wiesmann, 2025, p. 47)._  
 </pre></div>
 </div>
-</li>
-</ul>
 <p><big><strong>Do yourself a favour: Use a reference management software!</strong></big></p>
 <p><strong>1. Install software of your choice (we recommend <a class="reference external" href="https://www.zotero.org/">Zotero</a>)</strong><br />
 <img alt="Screenshot of an example Zotero bibliography" src="../_images/zotero-collection.png" /><br />
