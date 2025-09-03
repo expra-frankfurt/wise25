@@ -740,56 +740,45 @@ For your final reports: + signed <em>Eigenständigkeitserklärung</em></p></li>
 <p>Here is a little exercise. Look at the plot above and guess what the respective distributions of the data going into each of the three bars look like. If you want, you can copy the plot and draw some data points on it to indicate the distribution.</p>
 <div class="dropdown admonition">
 <p class="admonition-title">Caution, spoiler!</p>
-<div class="pst-scrollable-table-container"><table class="colwidths-auto table">
-<thead>
-<tr class="row-odd"><th class="text-center head"><p></p></th>
-<th class="text-center head"><p>“Real” data”</p></th>
-<th class="text-center head"><p>How about violins?</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="row-even"><td class="text-center"><p><img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_images/example-plot-distribution1.png" /></p></td>
-<td class="text-center"><p><img alt="Centered image: Plot of the data that shows that the underlying data is distributed very different although the mean is always approximately 50. " src="../_images/example-plot-distribution2.png" /></p></td>
-<td class="text-center"><p><img alt="Right image: Violin plot of the data that represents the data and the means nicely." src="../_images/example-plot-distribution3.png" /></p></td>
-</tr>
-</tbody>
-</table>
+<p align="left">
+  <img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_static/example-plot-distribution2.png" width="60%">
+</p>
 </div>
-</div>
-<p>An alternative to bar and box plots: <strong>Violin plots</strong></p>
+<p>As you can hopefully see, bar plots are not the best way to visualize data (for a number of reasons). An alternative to bar and box plots can be <strong>violin plots</strong>:</p>
 <p align="left">
   <img alt="Left image: Violin plot of the data that represents the data and the means nicely." src="../_static/example-plot-distribution3.png" width="30%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Right image: Violin plot that also shows data points" src="../_static/example-plot-distribution4.png" width="30%">
 </p>
-<p><strong>Create violin plots in R:</strong></p>
+<p>To create a violin plot in R, you can use the code style=”white-space: pre;”&gt;geom_violin()</code></pre> function within the ggplot framework:</p>
 <pre><code style="white-space: pre;">
 ggplot(…) + 
   geom_violin()
 </code></pre>
-<p><strong>Play with visual appearance, layer points on top of violins:</strong></p>
+<p>You can then play with visual appearance, layer points on top of the violins, etc.:</p>
 <pre><code style="white-space: pre;">
 ggplot(…) + 
   geom_violin(colour = "white", fill = "grey",alpha = 0.3) + 
   geom_point(…)
 </code></pre>
+<p align="left">
+  <img alt="Left image: Violin plot that also shows data points" src="../_static/example-plot-distribution4.png" width="30%">
+</p>
 <p><big><strong>A personal recommendation</strong></big></p>
 <ul class="simple">
-<li><p><strong>Invest time</strong> into making visually appealing, easy-to-understand and clear plots!</p></li>
-<li><p>Use <strong>ggplot2</strong> (part of the tidyverse package)</p></li>
+<li><p><strong>Invest time</strong> into making visually appealing, easy-to-understand and clear result plots!</p></li>
+<li><p>Use <strong>ggplot2</strong> (part of the tidyverse package) for plot creation in R</p></li>
 <li><p>Choose a <strong>plot type</strong> appropriate for your data (e.g., violin plots)</p></li>
 <li><p>Use <strong>colours</strong> that are easy to distinguish (consider colour vision deficiency)</p></li>
 <li><p>Make sure that you <strong>label your data clearly</strong> (axes, legends, lines, etc.)</p></li>
 <li><p>Export your figures with a <strong>high resolution</strong> (at least 300 dpi) or as a vector graphic</p></li>
 </ul>
 <pre><code style="white-space: pre;">
-violin_plot <- ggplot(df, aes(x,y)) + 
+super_cool_violin_plot <- ggplot(df, aes(x,y)) + 
     geom_violin(colour = "white", fill = "grey", alpha = 0.3) +
     labs(x = "Treatment", y = "Outcome") +
     theme_classic() +
     theme(legend.position = 'none')
     
-ggsave(file = “violin_plot.png", plot = violin_plot, width = 16, height = 9,   
+ggsave(file = “violin_plot_file_name.png", plot = super_coolviolin_plot, width = 16, height = 9,   
     units = "cm", dpi = 300, bg = "white")
 </code></pre>
 </section>
