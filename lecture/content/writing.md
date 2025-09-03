@@ -299,7 +299,7 @@ APA [table guidelines](https://apastyle.apa.org/style-grammar-guidelines/tables-
 
 Here is a little exercise. Look at the plot above and guess what the respective distributions of the data going into each of the three bars look like. If you want, you can copy the plot and draw some data points on it to indicate the distribution.
 
-```{admonition} Caution, spoiler!
+```{admonition} Click here to see the actual distributions of the data
 :class: dropdown
 
 <p align="left">
@@ -308,7 +308,7 @@ Here is a little exercise. Look at the plot above and guess what the respective 
 ```
 As you can hopefully see, bar plots are not the best way to visualize data (for a number of reasons). An alternative to bar and box plots can be **violin plots**:
 
-```{admonition} Caution, spoiler!
+```{admonition} Click here to see violin plots of the same data
 :class: dropdown
 
 <p align="left">
@@ -316,7 +316,7 @@ As you can hopefully see, bar plots are not the best way to visualize data (for 
 </p>
 ```
 
-To create a violin plot in R, you can use the <pre><code style="white-space: pre;">geom_violin()</code></pre> function within the ggplot framework:
+To create a violin plot in R, you can use the <code>geom_violin()</code> function within the ggplot framework:
 <pre><code style="white-space: pre;">
 ggplot(…) + 
   geom_violin()
@@ -329,9 +329,13 @@ ggplot(…) +
   geom_point(…)
 </code></pre>
 
+```{admonition} Click here to see violin plots with data points layered on top of the violins
+:class: dropdown
+
 <p align="left">
-  <img alt="Left image: Violin plot that also shows data points" src="../_static/example-plot-distribution4.png" width="60%">
+  <img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_static/example-plot-distribution4.png" width="60%">
 </p>
+```
 
 <big>**A personal recommendation**</big>  
 
@@ -363,14 +367,11 @@ Plagiarism in _Prüfungsleistungen_ will make you fail the exam, and in the wors
 
 <big>**When to provide a citation**</big>  
 
-You must provide a citation for...
-    - **Information** taken from other sources (e.g., research findings, statistics, facts, ideas, opinions, interpretations), even if you put the information in your own words!
-    - **Tools and materials** you used (e.g., computer software, stimulus sets, graphics, analysis tools, R packages, etc.)
+You must provide a citation for (1) **information** taken from other sources (e.g., research findings, statistics, facts, ideas, opinions, interpretations), even if you put the information in your own words, and (2) **tools and materials** you used (e.g., computer software, stimulus sets, graphics, analysis tools, R packages, etc.).
 
-You **do not need** to provide a citation for:
-    - Information considered **common knowledge** (e.g., “We conducted an ANOVA” does not require a citation because ANOVAs are considered a standard procedure in psychology)
+You **do not need** to provide a citation for information considered **common knowledge** (e.g., “We conducted an ANOVA” does not require a citation because ANOVAs are considered a standard procedure in psychology).
 
-In 99 % of cases, **citing means paraphrasing, not verbatim quoting!** Use verbatim quotes only if strictly necessary:
+Note that in 99 % of cases, **citing means paraphrasing, not verbatim quoting!** Use verbatim quotes only if strictly necessary:
 
         _Horz and Rohrmann (2020) suggested that psychology is fun._
         _Previous research shows that students enjoy statistics (Schultze & Schnatz, 2019)._  
@@ -381,18 +382,18 @@ In 99 % of cases, **citing means paraphrasing, not verbatim quoting!** Use verba
 
 **1. Install software of your choice (we recommend [Zotero](https://www.zotero.org/))**   
 ![Screenshot of an example Zotero bibliography](../_static/zotero-collection.png)  
-You can just drag-and-drop PDFs into your collection. Zotero will automatically search for article information.
+You can just drag-and-drop PDFs into your collection. Zotero will automatically search for article information, but it is your job to make sure that all information (author names; year of publication; journal name, volume and issue; page numbers; DOI) is complete and correct!
 
 **2. Install plugin for your text editor**  
 ![Screenshot of the Zotero plugin in word](../_static/zotero-plugin.png)    
 
 **3. Tell Zotero to stick to APA style (7th ed.)**  
 ![Screenshot of a list of citation styles provided by zotero with the 7th edition of APA higlighted](../_static/zotero-apa.png)    
+This dialogue can be found under "Document preferences" and will automatically open when you insert your first citation.
 
-**4. Use software to add in-text citations**  
+**4. Use Zotero to add in-text citations**  
 ![Screenshot of the Zotero mask, where you can enter author names or titles to add a in-text citation in word](../_static/zotero-citation.png)    
-
-Click the position in the text where you want to add a citation, then click “Add/Edit Citation”.
+Click the position in the text where you want to add a citation, then click “Add/Edit Citation”. You can search among publication titles, author names, journal names, etc. If necessary, you can choose several sources you want to cite, arrange them using drag and drop, and even add prefixes and suffixes such as "(see for example Rohrmann, 2012)" by clicking on the respective reference.
 
 **5. When you’re done, add the correctly formatted reference list at the end of your manuscript by clicking “Add/Edit Bibliography”**
 
