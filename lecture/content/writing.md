@@ -14,8 +14,8 @@ Specifically, we will cover:
 
 ## 1. Contents
 This section is mostly based on an excellent paper by Mensh and Kording (2017) entitled [Ten simple rules for structuring papers](https://doi.org/10.1371/journal.pcbi.1005619). It is strongly recommended that you read this paper. You will find a summary of the ten rules below:  
-
-
+  
+  
 <big>**Rule 1: Focus your paper on a central contribution**</big>  
 
 When you write your paper, you should try to focus it on **one central contribution** (this can be a theoretical insight, a new method, a criticism of previous research, etc.). Try to make your claim as **simple** as your data and experimental logic allow and clearly communicate it in the **title of your paper** so that it is immediately clear what your paper is showing.  
@@ -34,28 +34,28 @@ Checklist for good paper titles:
 ```{tip}
 Formulate your title early on during (or even before) writing. This will serve as a reminder to yourself of the contribution you want to make and will guide you while writing.
 ```
-
-
+  
+  
 <big>**Rule 2: Write for readers who don’t know your work**</big>  
 
 Your writing should be clear and easy to understand for a **naïve reader** (a psychologist who is not from the specific field your project is located in). This includes defining specific/technical **terms**, avoiding abbreviations and acronyms (unless common, such as RT or ms) and, maybe most importantly, **making your reader care** about your work (why is it important?).
-
-
+  
+  
 <big>**Rule 3: The context-content-conclusion scheme**</big>
 
 Each good story consists of three parts: Beginning, Body and Ending. The Beginning sets up the **context** (problem) for the story, the Body provides the **content** of the story and in the Ending, the problem finds its **conclusion**. If either part is missing, you will get different responses from your readers. If you tell someone your story and their response is “Why was I told that?”, it indicates that your story did not provide sufficient contextual information in the beginning. If they are sceptical and ask “Why should I believe that?”, it indicates that the content in the Body was not sufficient to convince them. If they simply ask "So what?", they did not understand the conclusion provided in the Ending.
  
-The context-content-conclusion scheme should be applied at different levels of your writing:
-- **Paper level**: Your introduction provides context, your methods & results the content, and your discussion the conclusion.
-- **Paragraph level**: The first sentence of each paragraph defines the topic, the body provides (novel) content, the last sentence provides a conclusion (see example below).
-  
-    <font color="red">One possible explanation for the counterintuitive effect of X we observe is that […]</font> <font color="blue">Salinger (1951) relates this to […] Similarly, Heller (1961) argues that effect X may be the consequence of […] In contrast, Vonnegut (1963) proposes an alternative view in which effect X is independent of […]</font> <font color="green">In summary, all these accounts suggest that effect X may be reliable and not merely an artifact of our experimental design.</font>
+The context-content-conclusion scheme should be applied at different levels of your writing:  
 
-The context-content-conclusion scheme also follows a broad-narrow-broad structure (the “hour-glass structure”): The topics you will cover will first be very general at the beginning of your Introduction section, then become increasingly specific throughout your introduction and be most specific and relate to your project only in the Method and Results sections. In your Discussion section, you start specific again ("In this project...") and then become broader (relation to similar studies and theories, to the field as a whole, applications in everyday life, etc.), ending with a final summarizing conclusion.
+**Paper level**: Your introduction provides context, your methods & results the content, and your discussion the conclusion. Note that you can also think of this as your paper following a **broad-narrow-broad structure (the “hour-glass structure”)**: The topics you will cover will first be very general at the beginning of your Introduction section, then become increasingly specific throughout your introduction and be most specific and relate to your project only in the Method and Results sections. In your Discussion section, you start specific again ("In this project...") and then become broader (relation to similar studies and theories, to the field as a whole, applications in everyday life, etc.), ending with a final summarizing conclusion.
 
 ![Image of the hour-glass structure with descriptions of what content is entailed in which part of the hour-glass.](../_static/Hourglass.png)   
 
-
+**Paragraph level**: The first sentence of each paragraph defines the topic, the body provides (novel) content, the last sentence provides a conclusion (see example below).
+  
+<font color="red">Context:</font> One possible explanation for the counterintuitive effect of X we observe is that […] <font color="blue">Content:</font> Salinger (1951) relates this to […] Similarly, Heller (1961) argues that effect X may be the consequence of […] In contrast, Vonnegut (1963) proposes an alternative view in which effect X is independent of […] <font color="green">Conclusion:</font> In summary, all these accounts suggest that effect X may be reliable and not merely an artifact of our experimental design.</font>
+  
+  
 <big>**Rule 4: Have a clear, logical flow of arguments**</big>  
 
 Your writing should have both a clear structure (see rule 3 above and rules 6-9 below) and a logical flow of arguments. There are two simple ways to achieve this:
@@ -65,8 +65,8 @@ Your writing should have both a clear structure (see rule 3 above and rules 6-9 
 **Use parallelism**: Parallel messages should be communicated with parallel form (i.e., same syntax, same terms for same concepts). It is usually better to sound repetitive than to confuse people with different ways to refer to the same thing. This is especially important when using abbreviations (e.g., for conditions):
 - **Bad**: “CON stimuli lead to slower responses whereas inconsistent stimuli had lower RTs.”
 - **Good**: “Participants responded faster to consistent compared to inconsistent stimuli.”
-
-
+  
+  
 <big>**Rule 5: Tell a complete story in the abstract**</big>  
 
 The abstract is a short (usually 200-300 word) summary of your report. After the title (see rule 1), the abstract is the second thing your readers will read, and for many readers, it will be the only part of a paper they will ever read! It is therefore extremely important that it is clear, concise and convincing.
@@ -82,8 +82,8 @@ The Context-Content-Conclusion rule (and hourglass structure) also applies to th
 - **Conclusion**: 
     - Interpret the results and **answer the question** you posed in the beginning (1-3 sentences)
     - Show the **consequences of your findings** (with respect to theories, future studies, etc.; 1-2 sentences)
-
-
+  
+  
 <big>**Rule 6: Introduction - Say why your paper matters**</big>  
 
 The purpose of the Introduction is to identify the **gap in knowledge you seek to fill** and highlight **why it is important**. It should cover the following aspects:
@@ -95,12 +95,11 @@ The purpose of the Introduction is to identify the **gap in knowledge you seek t
 
 In the Introduction, it is especially important to underline your arguments with **relevant citations**. When you make a claim (e.g., "Psychology students are very eager"), you must substantiate it with a scientific article supporting this claim. Claims that are not backed up by scientific evidence are merely opinions that may or may not be true and should be avoided. Additionally, you should ensure that you properly cite relevant work your project is building upon (e.g., related previous studies, a model or theory you are testing). But only cite articles that are directly related to your work! There is no need to impress people with the amount of literature you read, but it is important to show that you read literature that is relevant.
 
-
 ```{tip}
 Remember to follow the **hourglass principle** in the introduction: From broad to narrow (or general to specific)!
 ```
-
-
+  
+  
 <big>**Rule 7: Method - Provide enough detail for a replication**</big>  
 
 The Method section should contain all information that your readers need to be able to judge whether your experiment is suited to answer your question and to repeat your experiment (remember the replication crisis?). 
@@ -115,15 +114,15 @@ The Method section usually has its own subsections:
 ```{tip}
 Have a look at similar papers (e.g., your supervisor's) and carefully read the method section. Things that need to be adressed: Assignment to experimental conditions (random?), between- or within-subjects design, counterbalancing of participants and/or stimuli, etc.
 ```
-
-
+  
+  
 <big>**Rule 8: Results - Series of evidence supporting your claim**</big>  
 
 When writing your Results section, it is a good idea to structure it into subsections (either only mentally or by using subheadings): Which statistical analysis is testing what aspect of your question(s)? When you have a clear structure, introduce the question each paragraph answers: _“We next tested whether…”, “After showing […], we next tested…”, “To ensure that there are no artifacts…”_, etc. If necessary, you can summarize your method/analysis strategy again as a reminder (e.g., if you are using an unusual design or category names/abbreviations). If possible, give an answer to each question at the end of the paragraph: “_We thus conclude that there are no artifacts of…_”, “_...a significant difference between conditions, indicating that our manipulation achieved the desired effect._”
 
 In general, it is important to **summarize** both descriptive and test results, and **relate them to your hypotheses:** “_In line with the context hypothesis, we found…_” or “_…were faster which supports the notion of…_”.
-
-
+  
+  
 <big>**Rule 9: Discussion - Was the gap filled?**</big>  
 
 In your discussion section, you summarize your findings, critically relate them back to your hypotheses and the previous research, models or theories they are based on, outline possible limitations and avenues for future research and give your reader a final take-home message:
@@ -138,8 +137,8 @@ In your discussion section, you summarize your findings, critically relate them 
 ```{tip}
 The Discussion section is often critical for the final grade of your report. While much of the rest of your report is more or less determined by the project you are working on, the discussion is your chance to show how much you thought about the project, how well you understood its theoretical foundation and how well you are able to look at it from different angles. 
 ```
-
-
+  
+  
 <big>**Rule 10: Test your paper on naïve readers**</big>  
 
 A great way to test whether you followed the nine rules above is by having someone else (e.g., a fellow student from a nother Expra group) read your report and see what they think of it. Below you find typical reactions of your readers and how you can find out what you should work on to avoid these reactions:
@@ -155,8 +154,8 @@ A great way to test whether you followed the nine rules above is by having someo
 | 7. Method: Provide enough detail for a replication | Readers can’t recreate your experiment |
 | 8. Results: Series of evidence supporting your claim | Readers do not agree with your conclusion |
 | 9. Discussion: Was the gap filled? | Readers are left with unanswered criticisms and/or questions on their mind |
-
-
+  
+  
 ## 2. Language
 
 <big>**Scientific language**</big>  
