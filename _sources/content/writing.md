@@ -389,9 +389,9 @@ You **do not need** to provide a citation for information considered **common kn
 
 Note that in 99 % of cases, **citing means paraphrasing, not verbatim quoting!** Use verbatim quotes only if strictly necessary:
 
-  _Horz and Rohrmann (2020) suggested that psychology is fun._
-  _Previous research shows that students enjoy statistics (Schultze & Schnatz, 2019)._
-  _In 2021, Fiebach’s seminal study on computer games showed that…_
+  _Horz and Rohrmann (2020) suggested that psychology is fun._  
+  _Previous research shows that students enjoy statistics (Schultze & Schnatz, 2019)._  
+  _In 2021, Fiebach’s seminal study on computer games showed that…_  
   _The authors concluded that the “Expra is the most underrated seminar in the psychology bachelor” (Wiesmann, 2025, p. 47)._  
 
 <big>**Do yourself a favour: Use a reference management software!**</big>  
