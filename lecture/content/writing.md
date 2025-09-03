@@ -450,8 +450,8 @@ Go to the chapter {doc}`literature` to learn how to use Zotero for literature ma
 
 ## References
 
-Aminoff, E. M., & Durham, T. (2023). Scene-selective brain regions respond to embedded objects of a scene. _Cerebral Cortex_, 33(9), 5066-5074. https://doi.org/10.1093/cercor/bhac399  
-Mensh, B., & Kording, K. (2017). Ten simple rules for structuring papers. PLOS Computational Biology, 13(9), e1005619. https://doi.org/10.1371/journal.pcbi.1005619
+Aminoff, E. M., & Durham, T. (2023). Scene-selective brain regions respond to embedded objects of a scene. _Cerebral Cortex_, _33_(9), 5066-5074. https://doi.org/10.1093/cercor/bhac399  
+Mensh, B., & Kording, K. (2017). Ten simple rules for structuring papers. _PLOS Computational Biology_, _13_(9), e1005619. https://doi.org/10.1371/journal.pcbi.1005619
 
 
 ----
