@@ -375,7 +375,7 @@ ggplot(df, aes(x,y)) +
     theme_classic() +
     theme(legend.position = 'none')
 
-     # Set the size of your plot to the width and height you want it to be in your report (a width of 16 cm is good for standard A4 pages)
+# Set the size of your plot to the width and height you want it to be in your report (a width of 16 cm is good for standard A4 pages)
      
 ggsave(file = “violin_plot_file_name.png", 
      width = 16, height = 9, units = "cm",  
@@ -425,6 +425,10 @@ Click the position in the text where you want to add a citation, then click “A
 **5. When you’re done, add the correctly formatted reference list at the end of your manuscript by clicking “Add/Edit Bibliography”**
 
 ![Screenshot of a Bibliography in apa style in word that was produced by the zotero plugin](../_static/zotero-bibliography.png)    
+
+```{tip}
+Using Zotero consequently while writing will save you a lot of time and stress in the long run. Zotero will automatically remove entries from your reference list when you delete the (last) sentence in which you cited an article, for example. This way you can just write and cite things in your text, and before submitting you simply add your bibliography without worrying whether you forgot to include or remove a reference manually.
+```
 
 ```{seealso}
 Go to the chapter {doc}`literature` to learn how to use Zotero for literature management.
