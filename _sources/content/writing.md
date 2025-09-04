@@ -243,7 +243,7 @@ The purpose of APA style is to provide standardized writing conventions for the 
 Note that some subheadings may not be necessary in your project (e.g., the Analysis subsection).
 
 ```{important}
-For your final reports: You must include a signed declaration of originality [_Eigenständigkeitserklärung_](https://www.uni-frankfurt.de/100361739/BSc_MSc_FAQ___April_2021.pdf?#page=4) at the end of your report! 
+For your final reports: You must include a signed declaration of originality ([_Eigenständigkeitserklärung_](https://www.uni-frankfurt.de/100361739/BSc_MSc_FAQ___April_2021.pdf?#page=4)) at the end of your report! 
 ```
 
 <big>**APA: Layout**</big>  
