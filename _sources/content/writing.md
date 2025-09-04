@@ -4,13 +4,13 @@ In this section, we will discuss several general principles of writing scientifi
 
 Specifically, we will cover:
 
-1. [Contents:](#contents) What information you should write about and where that information goes.  
-2. [Language:](#language) How to express yourself in a scientific report.  
-3. [Form:](#form) How to format your reports.  
-     3.1 [APA style:](#apa-style) Standardized conventions for psychological articles.  
-     3.2 [Figures and Tables:](#figures-and-tables) Standardized guidelines for the creation of figures and tables.  
-     3.3 [References:](#references) How to cite other articles the easiest way.  
-4. [Use of AI tools:](#use-of-ai-tools) Rules for using AI tools such as ChatGPT, DeepL, etc.  
+1. [Contents:](#1-contents) What information you should write about and where that information goes.  
+2. [Language:](#2-language) How to express yourself in a scientific report.  
+3. [Form:](#3-form) How to format your reports.  
+     3.1 [APA style:](#3-1-apa-style) Standardized conventions for psychological articles.  
+     3.2 [Figures and Tables:](#3-2-figures-and-tables) Standardized guidelines for the creation of figures and tables.  
+     3.3 [References:](#3-3-references) How to cite other articles the easiest way.  
+4. [Use of AI tools:](#4-use-of-ai-tools) Rules for using AI tools such as ChatGPT, DeepL, etc.  
 
 ## 1. Contents{#contents}
 This section is mostly based on an excellent paper by Mensh and Kording (2017) entitled [Ten simple rules for structuring papers](https://doi.org/10.1371/journal.pcbi.1005619). It is strongly recommended that you read this paper and follow the rules when writing your reports. You will find a summary of the rules below:  
