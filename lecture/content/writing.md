@@ -7,9 +7,9 @@ Specifically, we will cover:
 1. [Contents:](#1-contents) What information you should write about and where that information goes.  
 2. [Language:](#2-language) How to express yourself in a scientific report.  
 3. [Form:](#3-form) How to format your reports.  
-     3.1 [APA style:](#3-1-apa-style) Standardized conventions for psychological articles.  
-     3.2 [Figures and Tables:](#3-2-figures-and-tables) Standardized guidelines for the creation of figures and tables.  
-     3.3 [References:](#3-3-references) How to cite other articles the easiest way.  
+     3.1 [APA style:](#31-apa-style) Standardized conventions for psychological articles.  
+     3.2 [Figures and Tables:](#32-figures-and-tables) Standardized guidelines for the creation of figures and tables.  
+     3.3 [References:](#33-references) How to cite other articles the easiest way.  
 4. [Use of AI tools:](#4-use-of-ai-tools) Rules for using AI tools such as ChatGPT, DeepL, etc.  
 
 ## 1. Contents  
