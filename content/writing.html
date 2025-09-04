@@ -691,9 +691,10 @@ document.write(`
 <li><p>But not for Greek letters: α, β, Χ², etc.</p></li>
 </ul>
 </li>
-<li><p>Report exact <em>p</em> values (e.g., <em>p</em> = .019) unless <em>p</em> &lt; .001; no leading zero!</p></li>
-<li><p>Use reasonable number of decimals: 147 ms, mean rating 6.51, <em>p</em> = .041</p></li>
-<li><p>Include test statistic, degrees of freedom, value, <em>p</em> value, effect size</p>
+<li><p>Report exact <em>p</em> values (e.g., <em>p</em> = .019) unless <em>p</em> &lt; .001.</p></li>
+<li><p>Omit the leading zero for values that cannot exceed 1 (e.g., proportions, correlations, <em>p</em> values: <em>r</em> = .54, not <em>r</em> = 0.54).</p></li>
+<li><p>Use a reasonable number of decimals for the metric you are reporting: 147 ms, mean rating 6.51, <em>p</em> = .041</p></li>
+<li><p>For test results, include the test statistic, degrees of freedom, value, <em>p</em> value and effect size:</p>
 <ul>
 <li><p><em>t</em> test: <em>t</em>(52) = 4.8, <em>p</em> &lt; .001</p></li>
 <li><p>ANOVA: <em>F</em>(2,34) = 2.51, <em>p</em> = .003, η² = .04</p></li>
@@ -723,7 +724,7 @@ document.write(`
 <ul class="simple">
 <li><p>Use <strong>figures</strong> to visually showcase the <strong>key findings</strong> of your paper</p></li>
 <li><p>Use <strong>tables for large amounts of data</strong> that would be too chaotic in a figure or when the exact values matter</p></li>
-<li><p>Report values in the <strong>text</strong> if it’s just a few numbers (e.g., <em>t</em> test results)</p></li>
+<li><p>Report values in the <strong>text</strong> if it’s just a few numbers (e.g., two <em>t</em> test results do not require a table)</p></li>
 <li><p>Do not report the same data multiple times (i.e., in the text, a figure and/or a table)</p></li>
 </ul>
 <p>APA style also has guidelines for the creation of figures and tables (see below). Keep in mind that figures and tables should (ideally) be <strong>self-explanatory</strong>, therefore it is important to choose a meaningful title and explain data, abbreviations, colours, etc. in the caption.</p>
@@ -750,7 +751,7 @@ document.write(`
   <img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_static/example-plot-distribution2.png" width="60%">
 </p>
 </div>
-<p>As you can hopefully see, bar plots are not the best way to visualize data (for a number of reasons). An alternative to bar and box plots can be <strong>violin plots</strong>:</p>
+<p>As you can hopefully see, bar plots are not the best way to visualize data. Especially the distribution of the data is hard to guess from just a mean and an error bar. An alternative to bar and box plots can be <strong>violin plots</strong> that intuitively show the distribution of the data (where there are more or less data points):</p>
 <div class="dropdown admonition">
 <p class="admonition-title">Click here to see violin plots of the same data</p>
 <p align="left">
@@ -765,7 +766,7 @@ ggplot(…) +
 <p>You can then play with visual appearance, layer points on top of the violins, etc.:</p>
 <pre><code style="white-space: pre;">
 ggplot(…) + 
-  geom_violin(colour = "white", fill = "grey",alpha = 0.3) + 
+  geom_violin(colour = "white", fill = "grey", alpha = 0.3) + 
   geom_point(…)
 </code></pre>
 <div class="dropdown admonition">
@@ -784,15 +785,18 @@ ggplot(…) +
 <li><p>Export your figures with a <strong>high resolution</strong> (at least 300 dpi) or as a vector graphic</p></li>
 </ul>
 <pre><code style="white-space: pre;">
-super_cool_violin_plot <- ggplot(df, aes(x,y)) + 
+
+ggplot(df, aes(x,y)) + 
     geom_violin(colour = "white", fill = "grey", alpha = 0.3) +
     labs(x = "Treatment", y = "Outcome") +
     theme_classic() +
     theme(legend.position = 'none')
-    
-ggsave(file = “violin_plot_file_name.png", plot = super_cool_violin_plot,  
-     width = 16, height = 9,  
-     units = "cm", dpi = 300, bg = "white")
+
+     # Set the size of your plot to the width and height you want it to be in your report (a width of 16 cm is good for standard A4 pages)
+     
+ggsave(file = “violin_plot_file_name.png", 
+     width = 16, height = 9, units = "cm",  
+     dpi = 300, bg = "white")
 </code></pre>
 </section>
 <hr class="docutils" />
