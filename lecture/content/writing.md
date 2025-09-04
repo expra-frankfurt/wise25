@@ -427,7 +427,7 @@ Click the position in the text where you want to add a citation, then click “A
 ![Screenshot of a Bibliography in apa style in word that was produced by the zotero plugin](../_static/zotero-bibliography.png)    
 
 ```{tip}
-Using Zotero consequently while writing will save you a lot of time and stress in the long run. Zotero will automatically format in-text citations and your reference list correctly and keep track of your citations (for example when you delete text. If you have difficulties using Zotero, please ask your teacher for help.
+Using Zotero consequently while writing will save you a lot of time and stress in the long run. Zotero will automatically format in-text citations and your reference list correctly and keep track of your citations (for example when you delete text). If you have difficulties using Zotero, please ask your teacher for help.
 ```
 
 ```{seealso}
