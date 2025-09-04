@@ -5,7 +5,7 @@ In this section, we will discuss several general principles of writing scientifi
 Specifically, we will cover:
 
 1. [Contents:](#contents) What information you should write about and where that information goes.  
-2. [Language:](#language) How to express yourself in a scientific report.  
+2. [Language:](#scientific-language) How to express yourself in a scientific report.  
 3. [Form:](#form) How to format your reports.  
      3.1 [APA style:](#apa-style) Standardized conventions for psychological articles.  
      3.2 [Figures and Tables:](#figures-and-tables) Standardized guidelines for the creation of figures and tables.  
@@ -166,7 +166,7 @@ A great way to test whether you followed the nine rules above is by having someo
   
 ---
   
-## 2. Language
+## 2. Scientific language
 
 Scientific writing has the goal to convey information **as precisely and clearly as possible in as much detail as necessary using as few words as possible**. It should be objective and formal, but it should not be unnecessarily complicated or intellectual. Here are a few things to keep in mind:
 
