@@ -12,7 +12,7 @@ Specifically, we will cover:
      3.3 [References:](#references) How to cite other articles the easiest way.  
 4. [Use of AI tools:](#use-of-ai-tools) Rules for using AI tools such as ChatGPT, DeepL, etc.  
 
-## 1. Contents {#contents}
+## 1. Contents{#contents}
 This section is mostly based on an excellent paper by Mensh and Kording (2017) entitled [Ten simple rules for structuring papers](https://doi.org/10.1371/journal.pcbi.1005619). It is strongly recommended that you read this paper and follow the rules when writing your reports. You will find a summary of the rules below:  
   
   
