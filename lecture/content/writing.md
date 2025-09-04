@@ -264,9 +264,10 @@ Have a look at the [APA student sample paper and Word template](https://apastyle
 
 - Use italics for letters used as statistical symbols: _t_ test, _p_ value, _R²_, etc.
   - But not for Greek letters: α, β, Χ², etc.
-- Report exact _p_ values (e.g., _p_ = .019) unless _p_ < .001; no leading zero!
-- Use reasonable number of decimals: 147 ms, mean rating 6.51, _p_ = .041
-- Include test statistic, degrees of freedom, value, _p_ value, effect size
+- Report exact _p_ values (e.g., _p_ = .019) unless _p_ < .001.
+- Omit the leading zero for values that cannot exceed 1 (e.g., proportions, correlations, _p_ values: _r_ = .54, not _r_ = 0.54). 
+- Use a reasonable number of decimals for the metric you are reporting: 147 ms, mean rating 6.51, _p_ = .041
+- For test results, include the test statistic, degrees of freedom, value, _p_ value and effect size:
   - _t_ test: _t_(52) = 4.8, _p_ < .001
   - ANOVA: _F_(2,34) = 2.51, _p_ = .003, η² = .04
   - Correlation: _r_(357) = .42, _p_ < .001
@@ -292,7 +293,7 @@ Figures (and tables) are among the **most important parts of your paper**! Many 
 **Results section:**  
   - Use **figures** to visually showcase the **key findings** of your paper
   - Use **tables for large amounts of data** that would be too chaotic in a figure or when the exact values matter
-  - Report values in the **text** if it’s just a few numbers (e.g., _t_ test results)
+  - Report values in the **text** if it’s just a few numbers (e.g., two _t_ test results do not require a table)
   - Do not report the same data multiple times (i.e., in the text, a figure and/or a table)  
 
 APA style also has guidelines for the creation of figures and tables (see below). Keep in mind that figures and tables should (ideally) be **self-explanatory**, therefore it is important to choose a meaningful title and explain data, abbreviations, colours, etc. in the caption.
@@ -326,7 +327,7 @@ Here is a little exercise. Look at the plot above and guess what the respective 
   <img alt="Left image: Plot with three colored bars that have the same mean outcome of approximately 50." src="../_static/example-plot-distribution2.png" width="60%">
 </p>
 ```
-As you can hopefully see, bar plots are not the best way to visualize data (for a number of reasons). An alternative to bar and box plots can be **violin plots**:
+As you can hopefully see, bar plots are not the best way to visualize data. Especially the distribution of the data is hard to guess from just a mean and an error bar. An alternative to bar and box plots can be **violin plots** that intuitively show the distribution of the data (where there are more or less data points):
 
 ```{admonition} Click here to see violin plots of the same data
 :class: dropdown
@@ -345,7 +346,7 @@ ggplot(…) +
 You can then play with visual appearance, layer points on top of the violins, etc.:
 <pre><code style="white-space: pre;">
 ggplot(…) + 
-  geom_violin(colour = "white", fill = "grey",alpha = 0.3) + 
+  geom_violin(colour = "white", fill = "grey", alpha = 0.3) + 
   geom_point(…)
 </code></pre>
 
@@ -367,15 +368,18 @@ ggplot(…) +
 - Export your figures with a **high resolution** (at least 300 dpi) or as a vector graphic
 
 <pre><code style="white-space: pre;">
-super_cool_violin_plot <- ggplot(df, aes(x,y)) + 
+
+ggplot(df, aes(x,y)) + 
     geom_violin(colour = "white", fill = "grey", alpha = 0.3) +
     labs(x = "Treatment", y = "Outcome") +
     theme_classic() +
     theme(legend.position = 'none')
-    
-ggsave(file = “violin_plot_file_name.png", plot = super_cool_violin_plot,  
-     width = 16, height = 9,  
-     units = "cm", dpi = 300, bg = "white")
+
+     # Set the size of your plot to the width and height you want it to be in your report (a width of 16 cm is good for standard A4 pages)
+     
+ggsave(file = “violin_plot_file_name.png", 
+     width = 16, height = 9, units = "cm",  
+     dpi = 300, bg = "white")
 </code></pre>
 
 ---
