@@ -12,7 +12,7 @@ Specifically, we will cover:
      3.3 [References:](#references) How to cite other articles the easiest way.  
 4. [Use of AI tools:](#use-of-ai-tools) Rules for using AI tools such as ChatGPT, DeepL, etc.  
 
-## 1. Contents
+## 1. Contents {#contents}
 This section is mostly based on an excellent paper by Mensh and Kording (2017) entitled [Ten simple rules for structuring papers](https://doi.org/10.1371/journal.pcbi.1005619). It is strongly recommended that you read this paper and follow the rules when writing your reports. You will find a summary of the rules below:  
   
   
@@ -166,7 +166,7 @@ A great way to test whether you followed the nine rules above is by having someo
   
 ---
   
-## 2. Language
+## 2. Language {#language}
 
 Scientific writing has the goal to convey information **as precisely and clearly as possible in as much detail as necessary using as few words as possible**. It should be objective and formal, but it should not be unnecessarily complicated or intellectual. Here are a few things to keep in mind:
 
@@ -213,13 +213,13 @@ While writing, consider not only the message you want to convey, but also the **
 
 ---
 
-## 3. Form
+## 3. Form {#form}
 
 There are a number of formal rules that aim to standardize scientific writing and make it easy for readers to read scientific texts and find relevant information. The most important set of rules can be found in the Publication Manual of the American Psychological Association (more commonly referred to as "APA style"). A short overview can be found [here](https://apastyle.apa.org/style-grammar-guidelines).  
 
 In your reports, you must always follow APA style. We will summarize the most important rules below. In case something is not covered here or you are not sure how to proceed, please refer to the 7th edition of the APA manual (can be found in the [library](https://ubffm.hds.hebis.de/Search/Results?lookfor=Publication%20Manual%20of%20the%20American%20Psychological%20Association&type=allfields&submit=Suchen)).
 
-### 3.1 APA style
+### 3.1 APA style {#apa-style}
 
 <big>**Purpose of APA style**</big>  
 
@@ -280,7 +280,7 @@ More info on [Numbers and Statistics](https://apastyle.apa.org/instructional-aid
 
 ---
 
-### 3.2 Figures and tables
+### 3.2 Figures and tables {#figures-and-tables}
 
 Figures (and tables) are among the **most important parts of your paper**! Many readers will read your title, maybe the abstract and then look at your figures before reading the main text. You should therefore invest time into making visually appealing, clear and informative figures.
 
@@ -384,7 +384,7 @@ ggsave(file = “violin_plot_file_name.png",
 
 ---
 
-### 3.3 References
+### 3.3 References {#references}
 
 APA has strict [guidelines](https://apastyle.apa.org/style-grammar-guidelines) for referencing work by others. It is important that you **clearly distinguish between your own thoughts and ideas taken from other sources** and **explicitly name and credit these sources**. A failure to properly cite other work is considered plagiarism! 
 
@@ -432,7 +432,7 @@ Go to the chapter {doc}`literature` to learn how to use Zotero for literature ma
 
 ---
 
-## 4. Use of AI tools
+## 4. Use of AI tools {#use-of-ai-tools}
 
 <big>**You are allowed to use AI tools to...**</big>  
 - Rephrase and review text (e.g., DeepL Write, Grammarly)
