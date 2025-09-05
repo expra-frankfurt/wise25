@@ -34,7 +34,11 @@
 
 * [Research Communication and Presentation](../content/communication)
 
-   All about poster presentation and scientific writing.
+   All about poster presentation.
+
+* [Research Communication and Presentation](../content/writing)
+
+  How to write your scientific report.
 
 Additionally: 
 
