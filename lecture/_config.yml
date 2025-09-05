@@ -33,8 +33,6 @@ html:
     hypothesis: true
   analytics: 
     google_analytics_id       : ""  # A GA id that can be used to track book views.
-  extra_css:
-  - css/custom.css
 
 #######################################################################################
 # Launch button settings
