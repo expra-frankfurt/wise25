@@ -1,4 +1,4 @@
-This is the course website for the EXPRA at Goethe University Frankfurt.
+This is the course website for the EXPRA at Goethe University Frankfurt.  
 
 Link to website: https://luciebinder.github.io/expra/
 
