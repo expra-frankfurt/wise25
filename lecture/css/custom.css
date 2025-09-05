@@ -1,7 +1,12 @@
-:root {
-  --pst-font-size-base: 20px;   /* Fließtext */
-  --pst-font-size-h1: 2.2rem;
-  --pst-font-size-h2: 1.8rem;
-  --pst-font-size-h3: 1.5rem;
-  --pst-font-size-monospace: 0.95em; /* Code */
+/* Make body text larger */
+body {
+  font-size: 16px;
+}
+
+/* Make headers larger */
+h1 {
+  font-size: 2.2em;
+}
+h2 {
+  font-size: 1.8em;
 }
