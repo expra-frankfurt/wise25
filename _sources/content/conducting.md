@@ -8,7 +8,7 @@ This guide will walk you through each stage of running a study—from recruiting
 
 ### 1. Recruiting Participants
 Recruitment is the first step in conducting an experiment. Your goal is to attract eligible participants while providing clear and transparent information about the study. Here are several examples of effective methods:  
-- SONA System, many psychology departments use this internal platform. It is a platform that allows researchers to advertise their studies and test students in exchange for monetary reimbursement or course credits (VPM). Participants can browse ongoing studies and choose sessions that fit their schedule.
+- [SONA System](https://uni-frankfurt.sona-systems.com/Default.aspx?ReturnUrl=%2f), many psychology departments use this internal platform. It is a platform that allows researchers to advertise their studies and test students in exchange for monetary reimbursement or course credits (VPM). Participants can browse ongoing studies and choose sessions that fit their schedule.
 - Posting flyers in approved areas around campus. 
 - Posting study advertisements in university-specific groups or on departmental social media pages can be an effective and low-cost way to reach potential participants.
 
@@ -19,6 +19,11 @@ Remember to include all essential information in your recruitment materials:
 - Eligibility criteria (e.g., age, native language, prior participation).
 - Type of compensation (money, course credit, raffle entry).
 - How to sign up or contact you.
+
+```{seealso}
+[Information on "Versuchspersonenminuten" for psychology students at Goethe University](https://www.psychologie.uni-frankfurt.de/157444303/VPM)
+[SONA guide for researchers](https://sgl.uni-frankfurt.de/sona/SONA_Guide_for_researchers.pdf), written by Theresa Henke, Julia Schmidt and Sandro Wiesmann from Goethe University
+´´´
 
 ### 2. Screening and Scheduling
 Once someone expresses interest, check that they meet the eligibility criteria and set up their participation.
@@ -86,6 +91,8 @@ Being an experimenter is not just about running tasks—it’s about professiona
 #### Attribution:
 This guide was adapted in part from _Research Methods in Psychology (4th ed.)_ by Jhangiani, R., Chiang, I., Cuttler, C., & Leighton, D. (2023), available at https://kpu.pressbooks.pub/psychmethods4e/. Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
+----
+
 ## Experimenter’s Quick Checklist
 **Screening & Scheduling**  
 <input type="checkbox"> </input> Screen participants for eligibility (form/email/phone).  
@@ -117,4 +124,6 @@ This guide was adapted in part from _Research Methods in Psychology (4th ed.)_ b
 <input type="checkbox"> </input> Check files for completeness.  
 <input type="checkbox"> </input> Log notes about any irregularities.  
 
-
+----
+**Acknowledgments** 
+This section was contributed by [Dingrong Guo](https://www.psychologie.uni-frankfurt.de/141520797/Dr__Dingrong_Guo?).
