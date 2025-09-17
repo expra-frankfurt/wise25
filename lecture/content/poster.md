@@ -138,7 +138,7 @@ Design your poster to encourage viewers to engage with you (Burkhardt et al., 20
 
 
 ## 4. Step-by-step guide of creating a scientific poster 
-<small>Based on Burkhardt et al, 2017; ISEK, 2014; Studierwerkstatt an der Universität Bremen, o. D.<small>
+<small>Based on Burkhardt et al, 2017; ISEK, 2014; Studierwerkstatt an der Universität Bremen, o. D.</small>
 
 **1.	Plan the work process**
 -	Familiarize yourself with the design requirements & purpose of scientific poster. Plan your workflow by outlining what needs to be completed and by when.
@@ -198,7 +198,7 @@ _If using PowerPoint set gridlines to be visible (Ansicht -> Anzeigen -> Gittern
 - Always perform a test print, even on a smaller scale (e.g., A4 paper), as printed colours often differ from those displayed on a scree
 
 ## 5. Excursus: Rethinking poster designs with #BetterPoster 
-<small>Based on Mike Morrison, PhD, 2019; Morrison, PhD, 2020.</small>
+<small>Based on Mike Morrison, PhD, 2019; Morrison, PhD, 2020. </small>
 
 > A poster that successfully communicates one thing is better than a poster that fails to communicate a thousand things. (Mike Morrison, PhD, 2020)
 
