@@ -11,7 +11,7 @@ Usually, the things we preregister will include:
 
 The preregistration is saved as a permanent, timestamped record of the researchers' plans before conducting an experiment. When writing reports or articles, we can link the reader to the preregistration, to show whether we stuck to our original plans.
 
-As part of the ExPra, you will be asked to preregister your study on [LIFOS](lifos).
+As part of the ExPra, you will be asked to preregister your study on [LIFOS](lifos). For more information on LIFOS, check the next section: {doc}`lifos`.
 
 ----------------------------
 
