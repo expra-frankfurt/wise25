@@ -31,9 +31,9 @@ Once someone expresses interest, check that they meet the eligibility criteria a
 - **Screening**: This is a crucial step to confirm that a potential participant meets all eligibility requirements, such as age, specific experience, or their prior participation in similar studies. You can do this with a brief online form or a quick phone call. Examples: “Are you between 18–35 years old?” “Have you taken part in a similar memory study in the past 6 months?”
 - **Scheduling**: After screening, you will schedule a specific time for the participant to come in. Be flexible and offer a few different time slots to accommodate their schedule. Confirm the time, date, and location (with directions if needed) of the experiment. Send a reminder email a day or two before their appointment.
 
-´´´{tip}
+```{tip}
 Always be polite, professional, and responsive in your communication—this sets the tone for the session.
-´´´
+```
 
 ### 3.	Preparing for the Experimental Session
 The experiment should run smoothly and consistently. Preparation reduces stress and mistakes.
