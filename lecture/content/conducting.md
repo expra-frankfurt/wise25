@@ -23,7 +23,7 @@ Remember to include all essential information in your recruitment materials:
 ```{seealso}
 [Information on "Versuchspersonenminuten" for psychology students at Goethe University](https://www.psychologie.uni-frankfurt.de/157444303/VPM)
 [SONA guide for researchers](https://sgl.uni-frankfurt.de/sona/SONA_Guide_for_researchers.pdf), written by Theresa Henke, Julia Schmidt and Sandro Wiesmann from Goethe University
-´´´
+```
 
 ### 2. Screening and Scheduling
 Once someone expresses interest, check that they meet the eligibility criteria and set up their participation.
