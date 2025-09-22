@@ -36,7 +36,7 @@ As active participation in the research project is part of the coursework for th
 - Upload data analysis script
 - Voluntary: Upload final project report (anonymized, if you wish)
 
-Note that sharing your materials is part of the grading criteria. For further instructions also see the sub-section [Requirements and Expectations](../general_information/student-guide.md#requirements-and-expectations) of the section General Information About EXPRA.
+Note that sharing your materials is part of the grading criteria. For further instructions also see the sub-section [Requirements and Expectations](../general_information/student-guide.md#requirements-and-expectations) of the General Information About EXPRA guide.
 
 ## 3. Getting started: Create your LIFOS group project in 5 simple steps
 
