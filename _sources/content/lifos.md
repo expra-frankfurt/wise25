@@ -154,7 +154,7 @@ We have already mentioned above that GitLab - the platform on which LIFOS is bui
 Once you're done with editing and your commit message, click on *Commit changes* to save the document. Your change is now saved!
 
 ```{important}
-Don't rename the file name of the "README.md"! GitLab expects this filename in order to preview the text on the project landing page. Therefore please stick to only changing the contents of the file.
+Don't rename the file name of the "README.<area>md"! GitLab expects this filename in order to preview the text on the project landing page. Therefore please stick to only changing the contents of the file.
 ```
 
 ```{seealso}
