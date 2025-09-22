@@ -3,9 +3,26 @@
 **LIFOS** - that's short for **L**ocal **I**nfrastructure **f**or **O**pen **S**cience Practices - is a platform created at the Department of Psychology at Goethe University, which we will use in the course of our EXPRA.
 [Open Science](open-science) practices help you to make the research process transparent and reproducible - both for yourself and for others. 
 
-This article will give you a quick introduction to the idea behind LIFOS and show you step by step how to get started on your EXPRA project.
+This section will give you a quick introduction to the idea behind LIFOS and show you step by step how to get started on your EXPRA project. We will cover: 
 
-## What is LIFOS and why do we use it?
+1. [What is LIFOS and why do we use it?](#what-is-lifos-and-why-do-we-use-it)
+2. [What do we expect in the EXPRA?](#what-do-we-expect-in-the-expra)
+3. [Getting started: Create your LIFOS group project in 5 simple steps](#getting-started-create-your-lifos-group-project-in-5-simple-steps)
+4. [Further remarks and resources](#further-remarks-and-resources)
+5. [Helpful links](#helpful-links)
+
+2. Search Engines for Literature
+- Using Google Scholar, Web Of Science, PubMed
+- Tips and tricks for search engines
+3. Using Citation Patterns to Find Literature
+4. Tools for Literature Search/Review
+- Citation-Based Tools
+- AI-Based Tools
+- Meta-Analysis Tools
+- Mind Maps
+5. How to Read a Paper
+
+## 1. What is LIFOS and why do we use it?
 
 As a platform, LIFOS is there for you to implement open research practices (just like researchers do in their projects) in your own student research projects in a **hands-on** manner. You might have encountered it in previous courses, such as the *Statistics I* practicum, and may use it again for your Bachelor thesis.
 
@@ -17,7 +34,7 @@ In principle, LIFOS emulates the Open Science Framework ([OSF.io](https://OSF.io
 Take a look at **other students' projects and theses in LIFOS**. As more students use the platform to document their empirical work, it develops into a sustainable archive of studies from past semesters and years. This growing body of knowledge can inspire your own work and provide valuable insights into the research done at our department. 
 ```
 
-## What do we expect in the EXPRA? 
+## 2. What do we expect in the EXPRA? 
 
 As active participation in the research project is part of the coursework for this module, there are a few requirements for using LIFOS that apply in EXPRA. Specifically, we ask you to complete the following actions on LIFOS: 
 
@@ -33,7 +50,7 @@ As active participation in the research project is part of the coursework for th
 Note that sharing your materials is part of the grading criteria. For further instructions also see the Section [General Information About EXPRA](expra/general_information/student-guide.html#requirements-and-expectations) of this guide.
 
 
-## Getting started: Create your LIFOS group project in 5 simple steps
+## 3. Getting started: Create your LIFOS group project in 5 simple steps
 
 By the time you start working with LIFOS in the EXPRA, you should ideally have completed the following steps:
 
@@ -172,7 +189,7 @@ Later on, when you want to upload materials, anonymized data or your code into y
 A window will then appear in which you will be able to select the file. Finally, modify the *Commit message* if needed and upload the file by clicking on *Commit*. Et voilà!
 
 
-## Further remarks and resources
+## 4. Further remarks and resources
 
 ### General tips and examples
 
@@ -193,7 +210,7 @@ Projects that can serve as examples:
 - [Example Bachelor thesis](https://lifos.uni-frankfurt.de/psymia/abschlussarbeiten/erstellung-eines-fragebogens-zu-internet-gaming-disorder-mithilfe-von-automatischer-itemselektion)
 
 
-### Data protection & Privacy
+### Data protection & privacy
 
 It is crucial that before you upload your data to LIFOS, it needs to be **anonymized** first! Please take special note of the [data protection guidelines](https://lifos.uni-frankfurt.de/welcome-to-lifos/LIFOS/-/wikis/3.-Datenschutz-in-LIFOS), and refer to the [checklist](https://lifos.uni-frankfurt.de/welcome-to-lifos/LIFOS/-/wikis/3.-Datenschutz-in-LIFOS/3.4-Checkliste) (link to German version) below before uploading data to LIFOS:
 
@@ -209,7 +226,7 @@ If you completed your EXPRA study as an online survey using SoSciSurvey and the 
 We further recommend **removing age and gender** entirely from data sets before uploading if they are not part of the research question.
 ```
 
-## Helpful Links
+## 5. Helpful links
 
 - If you want to look up anything described herein in more detail or have further questions, have a look at our comprehensive [LIFOS Wiki](https://lifos.uni-frankfurt.de/welcome-to-lifos/LIFOS).
 
