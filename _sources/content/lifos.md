@@ -11,17 +11,6 @@ This section will give you a quick introduction to the idea behind LIFOS and sho
 4. [Further remarks and resources](#further-remarks-and-resources)
 5. [Helpful links](#helpful-links)
 
-2. Search Engines for Literature
-- Using Google Scholar, Web Of Science, PubMed
-- Tips and tricks for search engines
-3. Using Citation Patterns to Find Literature
-4. Tools for Literature Search/Review
-- Citation-Based Tools
-- AI-Based Tools
-- Meta-Analysis Tools
-- Mind Maps
-5. How to Read a Paper
-
 ## 1. What is LIFOS and why do we use it?
 
 As a platform, LIFOS is there for you to implement open research practices (just like researchers do in their projects) in your own student research projects in a **hands-on** manner. You might have encountered it in previous courses, such as the *Statistics I* practicum, and may use it again for your Bachelor thesis.
