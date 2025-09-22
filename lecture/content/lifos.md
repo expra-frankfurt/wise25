@@ -1,6 +1,6 @@
 # LIFOS
 
-**LIFOS** - that's short for **L**ocal **I**nfrastructure **f**or **O**pen **S**cience Practices - is a platform created at the Department of Psychology at Goethe University, which we will use in the course of our EXPRA.
+**LIFOS** - that's short for **L**ocal **I**nfrastructure **f**or **O**pen **S**cience Practices - is a platform created at the Department of Psychology at Goethe University, which we will use in the course of our EXPRA.  
 [Open Science](open-science) practices help you to make the research process transparent and reproducible - both for yourself and for others. 
 
 This section will give you a quick introduction to the idea behind LIFOS and show you step by step how to get started on your EXPRA project. We will cover: 
@@ -36,8 +36,7 @@ As active participation in the research project is part of the coursework for th
 - Upload data analysis script
 - Voluntary: Upload final project report (anonymized, if you wish)
 
-Note that sharing your materials is part of the grading criteria. For further instructions also see the section {doc}`../general_information/student-guide/#requirements-and-expectations` [General Information About EXPRA](../general_information/student-guide/#requirements-and-expectations) of this guide.
-
+Note that sharing your materials is part of the grading criteria. For further instructions also see the section {doc}`../general_information/student-guide:requirements-and-expectations` of this guide.
 
 ## 3. Getting started: Create your LIFOS group project in 5 simple steps
 
