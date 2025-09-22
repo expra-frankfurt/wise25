@@ -36,7 +36,7 @@ As active participation in the research project is part of the coursework for th
 - Upload data analysis script
 - Voluntary: Upload final project report (anonymized, if you wish)
 
-Note that sharing your materials is part of the grading criteria. For further instructions also see the section {doc}`../general_information/student-guide:requirements-and-expectations` of this guide.
+Note that sharing your materials is part of the grading criteria. For further instructions also see the section {doc}`../general_information/student-guide.md#requirements-and-expectations` of this guide.
 
 ## 3. Getting started: Create your LIFOS group project in 5 simple steps
 
@@ -142,13 +142,13 @@ Once you're done, click *Create project*. Congratulations! Now you can start wor
 
 #### Edit the README
 
-Among the first things you will see when you scroll down within your project is the description text below, which is actually the content of the `README.md` file. A **README file** is a simple markdown document (a file with a .md ending) which - as the name suggests - is there to be **read first** and provide some information on what is in the repository. Like a short tutorial, it explains all parts of the project and what to think about when using them.
+Among the first things you will see when you scroll down within your project is the description text below, which is actually the content of the `README.<area>md` file. A **README file** is a simple markdown document (a file with a .md ending) which - as the name suggests - is there to be **read first** and provide some information on what is in the repository. Like a short tutorial, it explains all parts of the project and what to think about when using them.
 
-Within this tutorial, you will also find a "ToDo" list. To fulfill the second task on the list, *"Change the title of this README to your group project title"*, you'll need to edit the "README.md" file.
+Within this tutorial, you will also find a "ToDo" list. To fulfill the second task on the list, *"Change the title of this README to your group project title"*, you'll need to edit the "README.<area>md" file.
 
 To edit, follow these steps: 
 
-1. Click on the file name *README.md*. 
+1. Click on the file name *README.<area>md*. 
 2. Click on the blue *Edit* button.
 3. In the dropdown menu, select *Edit single file* (this is the easiest option). 
 
