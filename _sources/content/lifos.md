@@ -43,7 +43,7 @@ Note that sharing your materials is part of the grading criteria. For further in
 
 By the time you start working with LIFOS in the EXPRA, you should ideally have completed the following steps:
 
-- learned about Open Science practices or read the respective section [link] of this guide,
+- learned about Open Science practices or read the [respective section](open-science) of this guide,
 - formed a student group in which you will conduct your EXPRA study,
 - started thinking about the pre-registration of your study project.
 
