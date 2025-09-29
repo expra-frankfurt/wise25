@@ -79,8 +79,8 @@ Inclusion means creating an environment where **equity and diversity can be real
 ````{card} 
 **Reflection Questions**:
 ^^^
-* In what connection do the topics of **diversity, equity, and inclusion** stand with my psychology studies and my future psychological work?
-* Do we, as psychology students, bear a special responsibility regarding diversity, equity, and inclusion?
+* In what connection do the topics of **diversity, equity, and inclusion** stand with your psychology studies and your future psychological work?
+* Do you, as psychology students, bear a special responsibility regarding diversity, equity, and inclusion?
 ````
 
 The intervention in and research of human experience are never without consequence; our actions inevitably influence the life realities of others. This responsibility begins within the university setting and runs through our entire professional life; it also influences our own perception, feeling, and actions. The decision to pursue a degree in psychology, regardless of whether the goal is treatment, research, or counseling, is therefore accompanied by an understanding of and, ultimately, a commitment to a **professional ethic**.
@@ -88,51 +88,51 @@ The intervention in and research of human experience are never without consequen
 All major psychology associations point to this professional code. For instance, the Ethical Guidelines of the DGP (German Psychological Society e.V.; LINK) begin with a description of the ethical core attitudes of our field, which constitute a duty to respect the values of **diversity, equity, and inclusion**. Exemplarily, they require the following:
 
 > Psychologists
-> (1) respect the **dignity of the human being** and respect this in their actions;
-> (2) recognize the right of the individual to live in **personal responsibility** and according to their own convictions;
+> (1) respect the **dignity of the human being** and respect this in their actions;  
+> (2) recognize the right of the individual to live in **personal responsibility** and according to their own convictions;  
 > 
-> *Original German text:*
-> PsychologInnen:
-> (1) achten die Würde des Menschen und respektieren diese in ihrem Handeln;
-> (2) erkennen das Recht des Einzelnen an, in eigener Verantwortung und nach eigenen Überzeugungen zu leben;
+> *Original German text:*  
+> PsychologInnen:  
+> (1) achten die Würde des Menschen und respektieren diese in ihrem Handeln;  
+> (2) erkennen das Recht des Einzelnen an, in eigener Verantwortung und nach eigenen Überzeugungen zu leben;  
 
 In consequence, that diversity in lived realities, such as gender identity, sexual orientation, religious orientation, etc., should be recognized, and the free expression of these should not be restricted but rather **valued and supported**. Respect for individual dignity implies the prohibition of **all discrimination**. This will become even clearer in the following sections:
 
-> We:
-> (5) promote opportunities for self-determined personal development and contribute to ensuring supportive framework conditions;
-> (6) promote understanding in social coexistence and mutual respect;
-> (7) act in the sense of the well-being and welfare of people;
-> (8) advocate for good natural, socio-economic, and cultural living conditions for individuals and communities;
-> (9) promote an honest coexistence and lead by good example in our actions;
+> We:  
+> (5) promote opportunities for self-determined personal development and contribute to ensuring supportive framework conditions;  
+> (6) promote understanding in social coexistence and mutual respect;  
+> (7) act in the sense of the well-being and welfare of people;  
+> (8) advocate for good natural, socio-economic, and cultural living conditions for individuals and communities;  
+> (9) promote an honest coexistence and lead by good example in our actions;  
 > 
-> *Original German text:*
-> Wir:
-> (5) fördern Möglichkeiten der selbstbestimmten Persönlichkeitsentwicklung und tragen zur Gewährleistung fördernder Rahmenbedingungen bei;
-> (6) fördern die Verständigung im sozialen Zusammenleben und den gegenseitigen Respekt;
-> (7) handeln im Sinne des Wohls und Wohlbefindens der Menschen;
-> (8) setzen uns ein für gute natürliche, sozioökonomische und kulturelle Lebensbedingungen von Einzelnen und Gemeinschaften;
-> (9) fördern ein redliches Miteinander und gehen in unserem Handeln mit gutem Beispiel voran;
+> *Original German text:*  
+> Wir:  
+> (5) fördern Möglichkeiten der selbstbestimmten Persönlichkeitsentwicklung und tragen zur Gewährleistung fördernder Rahmenbedingungen bei;  
+> (6) fördern die Verständigung im sozialen Zusammenleben und den gegenseitigen Respekt;  
+> (7) handeln im Sinne des Wohls und Wohlbefindens der Menschen;  
+> (8) setzen uns ein für gute natürliche, sozioökonomische und kulturelle Lebensbedingungen von Einzelnen und Gemeinschaften;  
+> (9) fördern ein redliches Miteinander und gehen in unserem Handeln mit gutem Beispiel voran;  
 
 Equally, we are called to the social responsibility of our field:
 
-> Psychologists
-> (11) effect change in individuals, institutions, and society through reflection and an open exchange about attitudes, orientations, and images of humanity;
+> Psychologists  
+> (11) effect change in individuals, institutions, and society through reflection and an open exchange about attitudes, orientations, and images of humanity;  
 > 
-> *Original German text:*
-> PsychologInnen
-> (11) bewirken durch Reflexion und durch einen offenen Austausch über Einstellungen, Orientierungen und Menschenbilder Veränderungen bei Einzelnen, Institutionen und in der Gesellschaft;
+> *Original German text:*  
+> PsychologInnen  
+> (11) bewirken durch Reflexion und durch einen offenen Austausch über Einstellungen, Orientierungen und Menschenbilder Veränderungen bei Einzelnen, Institutionen und in der Gesellschaft;  
 
 
 The declaration on social responsibility, such as the mission statement of the Goethe University (https://www.uni-frankfurt.de/leitbild) or the commitment to the Charta der Vielfalt (Diversity Charter - https://www.charta-der-vielfalt.de/) in 2011, emphasizes the necessity of scientific practice free from biased norms and societal statues. As psychologists, we are called upon not to close our eyes to unpleasant life realities and to **defend scientific findings** that aim at inclusion and equality.
 
-> Psychologists:
-> (16) orient themselves by the principle of **scientific integrity** in new professional approaches and methods, and systematically verify the effects of their actions;
-> (17) are vigilant against personal, social, institutional, economic, and political influences that could lead to an abuse or misapplication of psychological knowledge and skills;
+> Psychologists:  
+> (16) orient themselves by the principle of **scientific integrity** in new professional approaches and methods, and systematically verify the effects of their actions;  
+> (17) are vigilant against personal, social, institutional, economic, and political influences that could lead to an abuse or misapplication of psychological knowledge and skills;  
 > 
-> *Original German text:*
-> PsychologInnen:
-> (16) orientieren sich bei neuen beruflichen Ansätzen und Methoden am Grundsatz wissenschaftlicher Redlichkeit, überprüfen systematisch die Wirkungen ihres Handelns;
-> (17) sind wachsam gegenüber persönlichen, sozialen, institutionellen, wirtschaftlichen und politischen Einflüssen, die zu einem Missbrauch bzw. zu einer falschen Anwendung von psychologischen Kenntnissen und Fähigkeiten führen könnten;
+> *Original German text:*  
+> PsychologInnen:  
+> (16) orientieren sich bei neuen beruflichen Ansätzen und Methoden am Grundsatz wissenschaftlicher Redlichkeit, überprüfen systematisch die Wirkungen ihres Handelns;  
+> (17) sind wachsam gegenüber persönlichen, sozialen, institutionellen, wirtschaftlichen und politischen Einflüssen, die zu einem Missbrauch bzw. zu einer falschen Anwendung von psychologischen Kenntnissen und Fähigkeiten führen könnten;  
 
 However, current sociopolitical changes, e.g. in the United States, show that these values are not necessarily progressively anchored in general society, and that cultural instituitons are currently confronted with an attack on diversity issues (such as the cancellation and prohibition of DEI topics in research funding or the restriction of research freedom). We are confronted with limitations between scientific and professional ethics and societal forces that seek to restrict the free development and social equality of minorities.
 
@@ -150,21 +150,24 @@ Below you will find the link to a test with which you can test your attitude reg
 
 [Interactive test - Harvard](https://implicit.harvard.edu/implicit/user/demo.germany/demo.germany.germany/static/takeatest.html)
 
-### Reflections:
-
+````{card} 
+**Reflection Questions**:
+^^^
 * Were you surprised by your results? If so, why? If not, why?
 * Did the results prompt you to think, and if so, in what way?
-
-
+````
 
 ## 1. Homogeneity in Psychology?
 
 ### Educational and Socio-Economic Backgrounds of Psychology Students:
 
-### Reflections:
+````{card} 
+**Reflection Questions**:
+^^^
 * What do your parents do for a living?
 * How many of your friends are also students?
-
+````
+  
 Take a look around your lecture halls. Our cohorts are often characterized by a certain social and cultural **homogeneity**, which stands in contrast to the pluralistic and changing overall society. For example, 58% of the total student body come from **academic families** (at least one parent with a university degree) (Deutsches Studentenwerk [DSW], 2021).
 
 A survey (Booh, Huang & Westrich, 2019) shows that in the fields of Medicine & Psychology, the proportion of the total population coming from academic families is even **68.4%**.
