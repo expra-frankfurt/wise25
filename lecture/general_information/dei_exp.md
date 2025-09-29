@@ -139,7 +139,7 @@ However, current sociopolitical changes, e.g. in the United States, show that th
 We are part of this society; the research work and therapeutic effects that we produce should serve the common good as well as the well-being of every individual. **Diversity, Equity and Inclusion** are central needs of our coexistence and we must be aware of their necessity and current standing.
 
 
-## Self-Experiment - Do all of us hold prejudices?
+### Self-Experiment - Do all of us hold prejudices?
 
 As we are part of society, we are not free from structural prejudices. The first step, here, is to become aware of one's own prejudices and attitudes.
 
@@ -159,7 +159,7 @@ Below you will find the link to a test with which you can test your attitude reg
 
 ## 1. Homogeneity in Psychology?
 
-### Educational and Socio-Economic Backgrounds of Psychology Students:
+### Educational and Socio-Economic Backgrounds of Psychology Students
 
 ````{card} 
 **Reflection Questions**:
@@ -176,30 +176,26 @@ This also correlates with differences in the social environment. 76.9% of studen
 
 Accordingly, this suggests not only a reproduction of the academic background, and thus often a maintenance of status, among most students, but also a **strong homogenization of the social environment**. **Children of non-academics**, in contrast, may perceive the social space of the university as rather alien. This perception **may be related** to a lack of **cultural capital** and less social support from their environment, which can lead to additional burdens and manifest itself in different perception and interpretation patterns of academic life (Büchler, 2012).
 
-
----
-
-### Reflections:
+````{card} 
+**Reflection Questions**:
+^^^
 * What does this mean for you?
 * Which perspectives do you come into contact with daily?
 * Are you prepared to identify and acknowledge cultural differences in therapy or research?
 * To what extent are you in contact with people who represent different values than you? Why?
+````
 
----
-
-
-# What can I do right now?
+### What can I do right now?
 
 Right, now for the EXPRA, you can already take a simple step by using **bias-free language**, as discussed, for example, by the **APA Guidelines on Bias-Free Language** ([https://apastyle.apa.org/style-grammar-guidelines/bias-free-language](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language)).
 
 Furthermore, you can pay attention to **how you recruit your sample**, which **covariates** you collect to make diversity visible, and highlight the limited generalizability of results due to possible sample restrictions in the limitations and outlook section of your final paper.
 
- - SMART goals) -> 1: example for implementation
-
 To prepare yourself on how to deal with this situation, you can plan directly using **SMART** (**S**pecific, **M**easurable, **A**chievable, **R**elevant, **T**ime-bound; Doran, 1981) to turn a goal like "managing a difficult conversation" into a concrete, low-threshold action plan.
 SMART is intended to turn vague intentions into concrete action plans. In this context, it helps break down abstract commitments into measurable steps that can be practiced during an event like the family gathering, for example.
 
-```{dropdown} Using SMART
+:::{admonition} Using SMART
+:class: note dropdown
 You may be thinking: "I want to challenge my uncle's statement about political correctness, but I don't want to start a huge argument." This vague intention is emotionally taxing and rarely productive. Here's how you could break this down:
 
 * **Specific:** Clearly defined (e.g., I will ask one open question about their concern).
@@ -207,20 +203,19 @@ You may be thinking: "I want to challenge my uncle's statement about political c
 * **Achievable:** Realistic and feasible (e.g., Asking one question is manageable).
 * **Relevant:** Contributes to the overarching intention (e.g., Practicing active listening).
 * **Time-bound:** Provided with a clear timeframe (e.g., During the family gathering this Saturday).
-```
+:::
 
-### 1. Generalizability of Psychological Research: The Problem of "WEIRDness"
+### Generalizability of Psychological Research: The Problem of "WEIRDness"
 
 Imagine a European research team is conducting a study on the efficacy of a cognitive-behavioral measure for the treatment of depression. They collect age, gender (male/female), educational background, marital status (single, married, divorced, widowed), and symptom severity at the start of treatment. Excluded are minors, individuals over 65, acutely suicidal individuals, individuals with an IQ < 75, and individuals with comorbidities. Participants are recruited through advertisements posted at the local university and its affiliated teaching outpatient clinic. The intervention is administered in person twice weekly during morning hours at the teaching outpatient clinic, which is located on the 4th floor. Access to the clinic entrance involves several steps, and no elevator is available.
 
----
-### Reflections:
+````{card} 
+**Reflection Questions**:
+^^^
+- To whom are the results of this study generalizable?
 
-- To whom are the results of this study generalizable?**
-
-- Who is likely excluded/not reached due to the framework conditions?**
-
----
+- Who is likely excluded/not reached due to the framework conditions?
+````
 
 Scientific psychology faces the challenge that a large portion of its findings are based on samples described as **WEIRD** (**W**estern, **E**ducated, **I**ndustrialized, **R**ich, **D**emocratic), limiting generalizability. These populations constitute only about 11% of the global population, yet account for 92% of studies from European and English-speaking nations (Newson et al., 2020). The age range of our convenience samples is often not even highlighted, yet it represents an additional factor limiting generalizability, particularly in university research (e.g., heavy reliance on undergraduate samples; 36% of samples in Psychological Science involved undergraduates (Martingano, 2023)). Even further, Western bias permeates scientific findings regardless of where the research is conducted; studies conducted in non-Western settings with non-Western participants are still dependent on an imbalance in power, which compromises scientific integrity and limits comprehensive understanding (Singh et al. 2022).
 
@@ -229,33 +224,28 @@ Scientific psychology faces the challenge that a large portion of its findings a
 
 **Methodological Reorientation:** The **demand for a shift away from WEIRDness toward WILD (Worldwide, In Situ, Local, and Diverse)** research approaches emphasizes the necessity of culturally and contextually sensitive research practices. Only in this way can psychological theories claim generalizability or be adapted for specific populations (Newson et al., 2020).
 
-```{dropdown} Additional Research and Practical Resources
+:::{admonition} Additional Research and Practical Resources
+:class: seealso dropdown 
 
 * **Journal for Global Environmental Psychology (GEP)**
     * Abstract: Justify choice of sample; provide an extensive sample description; discuss the generalizability and implications of their findings and possible effects of culture and context; reward efforts to increase diversity (e.g., collection of non-convenient samples, authors from underrepresented populations) with higher chances of publication or their **Diversity Badge**.
     * URL: https://gep.psychopen.eu/index.php/gep/diversity
 
----
-
 * **International Research Partnerships: TRUST Code**
     * Description: Provides a global framework for ethical and equitable collaboration in research, ensuring mutual benefit and respect among partners from diverse global contexts.
     * URL: https://www.globalcodeofconduct.org/trust-code/
-
----
 
 * **Consider Cultural and Psychological Distance**
     * Muthukrishna et al. (2020) - Beyond WEIRD Psychology: Measuring and Mapping Scales of Cultural and Psychological Distance.
     * Description: Demonstrates how to quantitatively measure and map scales of cultural and psychological distance to help researchers recognize the limitations of WEIRD samples and select more appropriate populations for studies.
     * URL: http://www.culturaldistance.com/
-
----
-
+      
 * **University of Minnesota: IDEA in Research Resource List**
     * Incorporating IDEA (Inclusion, Diversity, Equity, and Accessibility) into Research.
     * Description: A resource list that provides guidance and a research checklist to help investigators incorporate IDEA principles into all phases of psychological research, from design to dissemination.
     * URL: https://intranet.psych.umn.edu/research/inclusion-diversity-equity-and-accessibility-idea-resources
 
-```
+:::
 
 # 2. Culturally Sensitive Diagnostics and Treatment in Practice
 
@@ -267,7 +257,8 @@ Germany's changing society, marked by increased migration and greater visibility
 
 **Culturally Sensitive Diagnostics:** Lacking knowledge of culture-specific characteristics and acculturation processes introduces the risk of misdiagnosis and ineffective treatment approaches. Psychologists must be capable of distinguishing culture-specific symptoms and personality patterns from actual pathologies.
 
-```{dropdown} Ressourcen/Instrumente zur Kultursensiblen Diagnostik/Therapie – Resources and Tools for Culturally Sensitive Practice
+:::{admonition} Resources and Tools for Culturally Sensitive Practice
+:class: seealso dropdown 
 
 * **Leitlinie für Kultursensible Psychotherapie / Guidelines for Culturally Sensitive Psychotherapy**
     URL: http://kultursensible-psychotherapie.de/files/broschuere-leitlinien-kspt-print.pdf
@@ -292,7 +283,7 @@ Germany's changing society, marked by increased migration and greater visibility
 * **Psychotherapie und Gender. Konzepte. Forschung. Praxis. / Psychotherapy and Gender: Concepts, Research, Practice.** (Buch; frei verfügbar aus dem Uni-Netz / Book; freely available via University Network)
     URL: https://link.springer.com/book/10.1007/978-3-658-20471-6
 
-```
+:::
 
 ### DEI Organizations and Groups:
 
@@ -336,15 +327,20 @@ These organizations emphasize how culture, ethnicity, and the global environment
     * URL: https://www.iaccp.org/
 
 
-## Concluding Reflections:
+## Concluding reflections
 
+````{card} 
+**Reflection Questions**:
+^^^
 * What was new for you?
 * How would/can you apply this?
 * What was the most interesting thought that came to you while reading this article?
 * What commitment do you take away with you?
+````
 
+------
 
-## Bibliography
+**Bibliography**
 
 Booh, A. T., Huang, D., & Westrich, D. C. (2019). *Studienfachwahl im Kontext des sozialen Umfelds: Eine empirische Studie zur Rolle sozialer Beziehungen bei der Studienfachwahl*. [Self-published project paper]. Johannes Gutenberg-Universität Mainz.
 
@@ -359,3 +355,9 @@ Newson, M., Buhrmester, M., Xygalatas, D., & Whitehouse, H. (2020). Go WILD, Not
 Schäfer, I., Gast, U., Hofmann, A., Knaevelsrud, C., Lampe, A., Liebermann, P., Lotzin, A., Maercker, A., Rosner, R., & Wöller, W. (2019). *S3-Leitlinie Posttraumatische Belastungsstörung*. Springer Verlag.
 
 Singh, S., Sarda-Joshi, N., Thalmayer, A. D., Reichel, D., Sharma, K., A. A., P. P., et al. (2022). Navigating equity and justice in international collaborations. *Nature Human Behaviour*, *6*, 1689–1693. https://doi.org/10.1038/s44159-022-00077-5
+
+
+----
+
+**Acknowledgments**  
+This section was contributed by [Michael Ernst](https://fiebachlab.org/team/ernst) and Jannika Hollmann. 
