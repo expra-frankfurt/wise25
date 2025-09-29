@@ -1,22 +1,22 @@
 
 # Diversity, Equity, and Inclusion (DEI)
 
-Welcome to this lesson on **Diversity, Equity, and Inclusion (DEI)**.
+Welcome to this section on **Diversity, Equity, and Inclusion (DEI)**.
 
-Ethical practice and rigorous research within psychology requires engaging with human diversity. This course addresses the necessity of integrating DEI principles into psychological science and practice.
+Ethical practice and rigorous research within psychology requires engaging with human diversity. This section addresses the necessity of integrating DEI principles into psychological science and practice.
 
 We will provide information on foundational concepts and reflection points. **For each reflection question provided, please pause, take a moment, and answer it for yourself.** Personal reflection is the first step toward professional competence in this area.
 
 
-## Diversity'
+## Diversity
 
 Ask yourself:
 
-- What does Diversity, Equity, and Inclusion mean to you?
+- What does Diversity, Equity, and Inclusion mean to me?
 
-- What do you already know about the topic?
+- What do I already know about the topic?
 
--  What is my definition of diversity?
+- What is my definition of diversity?
 
 - Which voices, perspectives, or identities are visible in my work space or private life—which are not?
 
@@ -24,7 +24,8 @@ Ask yourself:
 
 - Which implicit biases might influence how I perceive diversity?
 
-```{dropdown} Characteristics of Diversity
+:::{admonition} Characteristics of Diversity
+:class: note dropdown
 The presence of different (diverse) characteristics like
 * age
 * gender
@@ -35,25 +36,26 @@ The presence of different (diverse) characteristics like
 * disability
 * sexual orientation
 * religion
-* Etc.
-
-```
+* etc.
+:::
 
 
 ## Equity
 
 Ask yourself:
 
-- Do I have access to the same academic resources, mentorship, and networking opportunities as my peers—and is that true for everyone in my cohort?
+- Do I have access to the same academic resources, mentorship, and networking opportunities as my peers — and is that true for everyone in my cohort?
 
 - Where do I notice systemic barriers in academia or training that might disadvantage certain groups of students or researchers?
 
 - Do I sometimes confuse “treating everyone the same” with “ensuring fairness”? How might this distinction play out in university settings or future clinical practice?
 
-```{dropdown} Definition of Equity
+:::{admonition} Definition of Equity
+:class: note dropdown
+
 Equity refers to the German term **"Chancengleichheit"** (equal opportunity); meaning that in a diverse society, every member should have the same chances independently of their characteristics.
 
-```
+:::
 
 ---
 
@@ -65,20 +67,23 @@ Ask yourself:
 
 - How do I respond when someone is subtly or openly excluded in academic or professional settings?
 
-- Which everyday behaviors—in language, group discussions, or decision-making—can foster greater inclusion in my academic community?
+- Which everyday behaviors — in language, group discussions, or decision-making — can foster greater inclusion in my academic community?
 
-```{dropdown} Definition of Inclusion
+:::{admonition} Definition of Inclusion
+:class: note dropdown
 Inclusion means creating an environment where **equity and diversity can be realized**. It ensures diverse individuals feel **supported and can fully participate**.
-
-```
+:::
 
 ## Professional Ethic: The Responsibility of Psychology
 
-### Reflection Questions:
-* In what connection do the topics of **diversity, equity, and inclusion** stand with your psychology studies and your future psychological work?
-* Do we, as psychology students, bear a special responsibility regarding diversity, equity, and inclusion?
 
----
+````{card} 
+**Reflection Questions**:
+^^^
+* In what connection do the topics of **diversity, equity, and inclusion** stand with my psychology studies and my future psychological work?
+* Do we, as psychology students, bear a special responsibility regarding diversity, equity, and inclusion?
+````
+
 
 The intervention in and research of human experience are never without consequence; our actions inevitably influence the life realities of others. This responsibility begins within the university setting and runs through our entire professional life; it also influences our own perception, feeling, and actions. The decision to pursue a degree in psychology, regardless of whether the goal is treatment, research, or counseling, is therefore accompanied by an understanding of and, ultimately, a commitment to a **professional ethic**.
 
