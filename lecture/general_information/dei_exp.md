@@ -247,7 +247,7 @@ Scientific psychology faces the challenge that a large portion of its findings a
 
 :::
 
-# 2. Culturally Sensitive Diagnostics and Treatment in Practice
+## 2. Culturally Sensitive Diagnostics and Treatment in Practice
 
 Germany's changing society, marked by increased migration and greater visibility of diverse identities, demands special attention in clinical practice. Psychologists and psychotherapists cannot afford to be blind to the specific life realities of diverse individuals.
 
@@ -285,11 +285,11 @@ Germany's changing society, marked by increased migration and greater visibility
 
 :::
 
-### DEI Organizations and Groups:
+## DEI Organizations and Groups
 
 Psychology has not always been, but should be a global field. These organizations help ensure the science and practice of psychology is culturally informed and addresses the unique experiences of diverse populations worldwide. They further help with the professional development of their members and push towards more representation on our global stages.
 
-#### Women and Gender in Psychology: Advocacy & Leadership
+### Women and Gender in Psychology: Advocacy & Leadership
 
 * **APA Leadership Institute for Women in Psychology (LIWP)**
     * Description: A training program focused on developing leadership skills for women psychologists to increase their influence in professional and institutional settings.
@@ -301,7 +301,7 @@ Psychology has not always been, but should be a global field. These organization
     * Description: A grassroots feminist organization that offers conferences and community focused on using psychology to challenge social injustice, particularly for marginalized women.
     * URL: Association for Women in Psychology (AWP)
 
-#### Culture-centered Psychology:
+### Culture-centered Psychology:
 
 The following organizations are built upon specific cultural and regional identities to alleviate the dominance of Eurocentric psychological theory. Their mission is to promote global justice and advance professional practice rooted in the cultural values and historical experiences of their respective members.
 
@@ -315,7 +315,7 @@ The following organizations are built upon specific cultural and regional identi
     * Description: Aims to advance the science and profession of psychology across the MENA region, fostering collaboration and culturally relevant research among psychologists in the Middle East and North Africa.
     * URL: https://www.mepa.me/
 
-#### Intercultural Psychology: Global Contexts & Identity
+### Intercultural Psychology: Global Contexts & Identity
 
 These organizations emphasize how culture, ethnicity, and the global environment shape psychological well-being, theory, and professional practice across different nations and communities.
 
