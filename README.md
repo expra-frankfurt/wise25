@@ -1,6 +1,6 @@
 This is the course website for the EXPRA at Goethe University Frankfurt.   
 
-Link to website: https://luciebinder.github.io/expra/
+Link to website: https://expra-frankfurt.github.io/wise25
 
 The “EXPRA” (German: Empirisch-experimentelles Praktikum) is a practical, hands-on seminar designed to teach you the theoretical and especially the practical aspects of psychological research.
 
