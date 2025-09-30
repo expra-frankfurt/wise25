@@ -73,7 +73,7 @@ If you click on "Groups" in the left sidebar, you will see all groups of which y
 
 If this is your first time on LIFOS, no groups will be displayed here yet. 
 
-```{caution} 
+```{note} 
 If your lecturer previously invited you to the correct EXPRA group, you can skip steps 2 and 3, and proceed with the section [Create your EXPRA Project](#Create-your-EXPRA-project). Otherwise, keep reading below.
 ```
 
