@@ -176,7 +176,7 @@ Design your poster to encourage viewers to engage with you (Burkhardt et al., 20
 -	If using a program like PowerPoint, immediately set the correct poster size when you start the file. 
 -	Process and optimize images before inserting them into the poster (e.g., using image editing software).
 
-```{admonition}
+```{info}
 	**Tools & technical setup:**
 - Tools / Software: PowerPoint, Canva, Google Slides, Inkscape, MS Publisher etc.
 - Format: here DIN A0 (84,1 x 118,9 cm), typically in portrait format  
