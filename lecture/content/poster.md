@@ -176,8 +176,8 @@ Design your poster to encourage viewers to engage with you (Burkhardt et al., 20
 -	If using a program like PowerPoint, immediately set the correct poster size when you start the file. 
 -	Process and optimize images before inserting them into the poster (e.g., using image editing software).
 
-```{note}
-	**Tools & technical setup:**
+:::{admonition} Tools & technical setup
+:class: note
 - Tools / Software: PowerPoint, Canva, Google Slides, Inkscape, MS Publisher etc.
 - Format: here DIN A0 (84,1 x 118,9 cm), typically in portrait format  
 _If using PowerPoint, immediately set the correct poster size when you start the file (Entwurf -> Foliengröße -> benutzerdefiniert)._ 
@@ -185,7 +185,7 @@ _If using PowerPoint, immediately set the correct poster size when you start the
 - QR Codes: possible to provide a link to download the poster as a pdf & to link further materials that can be found e.g. on LIFOS (https://me-qr.com/de/ or https://www.the-qrcode-generator.com/ )
 - Alignment: align figures, text, sections, etc.  
 _If using PowerPoint set gridlines to be visible (Ansicht -> Anzeigen -> Gitternetzlinien) & look for the red and blue horizontal / vertical lines linking objects during drag & drop._
-```
+:::
 
 **4. Finalize the poster**
 - Carefully review your poster to ensure that all aspects have been addressed.
