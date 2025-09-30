@@ -193,7 +193,7 @@ of a few clicks. Ask your instructor which software they use to get help.
 
 ### How do I share study materials via LIFOS?
 As an exercise in open science practices, you are required to share your study materials via
-[LIFOS](https://lifos.uni-frankfurt.de/users/sign_in) (local infrastructure for open science for psychology students at Goethe University). For more info on LIFOS see [here](https://pandar.netlify.app/lifos/main/). Note that sharing materials is part of the grading criteria. The deadline for uploading materials is the same as for submitting the EXPRA reports.
+[LIFOS](https://lifos.uni-frankfurt.de/users/sign_in) (local infrastructure for open science for psychology students at Goethe University). For more info on LIFOS see [here](https://lifos.uni-frankfurt.de/welcome-to-lifos/LIFOS). Note that sharing materials is part of the grading criteria. The deadline for uploading materials is the same as for submitting the EXPRA reports.
 
 Specifically, you should upload:
 
