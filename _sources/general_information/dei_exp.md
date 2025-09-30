@@ -260,27 +260,27 @@ Germany's changing society, marked by increased migration and greater visibility
 :::{admonition} Resources and Tools for Culturally Sensitive Practice
 :class: seealso dropdown 
 
-* **Leitlinie für Kultursensible Psychotherapie / Guidelines for Culturally Sensitive Psychotherapy**
+* **Leitlinie für Kultursensible Psychotherapie / Guidelines for Culturally Sensitive Psychotherapy**  
     URL: http://kultursensible-psychotherapie.de/files/broschuere-leitlinien-kspt-print.pdf
 
-* **Mental Health Resources for Clinicians and Researchers**
+* **Mental Health Resources for Clinicians and Researchers**  
     URL: https://www.traumameasuresglobal.com/
 
-* **Kultursensible Diagnostik / Culturally Sensitive Diagnostics**
+* **Kultursensible Diagnostik / Culturally Sensitive Diagnostics**  
     (kostenfreie Registrierung zum Zugriff / Free registration required for access)
     URL: https://www.q-cultural.de/kultursensible-diagnostik/
 
-* **Z.B. Inventories zu Diskriminierung und Akkulturationsprozessen / E.g., Inventories for Discrimination and Acculturation Processes**
+* **Z.B. Inventories zu Diskriminierung und Akkulturationsprozessen / E.g., Inventories for Discrimination and Acculturation Processes**  
     URL: https://www.q-cultural.de/testverfahren/module/modul.php?id=12
 
-* **Gesellschaftliches Engagement / Social Engagement**
-    Psychosoziale Beratungsstelle für Geflüchtete, Ausschreibungen für PsychologInnen mit ukrainisch o. russisch, sowie arabischen Sprachkenntnissen
+* **Gesellschaftliches Engagement / Social Engagement**  
+    Psychosoziale Beratungsstelle für Geflüchtete, Ausschreibungen für PsychologInnen mit ukrainisch o. russisch, sowie arabischen Sprachkenntnissen  
     URL: https://www.psychologie.uni-frankfurt.de/62374449/95_psychosoz_beratung_fluechtlinge
 
-* **Fragebogen zur Erhebung Interkultureller Kompetenz in der Gesundheitsversorgung (CCCHP-27) / Questionnaire for Measuring Intercultural Competence in Healthcare (CCCHP-27)**
+* **Fragebogen zur Erhebung Interkultureller Kompetenz in der Gesundheitsversorgung (CCCHP-27) / Questionnaire for Measuring Intercultural Competence in Healthcare (CCCHP-27)**  
     URL: https://www.researchgate.net/publication/306612875_S1_File
 
-* **Psychotherapie und Gender. Konzepte. Forschung. Praxis. / Psychotherapy and Gender: Concepts, Research, Practice.** (Buch; frei verfügbar aus dem Uni-Netz / Book; freely available via University Network)
+* **Psychotherapie und Gender. Konzepte. Forschung. Praxis. / Psychotherapy and Gender: Concepts, Research, Practice.** (Buch; frei verfügbar aus dem Uni-Netz / Book; freely available via University Network)  
     URL: https://link.springer.com/book/10.1007/978-3-658-20471-6
 
 :::
