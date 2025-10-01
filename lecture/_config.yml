@@ -33,6 +33,7 @@ html:
     hypothesis: true
   analytics: 
     google_analytics_id       : ""  # A GA id that can be used to track book views.
+  home_page_in_navbar: false
 
 #######################################################################################
 # Launch button settings
