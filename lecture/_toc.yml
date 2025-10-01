@@ -1,24 +1,32 @@
 root: general_information/index
 format: jb-book
-chapters:
-- file: general_information/overview
-- file: general_information/student-guide
-  sections:
-  - file: general_information/grading-criteria
-- file: content/research-question
-- file: content/literature
-- file: content/ethics
-- file: content/open-science
-  sections:
-  - file: content/preregistration
-  - file: content/lifos
-- file: content/conducting
-- file: content/analysis
-- file: content/communication
-  sections:
-  - file: content/poster
-  - file: content/visualization
-  - file: content/presentation
-- file: content/writing
-- file: general_information/CoC
-- file: general_information/dei_exp
+parts:
+- caption: Getting Started
+  chapters:
+  - file: general_information/overview
+  - file: general_information/student-guide
+    sections:
+    - file: general_information/grading-criteria
+parts:
+- caption: The Research Process
+  chapters:
+  - file: content/research-question
+  - file: content/literature
+  - file: content/ethics
+  - file: content/open-science
+    sections:
+    - file: content/preregistration
+    - file: content/lifos
+  - file: content/conducting
+  - file: content/analysis
+  - file: content/communication
+    sections:
+    - file: content/poster
+    - file: content/visualization
+    - file: content/presentation
+  - file: content/writing
+parts:
+- caption: Meta Perspectives
+  chapters:  
+  - file: general_information/CoC
+  - file: general_information/dei_exp
