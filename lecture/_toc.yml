@@ -23,7 +23,7 @@ parts:
     - file: content/visualization
     - file: content/presentation
   - file: content/writing
-- caption: Meta Perspectives
+- caption: Guiding Principles and Responsibilities
   chapters:  
   - file: general_information/CoC
   - file: general_information/dei_exp
