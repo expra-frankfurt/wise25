@@ -22,7 +22,7 @@ On this website, you will find information on the following topics:
 * [Ethical Standards and Data Privacy](../content/ethics)  
    What to consider ethically during the research process?
 * [Open Science Principles and Practices](../content/open-science)  
-  What is Open Science, why should its principles be followed, and how can open practices be implemented in the research process?
+  What is Open Science, why should its principles be followed, and how can open practices be implemented in the research process?   
   Including: What is a preregistration and how to write one? What is LIFOS and how to use it in the EXPRA?
 * [Conducting Experimental Sessions](../content/conducting)  
    What to consider when conducting experiments (debriefing, instructions, SONA)?
@@ -34,7 +34,7 @@ On this website, you will find information on the following topics:
 * [Research Communication and Presentation](../content/writing)  
   How to write your scientific report?
 
-Additionally: 
+And some overarching considerations: 
 * [Code of Conduct](/CoC)  
    Necessities for creating an open, fair, safe and inclusive learning experience.
 * [Diversity, Equity, Inclusion](/dei_exp)  
