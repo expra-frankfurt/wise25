@@ -3,7 +3,6 @@ format: jb-book
 parts:
 - caption: Getting Started
   chapters:
-  - file: general_information/overview
   - file: general_information/student-guide
     sections:
     - file: general_information/grading-criteria
