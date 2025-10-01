@@ -6,7 +6,6 @@ parts:
   - file: general_information/student-guide
     sections:
     - file: general_information/grading-criteria
-parts:
 - caption: The Research Process
   chapters:
   - file: content/research-question
@@ -24,7 +23,6 @@ parts:
     - file: content/visualization
     - file: content/presentation
   - file: content/writing
-parts:
 - caption: Meta Perspectives
   chapters:  
   - file: general_information/CoC
