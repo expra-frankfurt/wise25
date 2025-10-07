@@ -75,7 +75,7 @@ You will submit your preregistrations on [LIFOS](lifos). On LIFOS, you will fill
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTLmSMLjYWyYO5semx03zx0MEBPee5In9fCZ7QrZsqieWWxcdCNrbbQn9qM91bchPLcQNRcQqBotyJp/pubembed?start=false&loop=false" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-## Devaiting from Preregistations
+## Deviating from Preregistations
 
 Sometimes, we might preregister something, and then later change our minds. There is nothing inherently wrong with deviating from a preregistration!
 
