@@ -10,6 +10,6 @@ The APA Style guidelines offer useful advice on how to format your figures corre
 
 ---
 
-**Acknowledgments**
+**Acknowledgments**   
 This overview was contributed by [Lucie Binder](https://www.psychologie.uni-frankfurt.de/82663505/Lucie_Binder__M_Sc?).
 
