@@ -29,7 +29,7 @@ Participants are individuals. Participants give you their valuable time.
 
 Treat them with care and respect!
 
-## Treatment of participants
+## 2. Treatment of participants
 ✓ **Voluntary** participation, no pressure whatsoever!
 -	Noone feels obliged to participate. There is **no monitoring** of those who refuse to participate. 
 -	Do not investigate children, patients, elderly, or other groups with **enhanced vulnerabilities** without consent of the ethics committee. 
@@ -53,7 +53,7 @@ Treat them with care and respect!
 
 ✓	Inform about background and study results **after participation** (this is often forgotten, which is not good... Do not treat your participants like a data delivery machine! They are individuals whose time and effort is valuable.)
 
-## Data protection
+## 3. Data protection
 ✓ Differentiate anonymous from pseudonymous from person-related acquisition and storage of data
 (**Anonymisiert** versus **pseudonymisiert** versus **personenbezogene** Datenerhebung und -speicherung).
 -	If anonymous and without notable risk, no ethical approval is necessary.
