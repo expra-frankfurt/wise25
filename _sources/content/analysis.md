@@ -9,3 +9,8 @@ The tutorial is designed to:
 - Enance your confidence in using R for your own data
 
 You can access the tutorial on the pandaR website [here](https://pandar.netlify.app/lehre/independence/independence-r/).
+
+---
+
+**Acknowledgments**   
+This overview was contributed by [Lucie Binder](https://www.psychologie.uni-frankfurt.de/82663505/Lucie_Binder__M_Sc?).
