@@ -49,7 +49,7 @@ By the time you start working with LIFOS in the EXPRA, you should ideally have c
 When you're ready, proceed with the next steps!
 
 
-### 1. Login
+### Step 1: Login
 
 To access the platform, simply go to [https://lifos.uni-frankfurt.de](https://lifos.uni-frankfurt.de) and use your university login credentials (HRZ username and password) to access the platform. If you log in for the first time, your LIFOS account is automatically created.
 
@@ -63,7 +63,7 @@ LIFOS is based on the GitLab platform, so it is actually an instance of GitLab. 
 
 
 
-### 2. Find your group
+### Step 2: Find your group
 
 First, let's take a look at groups. Groups are the central organizational units in LIFOS in which the projects are structured. On the 1st level you will always find the department, within which you will then find subgroups for the respective course types or modules.
 
@@ -87,7 +87,7 @@ Now, find your EXPRA group for the current semester (*WiSe 2025-26*) by followin
 
 This is the group that will be home to your EXPRA projects.
 
-### 3. Request access
+### Step 3: Request access
 
 As you have learned by now, anyone can view things on LIFOS, but not everybody can edit everything. In order to modify contents within the group, you need to be a member of it.
 
@@ -97,7 +97,7 @@ Therefore, navigate to the upper right corner of the group, click on "..." and t
 
 Then your lecturer has to grant you access to the group. This may take a few minutes if you do it in class. Once this is done, just refresh the window. Now you possess the necessary permissions to proceed with the next step: creating the project!
 
-### 4. Create your EXPRA project
+### Step 4: Create your EXPRA project
 
 The project is a repository where you will upload and document your preregistration, materials, data, analysis code, and possibly your final reports. 
 
@@ -138,7 +138,7 @@ Additional tips:
 Once you're done, click *Create project*. Congratulations! Now you can start working within your newly-created project. 
 
 
-### 5. Start working on the project
+### Step 5: Start working on the project
 
 #### Edit the README
 
