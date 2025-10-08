@@ -137,9 +137,8 @@ figures, etc.)!
 - be ca. 15 pages long (excluding table of contents, appendix, but including references),
 - be formatted in Times New Roman, size 12, double-spaced,
 - follow [APA Style](https://apastyle.apa.org/) (publication manual, 7th edition) if not stated otherwise,
-- include a link to the preregistration (e.g., on [aspredicted](https://aspredicted.org/)),
-- include an R script containing code of all analyses you carried out (this can be
-submitted as a separate file along with the EXPRA report), and
+- include a link to the preregistration (e.g., in [LIFOS](https://expra-frankfurt.github.io/wise25/content/preregistration.html#how-to-preregister)),
+- include an R script containing code of all analyses you carried out (which should be uploaded on LIFOS or submitted as a separate file along with the EXPRA report), and
 - a signed (!) declaration of originality on the last page of the report (see below).
 
 To make grading of the EXPRA reports transparent, you will find the grading criteria [here](grading-criteria).
