@@ -198,9 +198,9 @@ _If using PowerPoint set gridlines to be visible (Ansicht -> Anzeigen -> Gittern
 - Always perform a test print, even on a smaller scale (e.g., A4 paper), as printed colours often differ from those displayed on a scree
 
 ## 5. Excursus: Rethinking poster designs with #BetterPoster 
-<small>Based on Mike Morrison, PhD, 2019; Morrison, PhD, 2020. </small>
+<small>Based on Morrison, 2019, 2020. </small>
 
-> A poster that successfully communicates one thing is better than a poster that fails to communicate a thousand things. (Mike Morrison, PhD, 2020)
+> A poster that successfully communicates one thing is better than a poster that fails to communicate a thousand things. (Morrison, 2020)
 
 - #betterposter is a new approach to academic poster design by Mike Morrison
 - aim based on user experience design: posters should tell one clear story immediately 
@@ -223,7 +223,7 @@ _For more information watch [https://www.youtube.com/watch?v=SYk29tnxASs](https:
 - “Need to know” instead of “Nice to know”. The less text the better (ISEK, 2014).
 - Do not try to make up for a lack of space with a smaller font (Burkhardt et al., 2017).
 - Always ask yourself whether it is more effective to show your results in a figure, table or text.
-- 2 golden rules for your design (Morrison, PhD, 2020):
+- 2 golden rules for your design (Morrison, 2020):
 	1. Don’t put things on your poster that people will ignore. 
 	2. People will ignore most things.
 ```
@@ -265,9 +265,9 @@ Burkhardt, C., Meyer-Heydecke, N., & Stahlberg, N. (2017). Das wissenschaftliche
 
 ISEK (2014). Zum Poster in Wissenschaft und Lehre. Institut Sozialanthropologie und Empirische Kulturwissenschaft – Universität Zürich. https://www.isek.uzh.ch/dam/jcr:00000000-3970-ccc5-ffff-ffffdfb6e2d2/Poster2014.pdf   
 
-Mike Morrison, PhD. (2019, 25. März). How to create a better research poster in less time (#betterposter Generation 1) [Video]. YouTube. https://www.youtube.com/watch?v=1RwJbhkCA58  
+Mike Morrison (2019, 25. März). How to create a better research poster in less time (#betterposter Generation 1) [Video]. YouTube. https://www.youtube.com/watch?v=1RwJbhkCA58  
 
-Mike Morrison, PhD. (2020, 13. Juli). How to create a better research poster in less time (#betterposter Generation 2) [Video]. YouTube. https://www.youtube.com/watch?v=SYk29tnxASs   
+Mike Morrison (2020, 13. Juli). How to create a better research poster in less time (#betterposter Generation 2) [Video]. YouTube. https://www.youtube.com/watch?v=SYk29tnxASs   
 
 Morrison, M. (2019). betterposter-template-landscape [PowerPoint slides]. Open Science Framework. https://osf.io/6ua4k    
 
