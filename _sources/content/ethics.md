@@ -15,7 +15,14 @@ p + ol {
 
 # Ethical Standards and Data Privacy
 
-## Why is ethics important? 
+In this section on ethical standards and data privacy in psychological research, we will cover:
+1. [Why is ethics important?](#why-is-ethics-important)
+2. [Treatment of participants](#treatment-of-participants)
+3. [Data protection](#data-protection)
+4. [Examples](#examples)
+5. [How can I check my ethics?](#how-can-i-check-my-ethics)
+
+## 1. Why is ethics important? 
 It is your study. It is your responsibility. 
 
 Participants are individuals. Participants give you their valuable time. 
@@ -57,7 +64,7 @@ Treat them with care and respect!
 
 ✓	Offer **deletion of individual data** whenever possible.
 
-## Examples 
+## 4. Examples 
 Here are entirely fictional, but still realistic, examples of some bad things that could happen when you take ethics lightly. Read below each example how an official ethical statement or, in fact, any discussion with third parties (i.e., independent panel of reviewers) can help. 
 
 > Example 1:
@@ -100,7 +107,7 @@ Here are entirely fictional, but still realistic, examples of some bad things th
 
 → This example illustrates the importance of data safety. Although it may feel like a rather tedious task, it is still very important. If you are not careful, you could face legal action. Using the checklist "Kurzantrag" of the local ethical committee (which you can find [here](https://www.uni-frankfurt.de/141179107/Die_Gremien_des_Fachbereich_05)) to check all relevant measures and have them confirmed by a committee can help motivate you to be conscientious, especially if person-related data are acquired and stored. Note also possible data protection breaches and violation of copy rights when commercial AI tools or panel providers are used.  
 
-## How can I check my ethics?
+## 5. How can I check my ethics?
 https://www.uni-frankfurt.de/141179107/Die_Gremien_des_Fachbereich_05
 -	Hinweise für Antragsteller
 -	Checkliste Kurzantrag (Suggestion: Fill out and Peer-review the checklist between Expra-groups!)
