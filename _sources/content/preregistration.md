@@ -14,8 +14,14 @@ The preregistration is saved as a permanent, timestamped record of the researche
 As part of the ExPra, you will be asked to preregister your study on [LIFOS](https://lifos.uni-frankfurt.de/). For more information on LIFOS, check the next section: {doc}`lifos`.
 
 ----------------------------
+In this section, we will cover: 
 
-## Why Preregister?
+1. [Why preregister?](#why-preregister)
+2. [How to preregister?](#how-to-preregister)
+3. [Deviating from Preregistations](#deviating-from-preregistations)
+
+
+## 1. Why Preregister?
 
 ### Psychology has Low Replicability
 
@@ -69,13 +75,13 @@ Finally, it is a useful skill when reading literature - if you come across an ar
 
 -----------------------------------
 
-## How to Preregister
+## 2. How to Preregister
 
 You will submit your preregistrations on [LIFOS](lifos). On LIFOS, you will fill in a template with the following sections:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTLmSMLjYWyYO5semx03zx0MEBPee5In9fCZ7QrZsqieWWxcdCNrbbQn9qM91bchPLcQNRcQqBotyJp/pubembed?start=false&loop=false" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-## Deviating from Preregistations
+## 3. Deviating from Preregistations
 
 Sometimes, we might preregister something, and then later change our minds. There is nothing inherently wrong with deviating from a preregistration!
 
