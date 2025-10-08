@@ -8,5 +8,8 @@ If you're not sure which type of graph best visualises your data, you can use th
 ## What is the correct format?
 The APA Style guidelines offer useful advice on how to format your figures correctly for academic writing. You can explore their guidance on [setting up figures](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/figures) and review several [example figures](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/sample-figures) to see how your visualizations should look on your posters and reports.
 
+---
 
+**Acknowledgments**
+This overview was contributed by [Lucie Binder](https://www.psychologie.uni-frankfurt.de/82663505/Lucie_Binder__M_Sc?).
 
