@@ -13,8 +13,10 @@ Specifically, we will cover:
 4. [Use of AI tools:](#use-of-ai-tools) Rules for using AI tools such as ChatGPT, DeepL, etc.  
 
 ## 1. Contents
+
+```{tip}
 This section is mostly based on an excellent paper by Mensh and Kording (2017) entitled [Ten simple rules for structuring papers](https://doi.org/10.1371/journal.pcbi.1005619). It is strongly recommended that you read this paper and follow the rules when writing your reports. You will find a summary of the rules below:  
-  
+```  
   
 <big>**Rule 1: Focus your paper on a central contribution**</big>  
 
@@ -67,8 +69,8 @@ Your writing should have both a clear structure (see rule 3 above and rules 6-9 
 **Avoid zig-zag**: Each subject you cover should be covered only in one place and not, for example, in three different parts of your introduction. This also means that related arguments should not be interrupted by unrelated material (“zig-zag”). Instead, related sentences or paragraphs should be strung together so that the reader is naturally guided through your flow of arguments.
 
 **Use parallelism**: Parallel messages should be communicated with parallel form (i.e., same syntax, same terms for same concepts). It is usually better to sound repetitive than to confuse people with different ways to refer to the same thing. This is especially important when using abbreviations (e.g., for conditions):
-- **Bad**: “CON stimuli led to slower responses whereas inconsistent stimuli had lower RTs.”
-- **Good**: “Participants responded faster to consistent compared to inconsistent stimuli.”
+> **Bad**: “CON stimuli led to slower responses whereas inconsistent stimuli had lower RTs.”
+> **Good**: “Participants responded faster to consistent compared to inconsistent stimuli.”
   
   
 <big>**Rule 5: Tell a complete story in the abstract**</big>  
@@ -170,37 +172,38 @@ A great way to test whether you followed the nine rules above is by having someo
 
 Scientific writing has the goal to convey information **as precisely and clearly as possible in as much detail as necessary using as few words as possible**. It should be objective and formal, but it should not be unnecessarily complicated or intellectual. Here are a few things to keep in mind:
 
-- No colloquial language (e.g., colloquial expressions, abbreviations):  
-    **Bad**: _We don’t think there is much of an effect, the test scores were pretty much the same._  
-    **Good**: _We conclude that object size does not affect categorization speed as response times were not significantly correlated with object size._
+Do not use colloquial language (e.g., colloquial expressions, abbreviations):  
+> **Bad**: _We don’t think there is much of an effect, the test scores were pretty much the same._
+> **Good**: _We conclude that object size does not affect categorization speed as response times were not significantly correlated with object size._
   
-- Write from your perspective (“We” or “I”) and use active voice if possible:  
-    **Bad**: _Stimuli were manipulated to contain only low-level information._  
-    **Good**: _We manipulated stimuli to contain only low-level information._
+Write from your perspective (“We” or “I”) and use active voice if possible:  
+> **Bad**: _Stimuli were manipulated to contain only low-level information._  
+> **Good**: _We manipulated stimuli to contain only low-level information._
 
-- Use verb tense consistently:  
+Use verb tense consistently:  
   - Simple past for what you or others did: _We conducted an ANOVA… Kim (2015) showed…_  
   - Simple present for conclusions and generalizations: _We conclude that font size affects reading speed._
 
-- Use clear, precise and objective language:  
-     **Bad**: _Response times were roughly equal._  
-     **Good**: _Response times did not differ significantly, t(48)  =  1.04, p = .304._
+Use clear, precise and objective language:  
+> **Bad**: _Response times were roughly equal._  
+> **Good**: _Response times did not differ significantly, t(48)  =  1.04, p = .304._
 
-- Explicitly name variables you are assessing or comparing:  
-     **Bad**: _We found no effect of working memory load._  
-     **Good**: _We found no effect of working memory load on response times._  
+Explicitly name variables you are assessing or comparing:  
+> **Bad**: _We found no effect of working memory load._  
+> **Good**: _We found no effect of working memory load on response times._  
+>  
+> **Bad**: _Response times were shorter in the low-load condition._  
+> **Good**: _Response times were shorter in the low-load compared to the high-load condition._
 
-     **Bad**: _Response times were shorter in the low-load condition._  
-     **Good**: _Response times were shorter in the low-load compared to the high-load condition._
-- Use **consistent terminology** for conditions, abbreviations, etc. in the **text**, **table** and **figures**!
+Use **consistent terminology** for conditions, abbreviations, etc. in the **text**, **table** and **figures**!
 
-- Use simple language – no need to sound smart!  
-     **Bad**: _Participants experiencing chronic somnolence due to inadequate nocturnal rest demonstrated significantly diminished vigilance._  
-     **Good**: _Participants who were sleep-deprived showed lower attention test scores._ 
+Use simple language – no need to sound smart!  
+> **Bad**: _Participants experiencing chronic somnolence due to inadequate nocturnal rest demonstrated significantly diminished vigilance._  
+> **Good**: _Participants who were sleep-deprived showed lower attention test scores._ 
 
-- Avoid overly long sentences – try to break them up into shorter sentences:  
-     **Bad**: _Although the experiment demonstrated that participants who engaged in mindfulness meditation reported lower stress levels and higher attention scores, it is not clear whether these effects would persist over a longer period or in a larger and more diverse population._  
-     **Good**: _Participants who engaged in mindfulness meditation reported lower stress levels and higher attention scores. However, it is not clear whether these effects would persist over a longer period. Additionally, the effects require replication in a larger and more diverse population._
+Avoid overly long sentences – try to break them up into shorter sentences:  
+> **Bad**: _Although the experiment demonstrated that participants who engaged in mindfulness meditation reported lower stress levels and higher attention scores, it is not clear whether these effects would persist over a longer period or in a larger and more diverse population._  
+> **Good**: _Participants who engaged in mindfulness meditation reported lower stress levels and higher attention scores. However, it is not clear whether these effects would persist over a longer period. Additionally, the effects require replication in a larger and more diverse population._
 
 <big>**Guide your readers through your text**</big>  
 
@@ -285,9 +288,9 @@ More info on [Numbers and Statistics](https://apastyle.apa.org/instructional-aid
 Figures (and tables) are among the **most important parts of your paper**! Many readers will read your title, maybe the abstract and then look at your figures before reading the main text. You should therefore invest time into making visually appealing, clear and informative figures.
 
 **Method section:** You can use figures to show...  
-  - (example) stimuli
+  - (example) [stimuli](https://www.nature.com/articles/s41598-018-32991-1/figures/2)
   - the design of your study
-  - an example trial sequence
+  - an example [trial sequence](https://www.sciencedirect.com/science/article/pii/S001002771930321X#f0010)
   - the apparatus used in your study  
 
 **Results section:**  
@@ -299,14 +302,14 @@ Figures (and tables) are among the **most important parts of your paper**! Many 
 APA style also has guidelines for the creation of figures and tables (see below). Keep in mind that figures and tables should (ideally) be **self-explanatory**, therefore it is important to choose a meaningful title and explain data, abbreviations, colours, etc. in the caption.
 
 <big>**APA: Figure guidelines**</big>  
-![This image shows a typical apa formated figure. Blue text fields highlight the different parts like figure number and short title, clearly labelled axes, etc.](../_static/apa-figure-guidelines.png)    
+![This image shows a typical apa formated figure.](../_static/apa-figure-guidelines.png)    
 
 ```{seealso}
 APA [figure guidelines](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/figures) and [sample figures](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/sample-figures)
 ```
 
 <big>**APA: Table guidelines**</big>  
-![This image shows a typical apa formated table. Blue text fields highlight the different parts like table number and short title, test statistics in italics, etc.](../_static/apa-table-guidelines.png)    
+![This image shows a typical apa formated table.](../_static/apa-table-guidelines.png)    
 
 ```{seealso}
 APA [table guidelines](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/tables) and [sample tables](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/sample-tables)
