@@ -6,6 +6,8 @@ parts:
   - file: general_information/student-guide
     sections:
     - file: general_information/grading-criteria
+  - file: general_information/CoC
+  - file: general_information/dei_exp
 - caption: The Research Process
   chapters:
   - file: content/research-question
@@ -19,11 +21,7 @@ parts:
   - file: content/analysis
   - file: content/communication
     sections:
-    - file: content/poster
     - file: content/visualization
+    - file: content/poster
     - file: content/presentation
   - file: content/writing
-- caption: Guiding Principles and Responsibilities
-  chapters:  
-  - file: general_information/CoC
-  - file: general_information/dei_exp
