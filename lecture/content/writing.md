@@ -69,8 +69,8 @@ Your writing should have both a clear structure (see rule 3 above and rules 6-9 
 **Avoid zig-zag**: Each subject you cover should be covered only in one place and not, for example, in three different parts of your introduction. This also means that related arguments should not be interrupted by unrelated material (“zig-zag”). Instead, related sentences or paragraphs should be strung together so that the reader is naturally guided through your flow of arguments.
 
 **Use parallelism**: Parallel messages should be communicated with parallel form (i.e., same syntax, same terms for same concepts). It is usually better to sound repetitive than to confuse people with different ways to refer to the same thing. This is especially important when using abbreviations (e.g., for conditions):
-> **Bad**: “CON stimuli led to slower responses whereas inconsistent stimuli had lower RTs.”  
-> **Good**: “Participants responded faster to consistent compared to inconsistent stimuli.”
+> **Bad**: _CON stimuli led to slower responses whereas inconsistent stimuli had lower RTs._  
+> **Good**: _Participants responded faster to consistent compared to inconsistent stimuli._
   
   
 <big>**Rule 5: Tell a complete story in the abstract**</big>  
