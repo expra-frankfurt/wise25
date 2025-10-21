@@ -452,7 +452,10 @@ document.write(`
 </ol>
 <section id="contents">
 <h2>1. Contents<a class="headerlink" href="#contents" title="Permalink to this heading">#</a></h2>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
 <p>This section is mostly based on an excellent paper by Mensh and Kording (2017) entitled <a class="reference external" href="https://doi.org/10.1371/journal.pcbi.1005619">Ten simple rules for structuring papers</a>. It is strongly recommended that you read this paper and follow the rules when writing your reports. You will find a summary of the rules below:</p>
+</div>
 <p><big><strong>Rule 1: Focus your paper on a central contribution</strong></big></p>
 <p>When you write your paper, you should try to focus it on <strong>one central contribution</strong> your project is making (this can be a theoretical insight, a new method, a criticism of previous research, etc.). Try to make your claim as <strong>simple</strong> as your data and experimental logic allow and clearly communicate it in the <strong>title of your paper</strong> so that it is immediately clear what your paper is showing.</p>
 <p>A <strong>good example</strong> can be found in a paper by Aminoff and Durham (2023) entitled: <em>Scene-selective brain regions respond to embedded objects of a scene</em>. The central contribution is that scene-selective brain regions, which we usually assume to primarily respond to scene images, also respond to single objects. The novelty and relevance of this contribution are immediately apparent (the paper changes the way we think of these brain regions).</p>
@@ -485,10 +488,10 @@ document.write(`
 <p>Your writing should have both a clear structure (see rule 3 above and rules 6-9 below) and a logical flow of arguments. There are two simple ways to achieve this:</p>
 <p><strong>Avoid zig-zag</strong>: Each subject you cover should be covered only in one place and not, for example, in three different parts of your introduction. This also means that related arguments should not be interrupted by unrelated material (“zig-zag”). Instead, related sentences or paragraphs should be strung together so that the reader is naturally guided through your flow of arguments.</p>
 <p><strong>Use parallelism</strong>: Parallel messages should be communicated with parallel form (i.e., same syntax, same terms for same concepts). It is usually better to sound repetitive than to confuse people with different ways to refer to the same thing. This is especially important when using abbreviations (e.g., for conditions):</p>
-<ul class="simple">
-<li><p><strong>Bad</strong>: “CON stimuli led to slower responses whereas inconsistent stimuli had lower RTs.”</p></li>
-<li><p><strong>Good</strong>: “Participants responded faster to consistent compared to inconsistent stimuli.”</p></li>
-</ul>
+<blockquote>
+<div><p><strong>Bad</strong>: “CON stimuli led to slower responses whereas inconsistent stimuli had lower RTs.”
+<strong>Good</strong>: “Participants responded faster to consistent compared to inconsistent stimuli.”</p>
+</div></blockquote>
 <p><big><strong>Rule 5: Tell a complete story in the abstract</strong></big></p>
 <p>The abstract is a short (usually 200-300 word) summary of your report. After the title (see rule 1), the abstract is the second thing your readers will read, and for many readers it will be the only part of a paper they will ever read! It is therefore extremely important that it is clear, concise and convincing. Ideally, it should tell the complete story of your project while at the same time sparking your readers’ interest and make them want to learn more.</p>
 <p>The context-content-conclusion rule and hourglass structure also apply to the abstract:</p>
@@ -599,36 +602,44 @@ document.write(`
 <section id="scientific-language">
 <h2>2. Scientific language<a class="headerlink" href="#scientific-language" title="Permalink to this heading">#</a></h2>
 <p>Scientific writing has the goal to convey information <strong>as precisely and clearly as possible in as much detail as necessary using as few words as possible</strong>. It should be objective and formal, but it should not be unnecessarily complicated or intellectual. Here are a few things to keep in mind:</p>
-<ul>
-<li><p>No colloquial language (e.g., colloquial expressions, abbreviations):<br />
-<strong>Bad</strong>: <em>We don’t think there is much of an effect, the test scores were pretty much the same.</em><br />
-<strong>Good</strong>: <em>We conclude that object size does not affect categorization speed as response times were not significantly correlated with object size.</em></p></li>
-<li><p>Write from your perspective (“We” or “I”) and use active voice if possible:<br />
-<strong>Bad</strong>: <em>Stimuli were manipulated to contain only low-level information.</em><br />
-<strong>Good</strong>: <em>We manipulated stimuli to contain only low-level information.</em></p></li>
-<li><p>Use verb tense consistently:</p>
+<p>Do not use colloquial language (e.g., colloquial expressions, abbreviations):</p>
+<blockquote>
+<div><p><strong>Bad</strong>: <em>We don’t think there is much of an effect, the test scores were pretty much the same.</em>
+<strong>Good</strong>: <em>We conclude that object size does not affect categorization speed as response times were not significantly correlated with object size.</em></p>
+</div></blockquote>
+<p>Write from your perspective (“We” or “I”) and use active voice if possible:</p>
+<blockquote>
+<div><p><strong>Bad</strong>: <em>Stimuli were manipulated to contain only low-level information.</em><br />
+<strong>Good</strong>: <em>We manipulated stimuli to contain only low-level information.</em></p>
+</div></blockquote>
+<p>Use verb tense consistently:</p>
 <ul class="simple">
 <li><p>Simple past for what you or others did: <em>We conducted an ANOVA… Kim (2015) showed…</em></p></li>
 <li><p>Simple present for conclusions and generalizations: <em>We conclude that font size affects reading speed.</em></p></li>
 </ul>
-</li>
-<li><p>Use clear, precise and objective language:<br />
-<strong>Bad</strong>: <em>Response times were roughly equal.</em><br />
-<strong>Good</strong>: <em>Response times did not differ significantly, t(48)  =  1.04, p = .304.</em></p></li>
-<li><p>Explicitly name variables you are assessing or comparing:<br />
-<strong>Bad</strong>: <em>We found no effect of working memory load.</em><br />
+<p>Use clear, precise and objective language:</p>
+<blockquote>
+<div><p><strong>Bad</strong>: <em>Response times were roughly equal.</em><br />
+<strong>Good</strong>: <em>Response times did not differ significantly, t(48)  =  1.04, p = .304.</em></p>
+</div></blockquote>
+<p>Explicitly name variables you are assessing or comparing:</p>
+<blockquote>
+<div><p><strong>Bad</strong>: <em>We found no effect of working memory load.</em><br />
 <strong>Good</strong>: <em>We found no effect of working memory load on response times.</em></p>
 <p><strong>Bad</strong>: <em>Response times were shorter in the low-load condition.</em><br />
 <strong>Good</strong>: <em>Response times were shorter in the low-load compared to the high-load condition.</em></p>
-</li>
-<li><p>Use <strong>consistent terminology</strong> for conditions, abbreviations, etc. in the <strong>text</strong>, <strong>table</strong> and <strong>figures</strong>!</p></li>
-<li><p>Use simple language – no need to sound smart!<br />
-<strong>Bad</strong>: <em>Participants experiencing chronic somnolence due to inadequate nocturnal rest demonstrated significantly diminished vigilance.</em><br />
-<strong>Good</strong>: <em>Participants who were sleep-deprived showed lower attention test scores.</em></p></li>
-<li><p>Avoid overly long sentences – try to break them up into shorter sentences:<br />
-<strong>Bad</strong>: <em>Although the experiment demonstrated that participants who engaged in mindfulness meditation reported lower stress levels and higher attention scores, it is not clear whether these effects would persist over a longer period or in a larger and more diverse population.</em><br />
-<strong>Good</strong>: <em>Participants who engaged in mindfulness meditation reported lower stress levels and higher attention scores. However, it is not clear whether these effects would persist over a longer period. Additionally, the effects require replication in a larger and more diverse population.</em></p></li>
-</ul>
+</div></blockquote>
+<p>Use <strong>consistent terminology</strong> for conditions, abbreviations, etc. in the <strong>text</strong>, <strong>table</strong> and <strong>figures</strong>!</p>
+<p>Use simple language – no need to sound smart!</p>
+<blockquote>
+<div><p><strong>Bad</strong>: <em>Participants experiencing chronic somnolence due to inadequate nocturnal rest demonstrated significantly diminished vigilance.</em><br />
+<strong>Good</strong>: <em>Participants who were sleep-deprived showed lower attention test scores.</em></p>
+</div></blockquote>
+<p>Avoid overly long sentences – try to break them up into shorter sentences:</p>
+<blockquote>
+<div><p><strong>Bad</strong>: <em>Although the experiment demonstrated that participants who engaged in mindfulness meditation reported lower stress levels and higher attention scores, it is not clear whether these effects would persist over a longer period or in a larger and more diverse population.</em><br />
+<strong>Good</strong>: <em>Participants who engaged in mindfulness meditation reported lower stress levels and higher attention scores. However, it is not clear whether these effects would persist over a longer period. Additionally, the effects require replication in a larger and more diverse population.</em></p>
+</div></blockquote>
 <p><big><strong>Guide your readers through your text</strong></big></p>
 <p>While writing, consider not only the message you want to convey, but also the <strong>information your readers need</strong> to understand it (see rule 2 above). There should be a clear <em><strong>roter Faden</strong></em> in your work, and <strong>arguments should build on each other</strong>. Certain <strong>key words</strong> make it easier to follow your train of thought:</p>
 <ul class="simple">
@@ -717,9 +728,9 @@ document.write(`
 <p>Figures (and tables) are among the <strong>most important parts of your paper</strong>! Many readers will read your title, maybe the abstract and then look at your figures before reading the main text. You should therefore invest time into making visually appealing, clear and informative figures.</p>
 <p><strong>Method section:</strong> You can use figures to show…</p>
 <ul class="simple">
-<li><p>(example) stimuli</p></li>
+<li><p>(example) <a class="reference external" href="https://www.nature.com/articles/s41598-018-32991-1/figures/2">stimuli</a></p></li>
 <li><p>the design of your study</p></li>
-<li><p>an example trial sequence</p></li>
+<li><p>an example <a class="reference external" href="https://www.sciencedirect.com/science/article/pii/S001002771930321X#f0010">trial sequence</a></p></li>
 <li><p>the apparatus used in your study</p></li>
 </ul>
 <p><strong>Results section:</strong></p>
@@ -731,13 +742,13 @@ document.write(`
 </ul>
 <p>APA style also has guidelines for the creation of figures and tables (see below). Keep in mind that figures and tables should (ideally) be <strong>self-explanatory</strong>, therefore it is important to choose a meaningful title and explain data, abbreviations, colours, etc. in the caption.</p>
 <p><big><strong>APA: Figure guidelines</strong></big><br />
-<img alt="This image shows a typical apa formated figure. Blue text fields highlight the different parts like figure number and short title, clearly labelled axes, etc." src="../_images/apa-figure-guidelines.png" /></p>
+<img alt="This image shows a typical apa formated figure." src="../_images/apa-figure-guidelines.png" /></p>
 <div class="admonition seealso">
 <p class="admonition-title">See also</p>
 <p>APA <a class="reference external" href="https://apastyle.apa.org/style-grammar-guidelines/tables-figures/figures">figure guidelines</a> and <a class="reference external" href="https://apastyle.apa.org/style-grammar-guidelines/tables-figures/sample-figures">sample figures</a></p>
 </div>
 <p><big><strong>APA: Table guidelines</strong></big><br />
-<img alt="This image shows a typical apa formated table. Blue text fields highlight the different parts like table number and short title, test statistics in italics, etc." src="../_images/apa-table-guidelines.png" /></p>
+<img alt="This image shows a typical apa formated table." src="../_images/apa-table-guidelines.png" /></p>
 <div class="admonition seealso">
 <p class="admonition-title">See also</p>
 <p>APA <a class="reference external" href="https://apastyle.apa.org/style-grammar-guidelines/tables-figures/tables">table guidelines</a> and <a class="reference external" href="https://apastyle.apa.org/style-grammar-guidelines/tables-figures/sample-tables">sample tables</a></p>
