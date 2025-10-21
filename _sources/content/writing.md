@@ -15,7 +15,7 @@ Specifically, we will cover:
 ## 1. Contents
 
 ```{tip}
-This section is mostly based on an excellent paper by Mensh and Kording (2017) entitled [Ten simple rules for structuring papers](https://doi.org/10.1371/journal.pcbi.1005619). It is strongly recommended that you read this paper and follow the rules when writing your reports. You will find a summary of the rules below:  
+This section is mostly based on an excellent paper by Mensh and Kording (2017) entitled [Ten simple rules for structuring papers](https://doi.org/10.1371/journal.pcbi.1005619). It is strongly recommended that you read this paper and follow the rules when writing your reports. You will find a summary of the rules below.  
 ```  
   
 <big>**Rule 1: Focus your paper on a central contribution**</big>  
@@ -69,7 +69,7 @@ Your writing should have both a clear structure (see rule 3 above and rules 6-9 
 **Avoid zig-zag**: Each subject you cover should be covered only in one place and not, for example, in three different parts of your introduction. This also means that related arguments should not be interrupted by unrelated material (“zig-zag”). Instead, related sentences or paragraphs should be strung together so that the reader is naturally guided through your flow of arguments.
 
 **Use parallelism**: Parallel messages should be communicated with parallel form (i.e., same syntax, same terms for same concepts). It is usually better to sound repetitive than to confuse people with different ways to refer to the same thing. This is especially important when using abbreviations (e.g., for conditions):
-> **Bad**: “CON stimuli led to slower responses whereas inconsistent stimuli had lower RTs.”
+> **Bad**: “CON stimuli led to slower responses whereas inconsistent stimuli had lower RTs.”  
 > **Good**: “Participants responded faster to consistent compared to inconsistent stimuli.”
   
   
@@ -173,7 +173,7 @@ A great way to test whether you followed the nine rules above is by having someo
 Scientific writing has the goal to convey information **as precisely and clearly as possible in as much detail as necessary using as few words as possible**. It should be objective and formal, but it should not be unnecessarily complicated or intellectual. Here are a few things to keep in mind:
 
 Do not use colloquial language (e.g., colloquial expressions, abbreviations):  
-> **Bad**: _We don’t think there is much of an effect, the test scores were pretty much the same._
+> **Bad**: _We don’t think there is much of an effect, the test scores were pretty much the same._  
 > **Good**: _We conclude that object size does not affect categorization speed as response times were not significantly correlated with object size._
   
 Write from your perspective (“We” or “I”) and use active voice if possible:  
