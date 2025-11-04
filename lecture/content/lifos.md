@@ -11,6 +11,21 @@ This section will give you a quick introduction to the idea behind LIFOS and sho
 4. [Further remarks and resources](#further-remarks-and-resources)
 5. [Helpful links](#helpful-links)
 
+If you prefer to watch a quick, general **LIFOS tutorial video**, you can also do so below (in German, with English or German subtitles provided). Please note that the written tutorial goes into more detail, including additional information about EXPRA-specific course requirements, and useful tips.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    title="LIFOS Tutorial"
+    src="https://video01.uni-frankfurt.de/Mediasite/Play/b6dc01c4d95040cd96687454a8d697691d"
+    frameborder="0"
+    allowfullscreen
+    msallowfullscreen
+    allow="fullscreen"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+
+
 ## 1. What is LIFOS and why do we use it?
 
 As a platform, LIFOS is there for you to implement open research practices (just like researchers do in their projects) in your own student research projects in a **hands-on** manner. You might have encountered it in previous courses, such as the *Statistics I* practicum, and may use it again for your Bachelor thesis.
