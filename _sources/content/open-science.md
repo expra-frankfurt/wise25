@@ -127,4 +127,7 @@ Common Conceptual Pitfalls (and how to avoid them)
 
 
 
+----
 
+**Acknowledgments**  
+This section was contributed by [Alessandro Tavano](https://fiebachlab.org/team/tavano). 
