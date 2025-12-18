@@ -393,7 +393,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
 </div></div>
       
     </div>
@@ -409,6 +411,27 @@ document.write(`
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#why-research-communication-matters">Why Research Communication Matters</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#core-principles">Core Principles</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#poster-guidelines">Poster Guidelines</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#oral-presentation">Oral Presentation</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#report-writing">Report Writing</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#writing-tips">Writing Tips</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#example-open-science-statement">Example Open Science Statement</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#visual-aids">Visual Aids</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#referencing-citation">Referencing &amp; Citation</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#data-and-code-availability">Data and Code Availability</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#integration-with-open-science">Integration with Open Science</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#checklist-before-submission-or-presentation">Checklist Before Submission or Presentation</a></li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -420,6 +443,140 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="research-communication-and-presentation">
 <h1>Research Communication and Presentation<a class="headerlink" href="#research-communication-and-presentation" title="Permalink to this heading">#</a></h1>
+<p>This page helps you prepare clear, accessible, and transparent outputs for your EXPRA project—your <strong>poster</strong>, <strong>manuscript</strong>, and any <strong>oral presentation</strong>. It focuses on both scientific rigour and effective storytelling, so that your work communicates its content convincingly and ethically.</p>
+<section id="why-research-communication-matters">
+<h2>Why Research Communication Matters<a class="headerlink" href="#why-research-communication-matters" title="Permalink to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p><strong>Good communication is integral to good science.</strong> The most important point is to present your findings in a clear manner, as this ensures that others can understand, evaluate, criticize and/or build on your work. In EXPRA, your poster and presentation are part of your open science workflow.</p></li>
+<li><p><strong>Good communication helps you being a good scientist.</strong> When you strive to communicate clearly, you necessarily reflect on your results and their limitations.</p></li>
+<li><p><strong>Good communication helps others being good scientists.</strong> A clear paper/poster will make research reproducible and transparent, engaging audiences beyond one’s own team.</p></li>
+<li><p><strong>Good communication is fair.</strong> Give proper credit to contributors and participants.</p></li>
+</ol>
+</section>
+<section id="core-principles">
+<h2>Core Principles<a class="headerlink" href="#core-principles" title="Permalink to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p><strong>Clarity</strong> – Explain your question, method, and results in a plain, concise language.</p></li>
+<li><p><strong>Transparency</strong> – Include preregistration, open data/code, and deviations from your plan.</p></li>
+<li><p><strong>Accuracy</strong> – Present numbers and visuals honestly, without distorting data. Be careful about what (pre) processing does to your data (e.g., log-transformation for response times), and openly use it only if necessary.</p></li>
+<li><p><strong>Accessibility</strong> – Use readable fonts, good contrast, and be mindful of color-impaired individuals when creating visual aids.</p></li>
+<li><p><strong>Acknowledgement</strong> – Credit everyone who contributed or provided data/materials, and specify their role in the research process.</p></li>
+</ol>
+</section>
+<section id="poster-guidelines">
+<h2>Poster Guidelines<a class="headerlink" href="#poster-guidelines" title="Permalink to this heading">#</a></h2>
+<p>Check the subchapter <a class="reference internal" href="poster.html"><span class="doc">Poster Design</span></a> for more details.</p>
+<p><strong>1) Structure</strong>
+A clear poster usually follows this order:</p>
+<ol class="arabic simple">
+<li><p><strong>Title and author information</strong></p></li>
+<li><p><strong>Research question and hypotheses</strong></p></li>
+<li><p><strong>Method</strong> – participants, materials, procedure, analyses</p></li>
+<li><p><strong>Results</strong> – key figures/tables with clear labels</p></li>
+<li><p><strong>Discussion</strong> – interpretation, limitations, implications</p></li>
+<li><p><strong>Open science statements</strong> – data, code, and materials availability</p></li>
+<li><p><strong>Acknowledgements</strong> and contact information</p></li>
+</ol>
+<p><strong>2) Design Tips</strong>
+•	Use <strong>minimal text</strong>; aim for bullet points and short sentences.
+•	Maintain a <strong>logical visual flow</strong> (typically left-to-right, top-to-bottom).
+•	Use <strong>high contrast</strong> and a readable font size (≥24pt for body text).
+•	Avoid clutter—white space improves comprehension.
+•	Choose color palettes accessible to color-blind individuals (e.g., <a class="reference external" href="https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40">https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40</a>).
+•	Figure text should be legible.</p>
+<p><strong>3) Accessibility Checklist</strong>
+•	Avoid red–green contrasts.
+•	Ensure charts are coherently labelled with both colour and text.</p>
+</section>
+<section id="oral-presentation">
+<h2>Oral Presentation<a class="headerlink" href="#oral-presentation" title="Permalink to this heading">#</a></h2>
+<p>For more details, check the subchapter <a class="reference internal" href="presentation.html"><span class="doc">Poster Presentation</span></a>.</p>
+<p><strong>1) Focus on Storytelling</strong></p>
+<p>Once you investigated your hypothesis and have beautiful figures and a poster (and <strong>only</strong> after that), frame your talk as a narrative:</p>
+<ul class="simple">
+<li><p><strong>Setup</strong> – What problem did you investigate? Why does it matter?</p></li>
+<li><p><strong>Approach</strong> – How did you study it?</p></li>
+<li><p><strong>Findings</strong> – What did you learn?</p></li>
+<li><p><strong>Meaning</strong> – Why is this result important?</p></li>
+</ul>
+<p><strong>2) Keep it Engaging</strong>
+•	Speak slowly and clearly; pause between points.
+•	Use visuals to support, not duplicate, your speech.
+•	Avoid reading slides verbatim.
+•	Rehearse timing (6–8 minutes are typical for EXPRA presentations).</p>
+<p><strong>3) Slide Design</strong>
+•	If you plan to have slides alongside your poster, put just one key idea per slide.
+•	Avoid dense text or tables.
+•	Use consistent fonts and colour schemes.
+•	Include your <strong>LIFOS</strong>, <strong>OSF or GitHub link</strong> on the final slide.</p>
+<p><strong>4) Questions and Discussion</strong>
+•	Anticipate typical questions (method alternatives, analysis choices, generalizability of your findings).
+•	It is fine to say “That is a next step.”
+•	Thank questioners.</p>
+</section>
+<section id="report-writing">
+<h2>Report Writing<a class="headerlink" href="#report-writing" title="Permalink to this heading">#</a></h2>
+<p>For more details, check the subchapter <a class="reference internal" href="writing.html"><span class="doc">Scientific Writing</span></a>.</p>
+<p>Your final written summary should mirror standard scientific structure:</p>
+<p><strong>Introduction → Method → Results → Discussion</strong></p>
+<section id="writing-tips">
+<h3>Writing Tips<a class="headerlink" href="#writing-tips" title="Permalink to this heading">#</a></h3>
+<p>•	Write in <strong>plain, precise English</strong>; avoid unnecessary jargon.
+•	Define all abbreviations and statistical terms.
+•	Report exact <strong>p-values</strong> (do not report p = 0), <strong>effect sizes</strong>, and <strong>confidence intervals</strong>.
+•	Describe any <strong>deviations from preregistration</strong> clearly.
+•	Include an <strong>Open Science statement</strong> at the end (see below).</p>
+</section>
+<section id="example-open-science-statement">
+<h3>Example Open Science Statement<a class="headerlink" href="#example-open-science-statement" title="Permalink to this heading">#</a></h3>
+<p>This study was preregistered at [LIFOS link]. Data, analysis scripts, and materials are available at [repository link]. Due to GDPR constraints, raw data cannot be shared, but a de-identified dataset and full code are/can be provided.</p>
+</section>
+<section id="visual-aids">
+<h3>Visual Aids<a class="headerlink" href="#visual-aids" title="Permalink to this heading">#</a></h3>
+<p>•	Use figures to show patterns, not just significance.
+•	Label axes clearly with units.
+•	Avoid misleading scales (start axes at 0 where meaningful).
+•	Always include error bars.
+•	Keep colour palettes consistent across figures.</p>
+</section>
+<section id="referencing-citation">
+<h3>Referencing &amp; Citation<a class="headerlink" href="#referencing-citation" title="Permalink to this heading">#</a></h3>
+<p>•	Follow <strong>APA 7th edition</strong> for all EXPRA projects unless otherwise stated.
+•	Use a reference manager (e.g., <strong>Zotero</strong>).
+•	For any reused code, datasets, or materials, <strong>cite them properly</strong>. Cite directly what you yourself read, and use secondary citation (“as reported in”) when</p>
+</section>
+</section>
+<section id="data-and-code-availability">
+<h2>Data and Code Availability<a class="headerlink" href="#data-and-code-availability" title="Permalink to this heading">#</a></h2>
+<p>Be explicit in your outputs:</p>
+<ul class="simple">
+<li><p><strong>Data availability statement</strong> – where the dataset can be accessed, under what licence. -</p></li>
+<li><p><strong>Code availability statement</strong> – where analysis scripts are stored.</p></li>
+<li><p><strong>Materials statement</strong> – where questionnaires or stimuli are archived.</p></li>
+</ul>
+<p>Refer to your LIFOS project (or GitHub repository, if you have one).</p>
+</section>
+<section id="integration-with-open-science">
+<h2>Integration with Open Science<a class="headerlink" href="#integration-with-open-science" title="Permalink to this heading">#</a></h2>
+<p>This section connects directly to the Open Science Principles and Practices page:</p>
+<ul class="simple">
+<li><p>Use the same repository links and licences.</p></li>
+<li><p>Update your preregistration to include communication plans.</p></li>
+<li><p>Ensure consistency between preregistered analyses and reported results.</p></li>
+</ul>
+<p>Also see <strong>LIFOS</strong> for institutional storage and sharing options at Goethe University.</p>
+</section>
+<section id="checklist-before-submission-or-presentation">
+<h2>Checklist Before Submission or Presentation<a class="headerlink" href="#checklist-before-submission-or-presentation" title="Permalink to this heading">#</a></h2>
+<p><input type="checkbox"> </input> The Poster includes: research question, methods, key results, discussion, open science statements.
+<input type="checkbox"> </input> Figures are readable and colour accessible.
+<input type="checkbox"> </input> The Report additionally includes preregistration link, availability statements, and complete references.
+<input type="checkbox"> </input> Oral presentations have been rehearsed, with repository link on final slide.
+<input type="checkbox"> </input> All contributors and funders have been acknowledged appropriately.</p>
+<hr class="docutils" />
+<p><strong>Acknowledgments</strong><br />
+This section was contributed by <a class="reference external" href="https://fiebachlab.org/team/tavano">Alessandro Tavano</a>.</p>
+</section>
 <div class="toctree-wrapper compound">
 </div>
 </section>
@@ -478,6 +635,34 @@ document.write(`
             </div>
             
             
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#why-research-communication-matters">Why Research Communication Matters</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#core-principles">Core Principles</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#poster-guidelines">Poster Guidelines</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#oral-presentation">Oral Presentation</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#report-writing">Report Writing</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#writing-tips">Writing Tips</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#example-open-science-statement">Example Open Science Statement</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#visual-aids">Visual Aids</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#referencing-citation">Referencing &amp; Citation</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#data-and-code-availability">Data and Code Availability</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#integration-with-open-science">Integration with Open Science</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#checklist-before-submission-or-presentation">Checklist Before Submission or Presentation</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>
