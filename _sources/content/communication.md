@@ -30,16 +30,16 @@ A clear poster usually follows this order:
 7.	**Acknowledgements** and contact information
 
 **2) Design Tips**
-•	Use **minimal text**; aim for bullet points and short sentences.
-•	Maintain a **logical visual flow** (typically left-to-right, top-to-bottom).
-•	Use **high contrast** and a readable font size (≥24pt for body text).
-•	Avoid clutter—white space improves comprehension.
-•	Choose color palettes accessible to color-blind individuals (e.g., https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40).
-•	Figure text should be legible.
+- Use **minimal text**; aim for bullet points and short sentences.
+- Maintain a **logical visual flow** (typically left-to-right, top-to-bottom).
+- Use **high contrast** and a readable font size (≥24pt for body text).
+- Avoid clutter—white space improves comprehension.
+- Choose color palettes accessible to color-blind individuals (e.g., https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40).
+- Figure text should be legible.
 
 **3) Accessibility Checklist**
-•	Avoid red–green contrasts.
-•	Ensure charts are coherently labelled with both colour and text.
+- Avoid red–green contrasts.
+- Ensure charts are coherently labelled with both colour and text.
 
 ## Oral Presentation
 For more details, check the subchapter {doc}`presentation`.
@@ -53,21 +53,21 @@ Once you investigated your hypothesis and have beautiful figures and a poster (a
 - **Meaning** – Why is this result important?
 
 **2) Keep it Engaging**
-•	Speak slowly and clearly; pause between points.
-•	Use visuals to support, not duplicate, your speech.
-•	Avoid reading slides verbatim.
-•	Rehearse timing (6–8 minutes are typical for EXPRA presentations).
+- Speak slowly and clearly; pause between points.
+- Use visuals to support, not duplicate, your speech.
+- Avoid reading slides verbatim.
+- Rehearse timing (6–8 minutes are typical for EXPRA presentations).
 
 **3) Slide Design**
-•	If you plan to have slides alongside your poster, put just one key idea per slide.
-•	Avoid dense text or tables.
-•	Use consistent fonts and colour schemes.
-•	Include your **LIFOS**, **OSF or GitHub link** on the final slide.
+- If you plan to have slides alongside your poster, put just one key idea per slide.
+- Avoid dense text or tables.
+- Use consistent fonts and colour schemes.
+- Include your **LIFOS**, **OSF or GitHub link** on the final slide.
 
 **4) Questions and Discussion**
-•	Anticipate typical questions (method alternatives, analysis choices, generalizability of your findings).
-•	It is fine to say “That is a next step.”
-•	Thank questioners.
+- Anticipate typical questions (method alternatives, analysis choices, generalizability of your findings).
+- It is fine to say “That is a next step.”
+- Thank questioners.
 
 ## Report Writing
 For more details, check the subchapter {doc}`writing`.
@@ -77,26 +77,26 @@ Your final written summary should mirror standard scientific structure:
 **Introduction → Method → Results → Discussion**
 
 ### Writing Tips
-•	Write in **plain, precise English**; avoid unnecessary jargon.
-•	Define all abbreviations and statistical terms.
-•	Report exact **p-values** (do not report p = 0), **effect sizes**, and **confidence intervals**.
-•	Describe any **deviations from preregistration** clearly.
-•	Include an **Open Science statement** at the end (see below).
+- Write in **plain, precise English**; avoid unnecessary jargon.
+- Define all abbreviations and statistical terms.
+- Report exact **p-values** (do not report p = 0), **effect sizes**, and **confidence intervals**.
+- Describe any **deviations from preregistration** clearly.
+- Include an **Open Science statement** at the end (see below).
 
 ### Example Open Science Statement
 This study was preregistered at [LIFOS link]. Data, analysis scripts, and materials are available at [repository link]. Due to GDPR constraints, raw data cannot be shared, but a de-identified dataset and full code are/can be provided.
 
 ### Visual Aids
-•	Use figures to show patterns, not just significance.
-•	Label axes clearly with units.
-•	Avoid misleading scales (start axes at 0 where meaningful).
-•	Always include error bars.
-•	Keep colour palettes consistent across figures.
+- Use figures to show patterns, not just significance.
+- Label axes clearly with units.
+- Avoid misleading scales (start axes at 0 where meaningful).
+- Always include error bars.
+- Keep colour palettes consistent across figures.
 
 ### Referencing & Citation
-•	Follow **APA 7th edition** for all EXPRA projects unless otherwise stated.
-•	Use a reference manager (e.g., **Zotero**).
-•	For any reused code, datasets, or materials, **cite them properly**. Cite directly what you yourself read, and use secondary citation (“as reported in”) when 
+- Follow **APA 7th edition** for all EXPRA projects unless otherwise stated.
+- Use a reference manager (e.g., **Zotero**).
+- For any reused code, datasets, or materials, **cite them properly**. Cite directly what you yourself read, and use secondary citation (“as reported in”) when 
 
 ## Data and Code Availability
 Be explicit in your outputs: 
