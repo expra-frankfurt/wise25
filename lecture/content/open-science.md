@@ -81,23 +81,23 @@ Aim higher with the “Good → Better → Best” ladder below.
 
 ### Example of File Organisation
 
-project-root/
-├─ README.txt
-├─ LICENCE_DATA file (e.g., CC0 or CC BY 4.0)
-├─ CITATION file
-├─ DEVLOG.txt
-├─ data/
-│  ├─ raw/           # never edited by hand
-│  └─ preprocessed/       # produced by scripts
-├─ materials/        # stimuli, instructions, questionnaires
-├─ scripts/
-│  ├─ 00_packages.R  # Example
-│  ├─ 01_clean.R
-│  ├─ 02_analysis.R
-│  └─ 03_figures.R
-├─ reports/
-│  └─ draft
-└─ docs/             # exported figures/tables for poster
+project-root/  
+├─ README.txt  
+├─ LICENCE_DATA file (e.g., CC0 or CC BY 4.0)  
+├─ CITATION file  
+├─ DEVLOG.txt  
+├─ data/  
+│  ├─ raw/           # never edited by hand  
+│  └─ preprocessed/       # produced by scripts  
+├─ materials/        # stimuli, instructions, questionnaires  
+├─ scripts/  
+│  ├─ 00_packages.R  # Example  
+│  ├─ 01_clean.R  
+│  ├─ 02_analysis.R  
+│  └─ 03_figures.R  
+├─ reports/  
+│  └─ draft  
+└─ docs/             # exported figures/tables for poster  
 
 ## Practical notes 
 Licensing (what to choose and where)
@@ -121,7 +121,7 @@ Tools we recommend
 -	**R / Python** – scripted analysis for reproducibility (JASP is also fine).
 
 Common Conceptual Pitfalls (and how to avoid them)
--**	Ambiguous variable names**. → Use a codebook, prefer snake_case when you name a variable.
+- **Ambiguous variable names**. → Use a codebook, prefer snake_case when you name a variable.
 -	**Results not reproducible on another computer**. → Make sure this is justified and clearly tracked. Add a Disclaimer if you did not test this specific issue.
 -	**Unclear authorship**. → Record credit roles from the start in the README file.
 
