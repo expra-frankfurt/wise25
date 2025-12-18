@@ -555,22 +555,22 @@ document.write(`
 </section>
 <section id="example-of-file-organisation">
 <h3>Example of File Organisation<a class="headerlink" href="#example-of-file-organisation" title="Permalink to this heading">#</a></h3>
-<p>project-root/
-├─ README.txt
-├─ LICENCE_DATA file (e.g., CC0 or CC BY 4.0)
-├─ CITATION file
-├─ DEVLOG.txt
-├─ data/
-│  ├─ raw/           # never edited by hand
-│  └─ preprocessed/       # produced by scripts
-├─ materials/        # stimuli, instructions, questionnaires
-├─ scripts/
-│  ├─ 00_packages.R  # Example
-│  ├─ 01_clean.R
-│  ├─ 02_analysis.R
-│  └─ 03_figures.R
-├─ reports/
-│  └─ draft
+<p>project-root/<br />
+├─ README.txt<br />
+├─ LICENCE_DATA file (e.g., CC0 or CC BY 4.0)<br />
+├─ CITATION file<br />
+├─ DEVLOG.txt<br />
+├─ data/<br />
+│  ├─ raw/           # never edited by hand<br />
+│  └─ preprocessed/       # produced by scripts<br />
+├─ materials/        # stimuli, instructions, questionnaires<br />
+├─ scripts/<br />
+│  ├─ 00_packages.R  # Example<br />
+│  ├─ 01_clean.R<br />
+│  ├─ 02_analysis.R<br />
+│  └─ 03_figures.R<br />
+├─ reports/<br />
+│  └─ draft<br />
 └─ docs/             # exported figures/tables for poster</p>
 </section>
 </section>
@@ -599,9 +599,9 @@ When in doubt: protect participants first, document everything transparently and
 <li><p><strong>Zotero</strong> – reference manager with group libraries and web import.</p></li>
 <li><p><strong>R / Python</strong> – scripted analysis for reproducibility (JASP is also fine).</p></li>
 </ul>
-<p>Common Conceptual Pitfalls (and how to avoid them)
--**	Ambiguous variable names**. → Use a codebook, prefer snake_case when you name a variable.</p>
+<p>Common Conceptual Pitfalls (and how to avoid them)</p>
 <ul class="simple">
+<li><p><strong>Ambiguous variable names</strong>. → Use a codebook, prefer snake_case when you name a variable.</p></li>
 <li><p><strong>Results not reproducible on another computer</strong>. → Make sure this is justified and clearly tracked. Add a Disclaimer if you did not test this specific issue.</p></li>
 <li><p><strong>Unclear authorship</strong>. → Record credit roles from the start in the README file.</p></li>
 </ul>
