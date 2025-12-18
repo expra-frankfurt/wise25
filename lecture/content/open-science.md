@@ -2,7 +2,7 @@
 This page offers a practical guide to conducting open, transparent, and reproducible research from day one. It focuses on **what to do, when to do** it, and provides **ready‑to‑use templates** you can adopt immediately.
 
 ## A successful example: Open Science Framework (OSF)
-The [Open Science Framework](https://osf.io/) (OSF) is a free, open-source online platform developed by the Center for Open Science (COS, https://www.cos.io) that enables researchers to manage, document, share, and archive each stage of their research project — from planning and preregistration through data collection, analysis, preprints, and final [publication](https://pmc.ncbi.nlm.nih.gov/articles/PMC5370619/?utm_source=chatgpt.com). In essence, it offers a centralized “digital home” for all materials related to a scientific project: data, code, protocols, manuscripts, documentation.
+The [Open Science Framework](https://osf.io/) (OSF) is a free, open-source online platform developed by the [Center for Open Science](https://www.cos.io) (COS) that enables researchers to manage, document, share, and archive each stage of their research project — from planning and preregistration through data collection, analysis, preprints, and final [publication](https://pmc.ncbi.nlm.nih.gov/articles/PMC5370619/?utm_source=chatgpt.com). In essence, it offers a centralized “digital home” for all materials related to a scientific project: data, code, protocols, manuscripts, documentation.
 
 OSF fosters transparency and reproducibility by strongly supporting preregistration: researchers can timestamp and publicly register their study design and analysis plan before collecting or analyzing data. This practice helps to guard against problematic academic practices such as selective reporting or “p-hacking,” because deviations from the original plan remain **visible**. P-hacking, also termed [_Data dredging_](https://en.wikipedia.org/wiki/Data_dredging), refers to the practice of repeated statistical testing of results until a significant pattern is found, at the cost of a massive increase in false-positive rate. 
 
@@ -33,7 +33,7 @@ The core principles of Open Science are:
 Use the following as an example of your default timeline. The links refer to relevant site sections where available.
 
 1) Plan & Register (Weeks 3-4)
--	Find the EXPRA **project template** on LIFOS. Define team roles and enable versioning.
+-	Find the EXPRA **project template** on {doc}`lifos`. Define team roles and enable versioning.
 -	Write a **preregistration** (see {doc}`preregistration` section) that covers: research question, hypotheses, variables, sampling plan, exclusion rules, analysis plan, and data‑collection stopping rule (when you have enough data, normally this is pre-determined using a power analysis).
 -	Prepare a **data management plan** (DMP): file names, folder structure, backups, pseudonymisation.
 -	Draft **materials** (instructions, questionnaires, stimuli) and **pilot** them.
