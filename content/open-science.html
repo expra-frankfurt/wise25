@@ -393,7 +393,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
 </div></div>
       
     </div>
@@ -409,6 +411,21 @@ document.write(`
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#a-successful-example-open-science-framework-osf">A successful example: Open Science Framework (OSF)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#why-open-science-in-expra">Why Open Science in EXPRA?</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-expra-open-science-workflow-checklist">The EXPRA Open Science Workflow (checklist)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#good-better-best">Good → Better → Best</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#example-of-file-organisation">Example of File Organisation</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#practical-notes">Practical notes</a></li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -420,7 +437,175 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="open-science-principles-and-practices">
 <h1>Open Science Principles and Practices<a class="headerlink" href="#open-science-principles-and-practices" title="Permalink to this heading">#</a></h1>
-<p>Coming soon!</p>
+<p>This page offers a practical guide to conducting open, transparent, and reproducible research from day one. It focuses on <strong>what to do, when to do</strong> it, and provides <strong>ready‑to‑use templates</strong> you can adopt immediately.</p>
+<section id="a-successful-example-open-science-framework-osf">
+<h2>A successful example: Open Science Framework (OSF)<a class="headerlink" href="#a-successful-example-open-science-framework-osf" title="Permalink to this heading">#</a></h2>
+<p>The <a class="reference external" href="https://osf.io/">Open Science Framework</a> (OSF) is a free, open-source online platform developed by the Center for Open Science (COS, <a class="reference external" href="https://www.cos.io">https://www.cos.io</a>) that enables researchers to manage, document, share, and archive each stage of their research project — from planning and preregistration through data collection, analysis, preprints, and final <a class="reference external" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5370619/?utm_source=chatgpt.com">publication</a>. In essence, it offers a centralized “digital home” for all materials related to a scientific project: data, code, protocols, manuscripts, documentation.</p>
+<p>OSF fosters transparency and reproducibility by strongly supporting preregistration: researchers can timestamp and publicly register their study design and analysis plan before collecting or analyzing data. This practice helps to guard against problematic academic practices such as selective reporting or “p-hacking,” because deviations from the original plan remain <strong>visible</strong>. P-hacking, also termed <a class="reference external" href="https://en.wikipedia.org/wiki/Data_dredging"><em>Data dredging</em></a>, refers to the practice of repeated statistical testing of results until a significant pattern is found, at the cost of a massive increase in false-positive rate.</p>
+<p>Moreover, OSF allows flexibility: all your projects remain private while under development until they are read to be made public. You, the researcher, decide. Parts of the project can also stay embargoed for a period. Once public, projects and associated materials receive persistent identifiers (DOIs), enabling proper citation, long-term accessibility, and re-use by others. Through these features, OSF supports a shift from “final-paper only” thinking to a more life-cycle oriented view of scientific work, in which planning, methodology, data, analysis code and, importantly, also null or negative results produce shareable, citable research products.</p>
+<p>In doing so, OSF lowers practical and infrastructural barriers, it empowers researchers across disciplines and across countries to conduct more rigorous, sharable, and trustworthy science. Used properly, OSF can help make scientific research not only more open, but more credible and cumulative.</p>
+</section>
+<section id="why-open-science-in-expra">
+<h2>Why Open Science in EXPRA?<a class="headerlink" href="#why-open-science-in-expra" title="Permalink to this heading">#</a></h2>
+<p>Open practices are not extra work added to the experimental job, and only at the end. They constitute a workflow that saves time, prevents mistakes, strengthens your findings, and makes data available for others to use, saving money and in the case of animal studies, preventing cruelty.</p>
+<p>In EXPRA, adopting open practices will help you to:</p>
+<ul class="simple">
+<li><p><strong>Plan clearly</strong> (preregistration of an experiment forces you to clarify hypotheses, variables, and analysis pipeline).</p></li>
+<li><p><strong>Collaborate smoothly</strong> (everyone sees and updates the same files, versions, and decisions are instantly shared).</p></li>
+<li><p><strong>Reuse efficiently</strong> (Yourself in the future, as well as other teams, can reproduce and build on your work).</p></li>
+<li><p><strong>Communicate credibly</strong> (transparent reporting increases trust and visibility).</p></li>
+</ul>
+<p>The core principles of Open Science are:</p>
+<ol class="arabic simple">
+<li><p><strong>Transparency</strong> – Document what you did and why; share materials, data, and code whenever legally and ethically possible. (link to Nature data policy: <a class="reference external" href="https://www.nature.com/nature-portfolio/editorial-policies/reporting-standards">https://www.nature.com/nature-portfolio/editorial-policies/reporting-standards</a></p></li>
+<li><p><strong>Reproducibility</strong> – A competent researcher should be able to rerun your analysis and obtain the same results. Furthermore, since the introduction of Large Language Models, your data might be re-used by machines: <a class="reference external" href="https://www.nature.com/articles/sdata201618">https://www.nature.com/articles/sdata201618</a></p></li>
+<li><p><strong>Accessibility</strong> – When possible, share data using open rather than proprietary formats, in and stable repositories: <a class="reference external" href="https://opendataformat.github.io">https://opendataformat.github.io</a></p></li>
+<li><p><strong>Integrity</strong> – Follow ethical and data‑protection rules; be upfront about the uncertainty and limitations of your study.</p></li>
+<li><p><strong>Inclusivity and Credit</strong> – Make your work understandable and citable; credit all contributions fairly.</p></li>
+</ol>
+</section>
+<section id="the-expra-open-science-workflow-checklist">
+<h2>The EXPRA Open Science Workflow (checklist)<a class="headerlink" href="#the-expra-open-science-workflow-checklist" title="Permalink to this heading">#</a></h2>
+<p>Use the following as an example of your default timeline. The links refer to relevant site sections where available.</p>
+<ol class="arabic simple">
+<li><p>Plan &amp; Register (Weeks 3-4)</p></li>
+</ol>
+<ul class="simple">
+<li><p>Find the EXPRA <strong>project template</strong> on LIFOS. Define team roles and enable versioning.</p></li>
+<li><p>Write a <strong>preregistration</strong> (see <a class="reference internal" href="preregistration.html"><span class="doc">Preregistration</span></a> section) that covers: research question, hypotheses, variables, sampling plan, exclusion rules, analysis plan, and data‑collection stopping rule (when you have enough data, normally this is pre-determined using a power analysis).</p></li>
+<li><p>Prepare a <strong>data management plan</strong> (DMP): file names, folder structure, backups, pseudonymisation.</p></li>
+<li><p>Draft <strong>materials</strong> (instructions, questionnaires, stimuli) and <strong>pilot</strong> them.</p></li>
+</ul>
+<ol class="arabic simple" start="2">
+<li><p>Collect Data (Weeks 5–8)</p></li>
+</ol>
+<ul class="simple">
+<li><p>Use unique <strong>participant IDs for research data</strong>; never store direct identifiers (the participant’s real name, for example) with research data.</p></li>
+<li><p>Log all <strong>deviations</strong> from the preregistration plan in a <a class="reference external" href="http://DEVLOG.md">DEVLOG.md</a> or .txt (date + explanation).</p></li>
+<li><p>Keep <strong>raw data untouched</strong>; all preprocessing occurs via scripts creating a derived dataset.</p></li>
+</ul>
+<ol class="arabic simple" start="3">
+<li><p>Analyse Data (Weeks 9–10)</p></li>
+</ol>
+<ul class="simple">
+<li><p>Create <strong>scripts</strong> (Matlab, R, Python, or JASP .jasp file) that read raw/derived data and output tables/figures.</p></li>
+<li><p>Record <strong>software versions</strong> and random initializing seeds in scripts.</p></li>
+<li><p>Produce a draft <strong>report</strong> and a finalized <strong>poster</strong>.</p></li>
+</ul>
+<ol class="arabic simple" start="4">
+<li><p>Share &amp; Communicate (Weeks 11–end)</p></li>
+</ol>
+<ul class="simple">
+<li><p>Upload: materials, code, preregistration, and (de‑identified) data to <strong>LIFOS</strong>.</p></li>
+<li><p>Add clear <strong>licence</strong> file (see below).</p></li>
+<li><p>Link your <strong>poster/report</strong> to the repository; include a <strong>data/code availability statement</strong>.</p></li>
+</ul>
+<p>Minimum Requirements for EXPRA are:</p>
+<ul class="simple">
+<li><p>A <strong>time‑stamped preregistration</strong> created <strong>before</strong> data collection.</p></li>
+<li><p>A public project repository (LIFOS recommended) containing:</p></li>
+<li><p><a class="reference external" href="http://README.md">README.md</a> or a README.txt file describing the project and how to reproduce results.</p></li>
+<li><p><strong>Materials</strong> (stimuli, instructions, questionnaires, task scripts).</p></li>
+<li><p><strong>Analysis code</strong> that recreates results.</p></li>
+<li><p>A <strong>codebook</strong> describing variables and units.</p></li>
+<li><p>A <strong>de‑identified dataset</strong> or a documented reason why data cannot be shared.</p></li>
+<li><p><strong>Licence</strong> files for data, code, and materials.</p></li>
+<li><p>A <strong>reproducibility test</strong>: someone outside your team should be able to run your code and reproduce key numbers.</p></li>
+</ul>
+<p>Aim higher with the “Good → Better → Best” ladder below.</p>
+<section id="good-better-best">
+<h3>Good → Better → Best<a class="headerlink" href="#good-better-best" title="Permalink to this heading">#</a></h3>
+<div class="pst-scrollable-table-container"><table class="colwidths-auto table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Area</p></th>
+<th class="head"><p>Good</p></th>
+<th class="head"><p>Better</p></th>
+<th class="head"><p>Best</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Planning</p></td>
+<td><p>Simple preregistration on LIFOS</p></td>
+<td><p>Registered Report‑style preregistration (more detail)</p></td>
+<td><p>External feedback from Supervisor before locking preregistration</p></td>
+</tr>
+<tr class="row-odd"><td><p>Data</p></td>
+<td><p>De‑identified .csv uploaded</p></td>
+<td><p>FAIR metadata + codebook</p></td>
+<td><p>Full raw + preprocessed</p></td>
+</tr>
+<tr class="row-even"><td><p>Code</p></td>
+<td><p>Single analysis script</p></td>
+<td><p>Modular scripts</p></td>
+<td><p>Fully reproducible pipeline</p></td>
+</tr>
+<tr class="row-odd"><td><p>Reporting</p></td>
+<td><p>Data/code availability statements</p></td>
+<td><p>Reproducible manuscript (Quarto/Jupyter)</p></td>
+<td><p>Continuous integration (CI) reproduces figures on commit</p></td>
+</tr>
+<tr class="row-even"><td><p>Credit</p></td>
+<td><p>Author list in README</p></td>
+<td><p>Contributor Roles (CRediT)</p></td>
+<td><p>CITATION.cff + ORCID links, releases with changelog</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<section id="example-of-file-organisation">
+<h3>Example of File Organisation<a class="headerlink" href="#example-of-file-organisation" title="Permalink to this heading">#</a></h3>
+<p>project-root/
+├─ README.txt
+├─ LICENCE_DATA file (e.g., CC0 or CC BY 4.0)
+├─ CITATION file
+├─ DEVLOG.txt
+├─ data/
+│  ├─ raw/           # never edited by hand
+│  └─ preprocessed/       # produced by scripts
+├─ materials/        # stimuli, instructions, questionnaires
+├─ scripts/
+│  ├─ 00_packages.R  # Example
+│  ├─ 01_clean.R
+│  ├─ 02_analysis.R
+│  └─ 03_figures.R
+├─ reports/
+│  └─ draft
+└─ docs/             # exported figures/tables for poster</p>
+</section>
+</section>
+<section id="practical-notes">
+<h2>Practical notes<a class="headerlink" href="#practical-notes" title="Permalink to this heading">#</a></h2>
+<p>Licensing (what to choose and where)</p>
+<ul class="simple">
+<li><p><strong>Code</strong> → permissive licence such as <a class="reference external" href="https://opensource.org/license/mit">MIT</a> (for an easy reuse).</p></li>
+<li><p><strong>Data</strong> → <strong>CC0</strong> (public domain) or <strong>CC BY 4.0</strong> (requires attribution). If data cannot be public, include a DATA_AVAILABILITY.md or .txt.</p></li>
+<li><p><strong>Materials</strong> (stimuli, questionnaires, figures) → <strong>CC BY 4.0</strong> unless third‑party content prevents this.</p></li>
+<li><p>Put licences as separate files and <strong>state them in the README file</strong>.</p></li>
+</ul>
+<p>Ethical &amp; Data‑Protection Notes (GDPR‑compliant)</p>
+<ul class="simple">
+<li><p>Collect <strong>only</strong> data you need; explain purpose in the informed consent.</p></li>
+<li><p>Store identifiers separately from research data; use <strong>pseudonymisation</strong>.</p></li>
+<li><p>Share <strong>de‑identified</strong> data only; if not possible, share <strong>summary</strong> data + full code.</p></li>
+<li><p>Update your preregistration and repository with any <strong>protocol deviations</strong>.
+When in doubt: protect participants first, document everything transparently and share only what is safe and lawful.</p></li>
+</ul>
+<p>Tools we recommend</p>
+<ul class="simple">
+<li><p><strong>LIFOS</strong> – the data sharing platform of the Institute of Psychology, Goethe University Frankfurt.</p></li>
+<li><p><strong>OSF</strong> (Open Science Framework) – project hub, preregistration, files, DOIs.</p></li>
+<li><p><strong>GitHub/GitLab</strong> – version control for code and text; can mirror to OSF.</p></li>
+<li><p><strong>Zotero</strong> – reference manager with group libraries and web import.</p></li>
+<li><p><strong>R / Python</strong> – scripted analysis for reproducibility (JASP is also fine).</p></li>
+</ul>
+<p>Common Conceptual Pitfalls (and how to avoid them)
+-**	Ambiguous variable names**. → Use a codebook, prefer snake_case when you name a variable.</p>
+<ul class="simple">
+<li><p><strong>Results not reproducible on another computer</strong>. → Make sure this is justified and clearly tracked. Add a Disclaimer if you did not test this specific issue.</p></li>
+<li><p><strong>Unclear authorship</strong>. → Record credit roles from the start in the README file.</p></li>
+</ul>
+</section>
 <div class="toctree-wrapper compound">
 </div>
 </section>
@@ -479,6 +664,28 @@ document.write(`
             </div>
             
             
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#a-successful-example-open-science-framework-osf">A successful example: Open Science Framework (OSF)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#why-open-science-in-expra">Why Open Science in EXPRA?</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-expra-open-science-workflow-checklist">The EXPRA Open Science Workflow (checklist)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#good-better-best">Good → Better → Best</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#example-of-file-organisation">Example of File Organisation</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#practical-notes">Practical notes</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>
