@@ -99,6 +99,28 @@ project-root/
 │  └─ draft  
 └─ docs/             # exported figures/tables for poster  
 
+
+```
+project-root/
+├─ README.txt
+├─ LICENCE_DATA file (e.g., CC0 or CC BY 4.0)
+├─ CITATION file
+├─ DEVLOG.txt
+├─ data/
+│  ├─ raw/           # never edited by hand
+│  └─ preprocessed/       # produced by scripts
+├─ materials/        # stimuli, instructions, questionnaires
+├─ scripts/
+│  ├─ 00_packages.R  # Example
+│  ├─ 01_clean.R
+│  ├─ 02_analysis.R
+│  └─ 03_figures.R
+├─ reports/
+│  └─ draft
+└─ docs/             # exported figures/tables for poster
+
+```
+
 ## Practical notes 
 Licensing (what to choose and where)
 -	**Code** → permissive licence such as [MIT](https://opensource.org/license/mit) (for an easy reuse).
