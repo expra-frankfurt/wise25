@@ -24,4 +24,5 @@ parts:
     - file: content/visualization
     - file: content/poster
     - file: content/presentation
+    - file: general_information/poster-session
   - file: content/writing
