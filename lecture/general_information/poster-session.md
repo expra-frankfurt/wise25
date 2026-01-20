@@ -3,7 +3,7 @@
 A poster session will be held for all EXPRA groups, providing an opportunity for the student teams to present their research projects and discuss their results with fellow students and instructors. During the session, each group will present its work in the form of a scientific poster and will be available to answer questions and engage in discussions.
 
 **When?** 9 February 2026, 14:00–18:00  
-**Where?** Seminarpavillon, rooms SP 2.03 & 2.04
+**Where?** Nebengebäude IG-Farbenhaus NG 1.741a  
 
 <embed src="../_static/lageplan.pdf" width="100%" height="500px" type="application/pdf">
 
