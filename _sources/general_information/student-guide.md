@@ -214,19 +214,13 @@ automatically be taken care of by SONA.
 
 
 ### How do I collect the 10 E?
-To ensure that all groups get the chance to collect enough data for their experiments, each
-student is required to participate in experiments from other EXPRA groups (“collect 10 E”). To
-do this, you will receive a 6-digit number code at the beginning of EXPRA. In each EXPRA
-experiment (those identified with the “[E]” tag on SONA), you will be asked to enter this code
-to count towards the 10 E. At the end of the semester, we check that all students participated
-in EXPRA experiments and collected 10 E. Note that longer experiments and experiments
-taking place on campus will be rewarded with more Es than shorter experiments and
-experiments carried out online.
+To ensure that all groups get the chance to collect enough data for their studies, each student is required to participate in studies from other EXPRA groups (“collect 10 E”). To do this, you will receive a 6-digit number code at the beginning of EXPRA. In each EXPRA study (those identified with the “[E]” tag on SONA), you will be asked to enter this code to count towards the 10 E. At the end of the semester, we check that all students participated in EXPRA studies and collected 10 E. 
 
-Note that you will of course still receive credits (Versuchspersonenminuten) in addition to the
-“E” when you participate in EXPRA experiments. You can also participate in more EXPRA
-experiments if you still need to collect VPM. Note, however, that you will also have to
-participate in EXPRA studies even if you already finished collecting your 1800 VPM.
+Please note the following rules:
+- You have to collect 10 E in the semester you are completing the Expra. Previous participation in Expra studies does not count towards the 10 E, unless you finished the Expra before (i.e., completed all Studienleistungen) and only have to write the Expra report. 
+- Participation in your own Expra study does not count towards the 10 E.
+- Longer studies and studies carried out on campus will be rewarded with more Es than shorter studies and studies carried out online.
+- You will still receive credits (Versuchspersonenminuten) in addition to the “E” when you participate in EXPRA studies. You can also participate in more EXPRA studies if you still need to collect VPM. Note, however, that you will also have to participate in EXPRA studies even if you already finished collecting your 1800 VPM.
 
 
 
