@@ -31,7 +31,7 @@ On this website, you will find information on the following topics:
 * [Research Communication and Presentation](../content/communication)  
    How to communicate and present your findings?  
    Including: What to consider when designing and presenting a scientific poster?
-* [Research Communication and Presentation](../content/writing)  
+* [Scientific Writing](../content/writing)  
   How to write your scientific report?
 
 And some overarching considerations: 
